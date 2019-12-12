@@ -1,0 +1,77 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               Neural & ML Group
+usename4navbar:     False   #Allows for a different name to be used in the navigation bar (see navbar.html)
+title:              "Neural & Machine Learning Group"
+description:        "We aim to understand how brains learn via machine learning."
+
+
+# URL
+url:                https://neuralml.github.io
+baseurl:
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  #- name:           "about"
+  #  href:           "/about" 
+  #- name:           "research"
+  #  href:           "/research"
+  - name:           "people"
+    href:           "/people"
+  - name:           "publications"
+    href:           "/publications"
+  #- name:           "meetings"
+  #  href:           "/meetings"    
+  - name:           "news"
+    href:           "/news"
+  - name:           "teaching"
+    href:           "/teaching"    
+  - name:           "et al"
+    href:           "/etal"    
+  #- name:           "join us"
+  #  href:           "https://bristolcnu.github.io/joinus"
+  
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Neural &amp; ML Group</title>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>New NML website launched</title>
+        <description>&lt;p&gt;We have launched a new website. Many thanks to the &lt;a href=&quot;http://kordinglab.com&quot;&gt;Kording Lab&lt;/a&gt; for the template!&lt;/p&gt;
+</description>
+				<pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/2019/12/12/new_website.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/12/12/new_website.html</guid>
+			</item>
+		
+			<item>
+				<title>New prespective out on deep neuroscience</title>
+        <description>&lt;p&gt;New &lt;a href=&quot;https://www.nature.com/articles/s41593-019-0520-2&quot;&gt;perspective out&lt;/a&gt; in Nature Neuroscience on deep learning as a framework for neuroscience.&lt;/p&gt;
+</description>
+				<pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/2019/10/28/DeepLearning_perspective.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/10/28/DeepLearning_perspective.html</guid>
+			</item>
+		
+			<item>
+				<title>Samia got (short) paper accepted at the RL NeurIPS workshop</title>
+        <description>&lt;p&gt;Samia (MSc student) had a short paper accepted at the &lt;a href=&quot;https://sites.google.com/view/biologicalandartificialrl&quot;&gt;RL NeurIPS workshop&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 11 Sep 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2019/09/11/Samia_workshop.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/09/11/Samia_workshop.html</guid>
+			</item>
+		
+			<item>
+				<title>New review on model-based synaptic transmission inference</title>
+        <description>&lt;p&gt;Our review on model-based synaptic transmission inference &lt;a href=&quot;https://doi.org/10.3389/fnsyn.2019.00021&quot;&gt;now out&lt;/a&gt; in Frontiers in Synaptic Neurosience [Special Issue on Methods for Synaptic Interrogation].&lt;/p&gt;
+</description>
+				<pubDate>Thu, 22 Aug 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2019/08/22/Frontiers_review.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/08/22/Frontiers_review.html</guid>
+			</item>
+		
+			<item>
+				<title>NeurIPS 2019 workshop on biological and artificial reinforcement learning</title>
+        <description>&lt;p&gt;Together with reseachers at Imperial College London, McGill University, Deepmind, MILA and others we are organising a NeurIPS workshop on biological and artificial reinforcement learning. More info &lt;a href=&quot;https://sites.google.com/view/biologicalandartificialrl&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 11 Aug 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2019/08/11/NeurIPS_workshop.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/08/11/NeurIPS_workshop.html</guid>
+			</item>
+		
+			<item>
+				<title>Rui kayaks Kenneth and Avon Canal for AvonNeedsTrees</title>
+        <description>&lt;p&gt;Rui kayaked the Kenneth and Avon canal (~90 miles) for &lt;a href=&quot;https://crowdfunder.co.uk/your-world-needs-trees&quot;&gt;AvonNeedsTrees&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 05 Aug 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2019/08/05/rui_kayak.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/08/05/rui_kayak.html</guid>
+			</item>
+		
+			<item>
+				<title>Milton had (short) paper accepted at CCN</title>
+        <description>&lt;p&gt;Milton had (short) paper accepted at the Computational Cognitive Neuroscience Conference on gated-RNNs for working memory.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 01 Aug 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2019/08/01/miltonCCN.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/08/01/miltonCCN.html</guid>
+			</item>
+		
+			<item>
+				<title>David passed his PhD viva with minor corrections!</title>
+        <description>&lt;p&gt;David passed his PhD viva at the University of Oxford with minor corrections, congrats!&lt;/p&gt;
+</description>
+				<pubDate>Thu, 04 Jul 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2019/07/04/DavidViva.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/07/04/DavidViva.html</guid>
+			</item>
+		
+			<item>
+				<title>William Greedy awarded EPSRC studentship​</title>
+        <description>&lt;p&gt;After a MSc in Machine Learning and CompNeuro at the University of Edinburgh, William Greedy, was just awarded a EPSRC studentship to do his PhD in our group!​​​​&lt;/p&gt;
+</description>
+				<pubDate>Mon, 03 Jun 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2019/06/03/Will_EPSRC_Grant.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/06/03/Will_EPSRC_Grant.html</guid>
+			</item>
+		
+			<item>
+				<title>Anne-Lene does summer research visit with Wei Ji Ma (NYU)</title>
+        <description>&lt;p&gt;Anne-Lene is spending the summer at New York University working with Wei Ji Ma.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 02 Jun 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2019/06/02/AnneLene_NYU.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/06/02/AnneLene_NYU.html</guid>
+			</item>
+		
+			<item>
+				<title>Bristol CNU launched new website</title>
+        <description>&lt;p&gt;The Bristol Computational Neuroscience Unit have launched a new website. Many thanks to the &lt;a href=&quot;http://kordinglab.com&quot;&gt;Kording Lab&lt;/a&gt; for the template!&lt;/p&gt;
+</description>
+				<pubDate>Sat, 01 Jun 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2019/06/01/BCU_website.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/06/01/BCU_website.html</guid>
+			</item>
+		
+			<item>
+				<title>Posters accepted at UK Neural Computation 2019</title>
+        <description>&lt;p&gt;Milton, Raymond and Callum had two posters accepted at the UK Neural Computation 2019 meeting.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 15 May 2019 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2019/05/15/UKCompneuro_posters.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/05/15/UKCompneuro_posters.html</guid>
+			</item>
+		
+			<item>
+				<title>Joe Pemberton awarded EPSRC studentship​</title>
+        <description>&lt;p&gt;After a MSc in Machine Learning and Compneuro at the University of Edinburgh, Joe Pemberton, was just awarded a EPSRC studentship to do his PhD in our group!​​​​&lt;/p&gt;
+</description>
+				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/2019/03/10/Joe_EPSRC_Grant.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/03/10/Joe_EPSRC_Grant.html</guid>
+			</item>
+		
+			<item>
+				<title>Raymond with poster accepted at COSYNE 2019</title>
+        <description>&lt;p&gt;Raymond got a poster accepted at COSYNE’2019, in sweet Lisbon, Portugal.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/2019/01/10/Ray_Cosyne.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/01/10/Ray_Cosyne.html</guid>
+			</item>
+		
+			<item>
+				<title>New review on the computational roles of plastic probabilistic synapses</title>
+        <description>&lt;p&gt;Our review on the computational roles of plastic probabilistic synapses is &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0959438818301028&quot;&gt;now out&lt;/a&gt; in Current Opinion in Neurobiology (w/ Llera-Montero M and Sacramento J)&lt;/p&gt;
+</description>
+				<pubDate>Mon, 10 Sep 2018 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/2018/09/10/CONB_review.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/09/10/CONB_review.html</guid>
+			</item>
+		
+	</channel>
+</rss>

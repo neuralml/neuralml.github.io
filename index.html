@@ -1,0 +1,120 @@
+---
+layout: default
+---
+
+<div class='container'>
+    <header class="masthead text-center">
+      <!--<div style="width:1px; height:1px; visibility:hidden; overflow:hidden">
+        <img class='img-responsive center-block' src="/images/people/klab_chicago_2.jpg" />
+      </div>
+      <img class='img-responsive center-block' src="/images/people/klab_chicago.jpg" width="70%" height="70%" onmouseover="this.src='/images/people/klab_chicago_2.jpg'" width="70%" height="70%" onmouseout="this.src='/images/people/klab_chicago.jpg'" width="70%" height="70%" />-->
+      <img class='img-responsive center-block' src="/images/others/background2.png" width="100%" height="100%"/>
+
+      <p>
+      <h1>Neural &amp; Machine Learning Group</h1>
+
+      <span style="display: block; margin-bottom: 1em"></span>
+      <font size=4>
+        <i>Animals have the ability to solve highly complex tasks. How do we do it?</i>
+        <span style="display: block; margin-bottom: -2em; margin-top: -1em"><img class='img-responsive center-block' src="/images/others/nml_img.png" width="30%" height="30%" style="opacity:0.6;filter:alpha(opacity=60)"/></span>
+
+        <!-- <div class="content list people" style="text-align: left;">
+  <div class="list-item-people" style="width: 49%">
+    <p class="list-post-title">
+      <center>
+          <style>.embed-container { position: relative; margin-bottom: -50px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 75%; max-height: 85%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 80%; height: 70%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/JB7jSFeVz1U' frameborder='0' allowfullscreen></iframe></div>
+        </center>      
+      </p>    
+   </div>
+   <div class="list-item-people" style="width: 49%">
+      <p class="list-post-title">
+         <center>
+          <style>.embed-container { position: relative; margin-bottom: -50px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 75%; max-height: 85%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 80%; height: 70%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/JB7jSFeVz1U' frameborder='0' allowfullscreen></iframe></div>
+        </center>
+       </p>
+    </div>
+</div>-->
+
+
+        ​Our group seeks to understand the principles underlying learning in the brain. To this end, we bring neural and machine learning together across multiple levels of analysis. We collaborate with experimental and theoretical neuroscience, and machine learning groups in the UK and internationally.</font><br><br>
+        
+        <font size=3>
+          We are part of the <a href=http://bristolcnu.github.io/ target="_blank">Bristol Computational Neuroscience Unit</a>, <a href="https://www.bristol.ac.uk/engineering/" target="_blank">Faculty of Engineering</a> and interact closely with the <a href="http://www.bristol.ac.uk/neuroscience/">Bristol Neuroscience</a> and machine learning communities.</font>
+
+        <br>
+
+        
+        </header>
+        <hr>
+        <header class="masthead text-left">
+        <font size=4><b>Latest news:</b></font>
+        <div style="line-height:50%;">
+          <br>
+        </div>
+        <div class="content list">
+          {% for post in site.posts %}
+            {% if post.categories contains 'news' %}
+            <div class="list-item">
+            <p class="list-post-title">
+                <small>{{post.date | date: "%d/%m/%y" }}</small>: <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                </p>
+            </div>
+            {% endif %}
+            {% if forloop.index0 == 3 %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      </header>
+      <hr>
+        <!--<header class="masthead text-right">
+        Join our mailing list:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<form method="POST" action="https://formspree.io/conor.houghton@bristol.ac.uk">
+  <input type="email" name="email" placeholder="Your email">&nbsp;&nbsp;&nbsp;
+  <textarea name="message" style="display:none;" placeholder="Please add me to the CNU mailing list.">Please add me to the CNU mailing list.</textarea>
+  <button type="submit">Send</button>
+</form><br></header>-->
+
+
+<div class="content list people" style="text-align: left;">
+  <div class="list-item-people" style="width: 50%">
+    <p class="list-post-title">
+      <header class="masthead text-left"><font size=4><b>Location</b></font>
+        <div style="line-height:50%;">
+          <br>
+        </div>
+        <div class="content list">
+          We are based in the beautiful Clifton campus as part of the <a href="https://www.bristol.ac.uk/engineering/school-sceem/" target="_blank">School of Computer Science, Electrical and Electronic Engineering, and Engineering Maths</a> (SCEEM), <a href="https://www.bristol.ac.uk/engineering/" target="_blank">Faculty of Engineering</a>, <a href="http://www.bristol.ac.uk" target="_blank">University of Bristol</a>.<br> <br>
+
+          <b>Neural & Machine Learning Group</b><br>
+          <i>Bristol Computational Neuroscience Unit</i><br>
+          Merchant Venturers Building<br>
+          Woodland Road<br>
+          BS8 1UB, Bristol<br>
+          United Kingdom
+        </div>
+      </header>
+      </p>    
+   </div>
+   <div class="list-item-people" style="width: 45%">
+      <p class="list-post-title">
+         <iframe width="120%" height="195px" id="gmap_canvas" src="https://maps.google.com/maps?q=Merchant%20Venturers%20Building%20%20%20%20%20%20%20%20%20%20%20Woodland%20Road%20Bristol%20%20%20%20%20%20%20%20%20%20%20BS8%201UB&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><style>.mapouter{position:relative;text-align:right;height:100%;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:100%;width:100%;}</style>
+       </p>
+    </div>
+</div>
+
+
+
+
+      </header>
+
+      <hr>      
+      {% include footer.html %}
+
+
+    <!--<a class="twitter-timeline" href="https://twitter.com/BristolCNU" data-widget-id="695051708246941697">Tweets by @BristolCNU</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>-->
+
+</div>
+
+
