@@ -1,5 +1,5 @@
 ---
-title: 
+title: Neural & ML Group
 permalink: /etal/
 ---
 
