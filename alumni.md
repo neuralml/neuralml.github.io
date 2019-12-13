@@ -82,7 +82,7 @@ permalink: /people/alumni
 - `Raymond Chua` [Visiting MSc; Technical University of Munich; now a visiting PhD student]
 - `Ellis Pridgeon` [MEng]
 - `Jun Zhou` [MSc]
-- `Callum Macmillan`, [BSc]
+- `Callum Macmillan` [BSc]
 <hr>
 
 {% include footer.html %}
