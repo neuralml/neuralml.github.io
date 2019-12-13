@@ -1,6 +1,6 @@
 ---
 title: Neural & ML Group
-permalink: /people/
+permalink: /team/
 ---
 
 {% assign people_sorted = site.people | sort: "joined" %}
