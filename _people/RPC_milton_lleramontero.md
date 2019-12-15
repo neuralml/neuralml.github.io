@@ -2,7 +2,7 @@
 name: Milton Llera-Montero
 position: gradstudent
 avatar: Milton_LleraMontero.png
-joined: 3_2018
+joined: 2018
 affiliation: [w/ Jeff Bowers (EP)]
 ---
 

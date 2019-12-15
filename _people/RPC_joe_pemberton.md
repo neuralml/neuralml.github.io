@@ -2,7 +2,7 @@
 name: Joe Pemberton
 position: gradstudent
 avatar: Joe_Pemberton.png
-joined: 3_2019
+joined: 2019
 affiliation: 
 ---
 

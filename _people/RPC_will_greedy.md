@@ -2,7 +2,7 @@
 name: Will Greedy
 position: gradstudent
 avatar: 
-joined: 1_2020
+joined: 2020
 affiliation: 
 ---
 

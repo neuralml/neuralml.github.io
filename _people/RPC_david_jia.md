@@ -2,7 +2,7 @@
 name: David Jia
 position: postdoc
 avatar: DavidJia.png
-joined: 3_2015
+joined: 2015
 affiliation: "[visitor]"
 ---
 

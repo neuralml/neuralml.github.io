@@ -2,7 +2,7 @@
 name: Heng Wei Zhu
 position: gradstudent
 avatar: Heng_WeiZhu.png
-joined: 3_2019
+joined: 2019
 affiliation: [w/ Jack Mellor (PPN)]
 ---
 
