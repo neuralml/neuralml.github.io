@@ -74,7 +74,7 @@ permalink: /team/
 - `Priyanka Sukumaran` [WT Neural Dynamics PhD rotation; w/ Paul Anastasiades]
 - `Dabal Pedamonti` [Farscope PhD rotation; w/ Nathan Lepora]
 - `Can Liu` [CS MEng]
-- `Daniel Davies` [CS MEng]
+- `Daniel Davies` [CS MEng; w/ Jane Memmott]
 - `Abdullah Khwaja` [CS BSc]
 - `Martin Dimitrov` [CS BSc]
 - `Andrei Bogdan` [CS BSc]
