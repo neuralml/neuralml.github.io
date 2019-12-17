@@ -72,11 +72,13 @@ permalink: /team/
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
 - `Priyanka Sukumaran` [WT Neural Dynamics PhD rotation]
-- `Can Liu` [MEng]
-- `Daniel Davies` [MEng]
-- `Abdullah Khwaja` [BSc]
-- `Martin Dimitrov` [BSc]
-- `Andrei Bogdan` [BSc]
+- `Dabal Pedamonti` [Farscope PhD rotation]
+- `Can Liu` [CS MEng]
+- `Daniel Davies` [CS MEng]
+- `Abdullah Khwaja` [CS BSc]
+- `Martin Dimitrov` [CS BSc]
+- `Andrei Bogdan` [CS BSc]
+- `Alfred Brown` [EngMath MEng]
 <hr>
 <div class="pos_header">
 <h3>Collaborators</h3>
