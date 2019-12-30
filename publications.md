@@ -128,7 +128,7 @@ _Hippocampal population representations in reinforced continual learning_<br>
 Mohinta S, Ciocchi S\* and Costa RP\* [\* co-senior author]<br>
 Workshop on Biological and Artificial Reinforcement Learning, NeurIPS, Montreal, Dec 2019
 
-_Does subtractive gating improves generalization in working memory tasks?_<br>
+_Does subtractive gating improve generalization in working memory tasks?_<br>
 Llera-Montero M, Malhotra G, Bowers J\* and Costa RP\* [\* co-senior author]<br>
 Cognitive Computational Neuroscience, Berlin, UK, Sept 2019
 
