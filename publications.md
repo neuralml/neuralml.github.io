@@ -77,7 +77,7 @@ Costa RP, Sjöström PJ and van Rossum MCW<br>
 Frontiers in Computational Neurosci. 7:75, 2013 <br>
 [[code/data](http://modeldb.yale.edu/149914)]
 
-[_How to train a neuron_](http://dx.doi.org/10.7554/eLife.00491) [Insight on [Pawlak et al. eLife (2013)](http://dx.doi.org/10.7554/eLife.00012)<br>
+[_How to train a neuron_](http://dx.doi.org/10.7554/eLife.00491) [Insight on [Pawlak et al. eLife (2013)](http://dx.doi.org/10.7554/eLife.00012)]<br>
 Costa RP, Watt AJ and Sjöström PJ<br>
 eLife; 2e00491 2013
 
