@@ -11,9 +11,9 @@ The brain is the most remarkable learning and information processing system that
 
 <hr>
 
-#### Introduction to Data Science  (aka SPS)
+#### Introduction to Data Science (aka SPS)
 _University of Bristol (2019-)_<br>
-[`Github repo`](https://uob-coms21202.github.io/COMS21202.github.io/) (old repo)
+[`Github repo`](https://uob-coms21202.github.io/COMS21202.github.io/)
 
 ​This unit seeks to acquaint students with the fundamental aspects of processing digital data, presented in the context of concrete examples from applications in computer vision, graphics, speech, audio, machine learning and data mining. Particular emphasis is placed on the importance of representation and modelling. Taught together with Laurence Aitchison and Majid Mirmehdi.
 
