@@ -79,6 +79,7 @@ permalink: /team/
 - `Martin Dimitrov` [CS BSc]
 - `Andrei Bogdan` [CS BSc]
 - `Alfred Brown` [EngMath MEng; w/ Nathan Lepora]
+- `Samia Mohinta` [visiting RA; w/ Stephane Ciocchi]
 <hr>
 <div class="pos_header">
 <h3>Collaborators</h3>

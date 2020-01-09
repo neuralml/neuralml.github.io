@@ -77,12 +77,14 @@ permalink: /people/alumni
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
 - <b>2018/2019<b>:
-- `Ellen Boven` [WT Neural Dynamics Program, with Richard Apps; now a PhD student]
-- `Heng Wei Zhu` [WT Neural Dynamics Program, with Jack Mellor; now a PhD student]
+- `Ellen Boven` [WT Neural Dynamics Program, w/ Richard Apps; now a PhD student]
+- `Heng Wei Zhu` [WT Neural Dynamics Program, w/ Jack Mellor; now a PhD student]
+- `Samia Mohinta` [Advanced CS MSc w/ Stephane Ciocchi; now visiting RA]
+- `Ruben Powar` [Advanced CS MSc]
 - `Raymond Chua` [Visiting MSc; Technical University of Munich; now a visiting PhD student]
-- `Ellis Pridgeon` [MEng]
-- `Jun Zhou` [MSc]
-- `Callum Macmillan` [BSc]
+- `Ellis Pridgeon` [CS MEng]
+- `Jun Zhou` [CS MSc]
+- `Callum Macmillan` [CS BSc]
 <hr>
 
 {% include footer.html %}
