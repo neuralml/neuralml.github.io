@@ -137,11 +137,11 @@ _Robust learning with subtractive recurrent neural networks_<br>
 Llera-Montero M, Malhotra G, Bowers J\* and Costa RP\* [\* co-senior author]<br>
 UK Neural Computation meeting, Nottingham, UK, July 2019
 
-_Efficient replay memory through sensory adaptation_<br>
+_Efficient memory replay through sensory adaptation_<br>
 MacMillan C, Chua R, Jia DW and Costa RP<br>
 UK Neural Computation meeting, Nottingham, UK, July 2019
 
-_Efficient replay memory through sensory adaptation_<br>
+_Efficient memory replay through sensory adaptation_<br>
 Chua R, Jia D and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Portugal, Mar 2019
 
