@@ -75,6 +75,7 @@ permalink: /team/
 - `Dabal Pedamonti` [Farscope PhD rotation; w/ Nathan Lepora]
 - `Can Liu` [CS MEng]
 - `Daniel Davies` [CS MEng; w/ Jane Memmott]
+- `Graciela Putri` [CS MSc Conv]
 - `Abdullah Khwaja` [CS BSc]
 - `Martin Dimitrov` [CS BSc]
 - `Andrei Bogdan` [CS BSc]
