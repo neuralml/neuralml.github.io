@@ -11,7 +11,7 @@ The brain is the most remarkable learning and information processing system that
 
 <hr>
 
-#### Introduction to Data Science (aka SPS)
+#### Introduction to Machine Learning (aka Symbols, Patterns and Signals)
 _University of Bristol (2019-)_<br>
 [`Github repo`](https://uob-coms21202.github.io/COMS21202.github.io/)
 
