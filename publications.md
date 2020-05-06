@@ -12,7 +12,7 @@ permalink: /publications/
 
 <!--[Google scholar citations profile]().-->
 
-
+<hr>
 
 ### Journals and peer-reviewed proceedings
 
