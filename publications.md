@@ -14,22 +14,6 @@ permalink: /publications/
 
 
 
-<hr>
-
-### Under review/preprints
-
-_Developmental control of excitation-inhibition balance_<br>
-Jia DW, Costa RP\* and Vogels TP\* [\* equal contrib.]<br>
-
-[_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)<br>
-Sacramento J, Costa RP, Bengio Y and Senn W<br>
-arXiv:1801.00062
-
-[_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/450825v1)<br>
-Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
-bioRxiv:450825
-
-
 ### Journals and peer-reviewed proceedings
 
 
@@ -121,6 +105,25 @@ Hervás R, Costa RP, Costa H, Gervás P and Pereira FC<br>
 
 
 <hr>
+
+### Under review/preprints
+
+_Developmental control of excitation-inhibition balance_<br>
+Jia DW, Costa RP\* and Vogels TP\* [\* equal contrib.]<br>
+
+[_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)<br>
+Sacramento J, Costa RP, Bengio Y and Senn W<br>
+arXiv:1801.00062
+
+[_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/450825v1)<br>
+Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
+bioRxiv:450825
+
+<hr>
+
+
+
+
 
 ### Peer-reviewed conference/workshop posters
 
