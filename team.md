@@ -89,11 +89,11 @@ permalink: /team/
 - non-exhaustive:
 - `Jack Mellor`, `Jeff Bowers` and `Richard Apps` [Neuro @ University of Bristol, UK]
 - `Nathan Lepora`, `Cian O'Donnell`, `Conor Houghton` and `Laurence Aitchison` [CNU @ Bristol, UK]
-- `Tim Vogels` [University of Oxford, UK]
+- `Tim Vogels`,`Nigel Emptage` [University of Oxford, UK]
 - `Nando de Freitas` [Google Deepmind, UK]
 - `Walter Senn`, `Stephane Ciocchi​` and `Jean-Pascal Pfister` [University of Bern, Switzerland]
 - `Joao Sacramento` [ETH, Switzerland]
-- `Yoshua Bengio` [University of Montreal, Canada]
+- `Yoshua Bengio` [MILA; University of Montreal, Canada]
 - `Rob Froemke` [New York University, US]
 
 
