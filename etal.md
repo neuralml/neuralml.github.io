@@ -128,6 +128,8 @@ We share the code of (mostly) finished projects on our [Github account](https://
 
 ### Talks
 
+- Cerebellum as a brain-wide decoupling machine, Alergic (Artificial life seminars), University of Sussex, June 2020
+- Invited talk, UK Neural Computation Meeting, University of Sheffield, June 2020 [moved to 2021]
 - Towards powerful learning in cortical circuits, Computational Neuroscience meeting, Claudia Clopath lab, Imperial College London, May 2019
 - Powerful learning in cortical circuits, Brain and Machine Seminar/Neural Dynamics Seminar/CS Seminar, University of Bristol, Mar 2019
 - Local and global synaptic credit assignment, Computational Neuroscience Seminar, CBL, University of Cambridge, Jan 2019
