@@ -19,6 +19,14 @@ _University of Bristol (2020-)_<br>
 
 <hr>
 
+#### Mathematics for Computer Science A [COMS10014]
+_University of Bristol (2020-)_<br>
+[`Github repo`](https://cs-uob.github.io/COMS10014/)
+
+​This unit and its companion Mathematics B teach you the basic mathematics that you will need in your Computer Science degree. The topics have been selected based on the needs of units in later years linked to some of our research areas, for example algorithms, machine learning, data science or computational neuroscience as well as topics in statistics that will be of interest to many students when they perform experiments or evaluations in their final project. Taught together with Conor Houghton, Kerstin Eder and David Bernhard.
+
+<hr>
+
 #### Symbols, Patterns and Signals [aka Data science for CS; COMS21202]
 _University of Bristol (2019-2020)_<br>
 [`Github repo`](https://uob-coms21202.github.io/COMS21202.github.io/)
