@@ -11,8 +11,16 @@ The brain is the most remarkable learning and information processing system that
 
 <hr>
 
-#### Introduction to Machine Learning (aka Symbols, Patterns and Signals)
-_University of Bristol (2019-)_<br>
+#### Machine Learning
+_University of Bristol (2020-)_<br>
+[`Github repo`](https://uob-coms30035.github.io)
+
+​This unit seeks to acquaint students with machine learning algorithms which are important in many modern data science applications. We cover topics such as kernel Machines, probabilistic inference, neural networks, PCA/ICA, HMMs and emsemble models. Taught together with James Cussens and Edwin Simpson.
+
+<hr>
+
+#### Symbols, Patterns and Signals (aka Data science for CS)
+_University of Bristol (2019-2020)_<br>
 [`Github repo`](https://uob-coms21202.github.io/COMS21202.github.io/)
 
 ​This unit seeks to acquaint students with the fundamental aspects of processing digital data, presented in the context of concrete examples from applications in computer vision, graphics, speech, audio, machine learning and data mining. Particular emphasis is placed on the importance of representation and modelling. Taught together with Laurence Aitchison and Majid Mirmehdi.
@@ -20,7 +28,7 @@ _University of Bristol (2019-)_<br>
 <hr>
 
 #### Computational Neuroscience
-_University of Bristol (2018-)_<br>
+_University of Bristol (2018-2019)_<br>
 [`Github repo`](https://coms30127.github.io/)
 
 There is a growing need to describe with computational models the growing datasets that neuroscience is producing. This unit teaches the fundamentals of computational modelling in neuroscience (e.g. neuron and synaptic models). Contribute together with Conor Houghton, Cian O'Donnell and Laurence Aitchison.
