@@ -3,7 +3,7 @@ title: Neural & ML Group
 permalink: /teaching/
 ---
 
-#### Information Processing & the Brain
+#### Information Processing & the Brain [COMSM0075]
 _University of Bristol (2018-)_<br>
 [`Github repo`](https://comsm0034.github.io/)
 
@@ -11,7 +11,7 @@ The brain is the most remarkable learning and information processing system that
 
 <hr>
 
-#### Machine Learning
+#### Machine Learning [COMS30035]
 _University of Bristol (2020-)_<br>
 [`Github repo`](https://uob-coms30035.github.io)
 
@@ -19,7 +19,7 @@ _University of Bristol (2020-)_<br>
 
 <hr>
 
-#### Symbols, Patterns and Signals (aka Data science for CS)
+#### Symbols, Patterns and Signals [aka Data science for CS; COMS21202]
 _University of Bristol (2019-2020)_<br>
 [`Github repo`](https://uob-coms21202.github.io/COMS21202.github.io/)
 
@@ -27,7 +27,7 @@ _University of Bristol (2019-2020)_<br>
 
 <hr>
 
-#### Computational Neuroscience
+#### Computational Neuroscience [COMS30127]
 _University of Bristol (2018-2019)_<br>
 [`Github repo`](https://coms30127.github.io/)
 
