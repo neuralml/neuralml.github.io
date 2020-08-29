@@ -15,7 +15,7 @@ The brain is the most remarkable learning and information processing system that
 _University of Bristol (2020-)_<br>
 [`Github repo`](https://uob-coms30035.github.io)
 
-​This unit seeks to acquaint students with machine learning algorithms which are important in many modern data science applications. We cover topics such as kernel Machines, probabilistic inference, neural networks, PCA/ICA, HMMs and emsemble models. Taught together with James Cussens and Edwin Simpson.
+​This unit seeks to acquaint students with machine learning algorithms which are important in many modern data and computer science applications. We cover topics such as kernel machines, probabilistic inference, neural networks, PCA/ICA, HMMs and emsemble models. Taught together with James Cussens and Edwin Simpson.
 
 <hr>
 
