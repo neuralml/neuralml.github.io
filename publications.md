@@ -129,6 +129,10 @@ bioRxiv:450825
 
 _Hippocampal population representations in reinforced continual learning_<br>
 Mohinta S, Ciocchi S\* and Costa RP\* [\* co-senior author]<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Denver, USA, Feb 2020
+
+_Hippocampal population representations in reinforced continual learning_<br>
+Mohinta S, Ciocchi S\* and Costa RP\* [\* co-senior author]<br>
 Workshop on Biological and Artificial Reinforcement Learning, NeurIPS, Montreal, Dec 2019
 
 _Does subtractive gating improve generalization in working memory tasks?_<br>
