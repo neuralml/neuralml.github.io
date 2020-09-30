@@ -139,7 +139,6 @@ _Does subtractive gating improve generalization in working memory tasks?_<br>
 Llera-Montero M, Malhotra G, Bowers J\* and Costa RP\* [\* co-senior author]<br>
 Cognitive Computational Neuroscience, Berlin, UK, Sept 2019
 
-
 _Robust learning with subtractive recurrent neural networks_<br>
 Llera-Montero M, Malhotra G, Bowers J\* and Costa RP\* [\* co-senior author]<br>
 UK Neural Computation meeting, Nottingham, UK, July 2019
