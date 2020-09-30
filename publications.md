@@ -179,6 +179,10 @@ Computational and Systems Neuroscience Meeting (CoSyNe), Salt Lake City, Utah, U
 
 ### Conference posters
 
+_Deep Generative Models as perceptual front-ends for decision-making_<br>
+Montero ML, Costa RP, Bowers J, Ludwig C, Malhotra G<br>
+Mathpsych/ICCM, Virtual meeting, 2020
+
 _Pre- and postsynaptically expressed spike-timing-dependent plasticity contribute differentially to neural learning_<br>
 Mizusaki BEP, Li SSY, Costa RP, and Sjöström PJ<br>
 Society for Neuroscience, San Diego, USA, Nov 2016
