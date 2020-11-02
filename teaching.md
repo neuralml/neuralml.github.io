@@ -5,7 +5,7 @@ permalink: /teaching/
 
 #### Information Processing & the Brain [COMSM0075]
 _University of Bristol (2018-)_<br>
-[`Github repo`](https://comsm0034.github.io/)
+[`Github repo`](https://comsm0075.github.io/)
 
 The brain is the most remarkable learning and information processing system that we know of. In this unit we teach information and statistical theories of the brain, different learning paradigms in neuroscience (unsupervised learning, supervised learning, reinforcement learning and deep learning) and advanced data analysis methods. Taught together with Conor Houghton and Cian O'Donnell.
 
