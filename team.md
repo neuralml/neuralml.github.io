@@ -4,12 +4,12 @@ permalink: /team/
 ---
 
 {% assign people_sorted = site.people | sort: "joined" %}
-{% assign people_array = "pi|gradstudent|others" | split: "|" %}
+{% assign people_array = "pi|postdoc|gradstudent|others" | split: "|" %}
 
 
 <!--
   {% assign people_array = "pi|postdoc|gradstudent|others" | split: "|" %}
-
+  
 {% assign people_sorted = site.people | sort: "joined" %}
 <ul>
 {% for y in yearsSorted %}
@@ -24,13 +24,12 @@ permalink: /team/
 {% endfor %}
 </ul>-->
 
-<!--{% if item == 'postdoc' %}
-<h3>Postdoctoral research associates</h3>-->
-
 {% for item in people_array %}
 
 <div class="pos_header">
-{% if item == 'pi' %}
+{% if item == 'postdoc' %}
+<h3>Postdoctoral research associates</h3>
+ {% elsif item == 'pi' %}
 <h3>Principal investigator</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Doctoral students</h3>
