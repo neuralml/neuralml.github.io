@@ -24,12 +24,13 @@ permalink: /team/
 {% endfor %}
 </ul>-->
 
+<!--{% if item == 'postdoc' %}
+<h3>Postdoctoral research associates</h3>-->
+
 {% for item in people_array %}
 
 <div class="pos_header">
-<!--{% if item == 'postdoc' %}
-<h3>Postdoctoral research associates</h3>-->
- {% if item == 'pi' %}
+{% if item == 'pi' %}
 <h3>Principal investigator</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Doctoral students</h3>
