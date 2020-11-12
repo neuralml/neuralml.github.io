@@ -108,8 +108,6 @@ Hervás R, Costa RP, Costa H, Gervás P and Pereira FC<br>
 
 ### Under review/preprints
 
-_Developmental control of excitation-inhibition balance_<br>
-Jia DW, Costa RP\* and Vogels TP\* [\* equal contrib.]<br>
 
 [_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)<br>
 Sacramento J, Costa RP, Bengio Y and Senn W<br>
