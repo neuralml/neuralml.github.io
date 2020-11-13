@@ -74,6 +74,7 @@ permalink: /team/
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
 
+- `Samia Mohinta` [visiting RA; w/ Stephane Ciocchi]
 - `Ainesh Sevellaraja` [CS MEng]
 - `Nicole Li` [CS MEng]
 - `Owen Coyne` [CS MEng]
@@ -81,7 +82,7 @@ permalink: /team/
 - `Jason Park` [CS BSc]
 - `Matt Friend` [CS BSc]
 - `Martin Noruisis` [CS BSc]
-- `Samia Mohinta` [visiting RA; w/ Stephane Ciocchi]
+
 <hr>
 <div class="pos_header">
 <h3>Collaborators</h3>
