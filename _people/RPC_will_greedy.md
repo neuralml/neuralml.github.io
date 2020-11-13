@@ -3,7 +3,7 @@ name: Will Greedy
 position: gradstudent
 avatar: Will_Greedy.jpg
 joined: 2020
-affiliation: <span>[w/ test (EP)]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Jack Mellor]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 
