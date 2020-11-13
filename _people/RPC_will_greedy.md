@@ -3,7 +3,7 @@ name: Will Greedy
 position: gradstudent
 avatar: Will_Greedy.jpg
 joined: 2020
-affiliation: {% raw %}[w/ test (EP)]{% endraw %}<br><span style="color:#FFFFFF">.</span>
+affiliation: <pre>[w/ test (EP)]</pre><br><span style="color:#FFFFFF">.</span>
 
 ---
 
