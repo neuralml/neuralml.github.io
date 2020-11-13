@@ -77,7 +77,6 @@ permalink: /people/alumni
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
 - <b>2019/2020<b>:
-
 - `Priyanka Sukumaran` [WT Neural Dynamics PhD rotation; w/ Paul Anastasiades]
 - `Dabal Pedamonti` [Farscope PhD rotation; w/ Nathan Lepora; now a PhD student]
 - `Can Liu` [CS MEng]
@@ -89,7 +88,6 @@ permalink: /people/alumni
 - `Alfred Brown` [EngMath MEng; w/ Nathan Lepora]
 
 - <b>2018/2019<b>:
-  
 - `Ellen Boven` [WT Neural Dynamics Program, w/ Richard Apps; now a PhD student]
 - `Heng Wei Zhu` [WT Neural Dynamics Program, w/ Jack Mellor; now a PhD student]
 - `Samia Mohinta` [Advanced CS MSc w/ Stephane Ciocchi; now visiting RA]
