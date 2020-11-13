@@ -86,8 +86,7 @@ permalink: /people/alumni
 - `Martin Dimitrov` [CS BSc]
 - `Andrei Bogdan` [CS BSc]
 - `Alfred Brown` [EngMath MEng; w/ Nathan Lepora]
-<br>
-<b>2018/2019<b>:<br>
+<br><b>2018/2019<b>:<br>
 - `Ellen Boven` [WT Neural Dynamics Program, w/ Richard Apps; now a PhD student]
 - `Heng Wei Zhu` [WT Neural Dynamics Program, w/ Jack Mellor; now a PhD student]
 - `Samia Mohinta` [Advanced CS MSc w/ Stephane Ciocchi; now visiting RA]
