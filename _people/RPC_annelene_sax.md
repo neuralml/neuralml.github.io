@@ -3,7 +3,7 @@ name: Anne-Lene Sax
 position: gradstudent
 avatar: AnneLene_Sax.png
 joined: 2018
-affiliation: [w/ Roland Baddeley (EP)]
+affiliation: [w/ Roland Baddeley (EP)]<br><span style="color:#FFFFFF">.</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

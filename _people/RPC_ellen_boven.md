@@ -3,7 +3,7 @@ name: Ellen Boven
 position: gradstudent
 avatar: Ellen_Boven.png
 joined: 2019
-affiliation: [w/ Richard Apps (PPN)]
+affiliation: [w/ Richard Apps (PPN)]<br><span style="color:#FFFFFF">.</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
