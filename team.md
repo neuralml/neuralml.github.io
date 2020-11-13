@@ -73,15 +73,14 @@ permalink: /team/
 <div class="pos_header">
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
-- `Priyanka Sukumaran` [WT Neural Dynamics PhD rotation; w/ Paul Anastasiades]
-- `Dabal Pedamonti` [Farscope PhD rotation; w/ Nathan Lepora]
-- `Can Liu` [CS MEng]
-- `Daniel Davies` [CS MEng; w/ Jane Memmott]
-- `Graciela Putri` [CS MSc Conv]
-- `Abdullah Khwaja` [CS BSc]
-- `Martin Dimitrov` [CS BSc]
-- `Andrei Bogdan` [CS BSc]
-- `Alfred Brown` [EngMath MEng; w/ Nathan Lepora]
+
+- `Ainesh Sevellaraja` [CS MEng]
+- `Nicole Li` [CS MEng]
+- `Owen Coyne` [CS MEng]
+- `Lizzie Hull` [CS MSc Conv]
+- `Jason Park` [CS BSc]
+- `Matt Friend` [CS BSc]
+- `Martin Noruisis` [CS BSc]
 - `Samia Mohinta` [visiting RA; w/ Stephane Ciocchi]
 <hr>
 <div class="pos_header">
