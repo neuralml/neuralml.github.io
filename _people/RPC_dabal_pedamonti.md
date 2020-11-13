@@ -2,7 +2,7 @@
 name: Dabal Pedamonti
 position: gradstudent
 avatar: DabalPedamonti.png
-joined: 2020_1
+joined: 2020
 affiliation: <span>[w/ Nathan Lepora]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
