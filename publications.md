@@ -177,7 +177,7 @@ Computational and Systems Neuroscience Meeting (CoSyNe), Salt Lake City, Utah, U
 ### Conference posters
 
 _Cerebellum as a brain-wide decoupling machine_<br>
-Pemberton J, Boven E, Apps R, Costa R<br>
+Pemberton J, Boven E, Apps R, Costa RP<br>
 Neuromatch, October 2020
 
 _Deep Generative Models as perceptual front-ends for decision-making_<br>
@@ -297,7 +297,7 @@ Seventeenth Annual Computational Neuroscience Meeting CNS, July 2008
 
 <hr>
 
-<b>We have reviewed for:</b> Science, eLife, Neuron, PNAS, JNeurosci., NIPS (2015-), ICLR (2017-), ICML (2018-), PLoS Comp. Bio., CONB, JPhysio,  Front. Comput. Neurosci., JComputational Neurosci. and PLoS One.
+<b>We have reviewed for:</b> Science, eLife, Neuron, PNAS, JNeurosci., NeurIPS (2015-), ICLR (2017-), ICML (2018-), PLoS Comp. Bio., CONB, JPhysio,  Front. Comput. Neurosci., JComputational Neurosci. and PLoS One.
 
 <hr>
 {% include footer.html %}
