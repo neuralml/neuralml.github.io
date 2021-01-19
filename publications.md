@@ -103,23 +103,6 @@ Hervás R, Costa RP, Costa H, Gervás P and Pereira FC<br>
 6th Mexican International Conference on Artificial Intelligence, Nov 2007<br>
 [[code](http://student.dei.uc.pt/~racosta/jmapper)] 
 
- 
-
-
-<hr>
-
-### Under review/preprints
-
-[_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)<br>
-Sacramento J, Costa RP, Bengio Y and Senn W<br>
-arXiv:1801.00062
-
-[_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/450825v1)<br>
-Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
-bioRxiv:450825
-
-<hr>
-
 
 
 
@@ -190,6 +173,19 @@ Computational and Systems Neuroscience Meeting (CoSyNe), Salt Lake City, Utah, U
 
 
 <hr>
+
+### Preprints
+
+[_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)<br>
+Sacramento J, Costa RP, Bengio Y and Senn W<br>
+arXiv:1801.00062
+
+[_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/450825v1)<br>
+Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
+bioRxiv:450825
+
+<hr>
+
 
 ### Conference posters
 
