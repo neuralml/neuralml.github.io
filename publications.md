@@ -16,6 +16,9 @@ permalink: /publications/
 
 ### Journals and peer-reviewed proceedings
 
+[_The role of disentanglement in generalisation_](https://openreview.net/forum?id=qbH974jKUVy)<br>
+Llera-Montero M, Ludwig C, Costa RP, Malhotra G, Bowers J<br>
+International Conference on Learning Representations, Online, May 2021
 
 [_A deep learning framework for neuroscience_](https://www.nature.com/articles/s41593-019-0520-2)<br>
 Richards BA\*, Lillicrap TP\*, (...) Costa RP, (...) Therien D\* and Kording KP\* [\* equal contrib.]<br>
@@ -37,7 +40,6 @@ Sacramento J, Costa RP, Bengio Y and Senn W<br>
 Costa RP\*, Assael YM\*, Shillingford B\*, Freitas N and Vogels TP [\* equal contribution]<br>
 31st Conference on Neural Information Processing Systems, Long Beach, US, 2017 <br>[Highlighted by [MIT Tech Review](https://www.technologyreview.com/s/609463/the-best-of-the-physics-arxiv-week-ending-november-11-2017/); 3rd party code available [here](https://github.com/ixaxaar/pytorch-sublstm)]
   
- 
 [_Differential regulation of evoked and spontaneous release by presynaptic NMDA receptors_](http://www.cell.com/neuron/fulltext/S0896-6273(17)30874-7)<br>
 Abrahamsson T, Chou CYC, Li Sally, Mancino A, Costa RP, Nuro E, Brock JA, Buchanan KA, Elgar D, Blackman AV, Tudor-Jones AA, Oyrer J, Farmer WT, Murai KK and Sjöström PJ<br>
 Neuron, Volume 96, Issue 10, Nov 2017
@@ -108,7 +110,6 @@ Hervás R, Costa RP, Costa H, Gervás P and Pereira FC<br>
 
 ### Under review/preprints
 
-
 [_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)<br>
 Sacramento J, Costa RP, Bengio Y and Senn W<br>
 arXiv:1801.00062
@@ -124,6 +125,22 @@ bioRxiv:450825
 
 
 ### Peer-reviewed conference/workshop posters
+
+_Cortico-cerebellar networks as brain-wide decoupling machines_<br>
+Boven E\*, Pemberton J\*, Apps R and Costa RP [\* equal contributions]<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Online, Feb 2021
+
+_Cholinergic-mediated adaptive learning in cortical microcircuits_<br>
+Zhu HW\*, Greedy W\*, Mellor J and Costa RP [\* equal contributions]<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Online, Feb 2021
+
+_Division versus subtraction: task-specific gating in recurrent neural networks_<br>
+Llera-Montero M, Khwaja A and Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Online, Feb 2021
+
+_Hippocampal encoding of continual reinforcement learning features_<br>
+Mohinta S, Ciocchi S\* and Costa RP\* [\* co-senior author]<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Online, Feb 2021
 
 _Hippocampal population representations in reinforced continual learning_<br>
 Mohinta S, Ciocchi S\* and Costa RP\* [\* co-senior author]<br>
