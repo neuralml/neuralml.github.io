@@ -34,11 +34,11 @@ Current Opinion in Neurobiology, Volume 54, 2019
 
 [_Dendritic cortical microcircuits approximate the backpropagation algorithm_](https://papers.nips.cc/paper/8089-dendritic-cortical-microcircuits-approximate-the-backpropagation-algorithm)<br>
 Sacramento J, Costa RP, Bengio Y and Senn W<br>
-32nd Proceedings of Neural Information Processing Systems, Montreal, Canada, 2018 <br>[1/30 orals out of 4800 submissions]
+Proceedings of 32nd Neural Information Processing Systems, Montreal, Canada, 2018 <br>[selected for 1/30 orals out of 4800 submissions]
 
 [_Cortical microcircuits as gated-recurrent neural networks_](https://papers.nips.cc/paper/6631-cortical-microcircuits-as-gated-recurrent-neural-networks)<br>
 Costa RP\*, Assael YM\*, Shillingford B\*, Freitas N and Vogels TP [\* equal contribution]<br>
-31st Proceedings of Neural Information Processing Systems, Long Beach, US, 2017 <br>[Highlighted by [MIT Tech Review](https://www.technologyreview.com/s/609463/the-best-of-the-physics-arxiv-week-ending-november-11-2017/); 3rd party code available [here](https://github.com/ixaxaar/pytorch-sublstm)]
+Proceedings of 31st Neural Information Processing Systems, Long Beach, US, 2017 <br>[Highlighted by [MIT Tech Review](https://www.technologyreview.com/s/609463/the-best-of-the-physics-arxiv-week-ending-november-11-2017/); 3rd party code available [here](https://github.com/ixaxaar/pytorch-sublstm)]
   
 [_Differential regulation of evoked and spontaneous release by presynaptic NMDA receptors_](http://www.cell.com/neuron/fulltext/S0896-6273(17)30874-7)<br>
 Abrahamsson T, Chou CYC, Li Sally, Mancino A, Costa RP, Nuro E, Brock JA, Buchanan KA, Elgar D, Blackman AV, Tudor-Jones AA, Oyrer J, Farmer WT, Murai KK and Sjöström PJ<br>
