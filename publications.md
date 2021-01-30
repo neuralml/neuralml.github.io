@@ -34,11 +34,11 @@ Current Opinion in Neurobiology, Volume 54, 2019
 
 [_Dendritic cortical microcircuits approximate the backpropagation algorithm_](https://papers.nips.cc/paper/8089-dendritic-cortical-microcircuits-approximate-the-backpropagation-algorithm)<br>
 Sacramento J, Costa RP, Bengio Y and Senn W<br>
-32nd Conference on Neural Information Processing Systems, Montreal, Canada, 2018 <br>[1/30 orals out of 4800 submissions]
+32nd Proceedings of Neural Information Processing Systems, Montreal, Canada, 2018 <br>[1/30 orals out of 4800 submissions]
 
 [_Cortical microcircuits as gated-recurrent neural networks_](https://papers.nips.cc/paper/6631-cortical-microcircuits-as-gated-recurrent-neural-networks)<br>
 Costa RP\*, Assael YM\*, Shillingford B\*, Freitas N and Vogels TP [\* equal contribution]<br>
-31st Conference on Neural Information Processing Systems, Long Beach, US, 2017 <br>[Highlighted by [MIT Tech Review](https://www.technologyreview.com/s/609463/the-best-of-the-physics-arxiv-week-ending-november-11-2017/); 3rd party code available [here](https://github.com/ixaxaar/pytorch-sublstm)]
+31st Proceedings of Neural Information Processing Systems, Long Beach, US, 2017 <br>[Highlighted by [MIT Tech Review](https://www.technologyreview.com/s/609463/the-best-of-the-physics-arxiv-week-ending-november-11-2017/); 3rd party code available [here](https://github.com/ixaxaar/pytorch-sublstm)]
   
 [_Differential regulation of evoked and spontaneous release by presynaptic NMDA receptors_](http://www.cell.com/neuron/fulltext/S0896-6273(17)30874-7)<br>
 Abrahamsson T, Chou CYC, Li Sally, Mancino A, Costa RP, Nuro E, Brock JA, Buchanan KA, Elgar D, Blackman AV, Tudor-Jones AA, Oyrer J, Farmer WT, Murai KK and Sjöström PJ<br>
@@ -86,21 +86,21 @@ Journal of Neuroscience Methods, Volume 200, Issue 2, Sept 2011<br>
 
 [_A Computational Environment for Long-Term Multi-Feature and Multi-Algorithm Seizure Prediction_](http://dx.doi.org/10.1109/IEMBS.2010.5627637)<br>
 Teixeira CA, Direito B, Costa RP, Valderrama M, Feldwisch H, Nikolopoulos S, Le Van Quyen M, Schelter B and Dourado A<br>
-32nd Annual International IEEE EMBS Conference, 2010
+Proceedings of 32nd Annual International IEEE EMBS, 2010
 
 [_Hyponymy Extraction and Web Search Behavior Analysis Based On Query Reformulation_](http://student.dei.uc.pt/~racosta/publications/papers/RCosta2008_Hyponymy%20Extraction%20and%20Web%20Search%20Behavior%20Analysis%20Based%20On%20Query%20Reformulation.pdf)<br>
 Costa RP and Seco N<br>
-11th Ibero-American Conference on Artificial Intelligence, Oct 2008<br>
+Proceedings of 11th Ibero-American on Artificial Intelligence, Oct 2008<br>
 [[data](http://student.dei.uc.pt/~racosta/sloga/)] 
 
 [_Epileptic Seizure Classification Using Neural Networks With 14 Features_](http://student.dei.uc.pt/~racosta/publications/papers/RCosta2008_Epileptic%20Seizure%20Classification%20Using%20Neural%20Networks%20With%2014%20Features.pdf)<br>
 Costa RP, Oliveira P, Rodrigues G, Direito B and Dourado A<br>
-12th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems, Sept 2008<br>
+Proceedings of 12th International on Knowledge-Based and Intelligent Information & Engineering Systems, Sept 2008<br>
 [[code/data](http://student.dei.uc.pt/~racosta/epilepsy/)] 
 
 [_Enrichment of Automatically Generated Texts using Metaphor_](http://nil.fdi.ucm.es/sites/default/files/HervasEtAlMICAI07.pdf)<br>
 Hervás R, Costa RP, Costa H, Gervás P and Pereira FC<br>
-6th Mexican International Conference on Artificial Intelligence, Nov 2007<br>
+Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br>
 [[code](http://student.dei.uc.pt/~racosta/jmapper)] 
 
 
