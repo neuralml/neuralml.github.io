@@ -135,12 +135,12 @@ _Cholinergic-mediated adaptive learning in cortical microcircuits_<br>
 Zhu HW\*, Greedy W\*, Mellor J and Costa RP [\* equal contributions]<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Online, Feb 2021
 
-_Division versus subtraction: task-specific gating in recurrent neural networks_<br>
-Llera-Montero M, Khwaja A and Costa RP<br>
+_Hippocampal encoding of continual reinforcement learning features_<br>
+Mohinta S, Pedamonti D, Dimitrov M, Ciocchi S\* and Costa RP\* [\* co-senior author]<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Online, Feb 2021
 
-_Hippocampal encoding of continual reinforcement learning features_<br>
-Mohinta S, Ciocchi S\* and Costa RP\* [\* co-senior author]<br>
+_Division versus subtraction: task-specific gating in recurrent neural networks_<br>
+Llera-Montero M, Nejad KK, Khwaja A and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Online, Feb 2021
 
 _Hippocampal population representations in reinforced continual learning_<br>
