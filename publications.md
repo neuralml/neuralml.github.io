@@ -17,7 +17,7 @@ permalink: /publications/
 ### Journals and peer-reviewed proceedings
 
 [_The role of disentanglement in generalisation_](https://openreview.net/forum?id=qbH974jKUVy)<br>
-Llera-Montero M, Ludwig C, Costa RP, Malhotra G, Bowers J<br>
+Montero ML, Ludwig C, Costa RP, Malhotra G, Bowers J<br>
 International Conference on Learning Representations, Online, May 2021
 
 [_A deep learning framework for neuroscience_](https://www.nature.com/articles/s41593-019-0520-2)<br>
@@ -25,11 +25,11 @@ Richards BA\*, Lillicrap TP\*, (...) Costa RP, (...) Therien D\* and Kording KP\
 Nature Neuroscience, 22, pages 1761–1770, 2019
 
 [_Model-based inference of synaptic transmission_](https://doi.org/10.3389/fnsyn.2019.00021)<br>
-Bykowska O, Gontier C, Sax AL, Jia DW, Llera-Montero M, Bird A, Houghton C, Pfister JP and Costa RP<br>
+Bykowska O, Gontier C, Sax AL, Jia DW, Montero ML, Bird A, Houghton C, Pfister JP and Costa RP<br>
 Front. Synaptic Neurosci. [Special Issue on Methods for Synaptic Interrogation](https://www.frontiersin.org/research-topics/7595/methods-for-synaptic-interrogation#articles), 11:21, 2019
 
 [_Computational roles of plastic probabilistic synapses_](https://www.sciencedirect.com/science/article/pii/S0959438818301028)<br>
-Llera-Montero M, Sacramento J and Costa RP<br>
+Montero ML, Sacramento J and Costa RP<br>
 Current Opinion in Neurobiology, Volume 54, 2019
 
 [_Dendritic cortical microcircuits approximate the backpropagation algorithm_](https://papers.nips.cc/paper/8089-dendritic-cortical-microcircuits-approximate-the-backpropagation-algorithm)<br>
@@ -140,7 +140,7 @@ Mohinta S, Pedamonti D, Dimitrov M, Ciocchi S\* and Costa RP\* [\* co-senior aut
 Computational and Systems Neuroscience Meeting (CoSyNe), Online, Feb 2021
 
 _Division versus subtraction: task-specific gating in recurrent neural networks_<br>
-Llera-Montero M, Nejad KK, Khwaja A and Costa RP<br>
+Montero ML, Nejad KK, Khwaja A and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Online, Feb 2021
 
 _Hippocampal population representations in reinforced continual learning_<br>
@@ -152,11 +152,11 @@ Mohinta S, Ciocchi S\* and Costa RP\* [\* co-senior author]<br>
 Workshop on Biological and Artificial Reinforcement Learning, NeurIPS, Montreal, Dec 2019
 
 _Does subtractive gating improve generalization in working memory tasks?_<br>
-Llera-Montero M, Malhotra G, Bowers J\* and Costa RP\* [\* co-senior author]<br>
+Montero ML, Malhotra G, Bowers J\* and Costa RP\* [\* co-senior author]<br>
 Cognitive Computational Neuroscience, Berlin, UK, Sept 2019
 
 _Robust learning with subtractive recurrent neural networks_<br>
-Llera-Montero M, Malhotra G, Bowers J\* and Costa RP\* [\* co-senior author]<br>
+Montero ML, Malhotra G, Bowers J\* and Costa RP\* [\* co-senior author]<br>
 UK Neural Computation meeting, Nottingham, UK, July 2019
 
 _Efficient memory replay through sensory adaptation_<br>
