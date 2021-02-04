@@ -18,7 +18,8 @@ permalink: /publications/
 
 [_The role of disentanglement in generalisation_](https://openreview.net/forum?id=qbH974jKUVy)<br>
 Montero ML, Ludwig C, Costa RP, Malhotra G, Bowers J<br>
-International Conference on Learning Representations, Online, May 2021
+International Conference on Learning Representations, Online, May 2021<br>
+[[code](https://github.com/mmrl/disent-and-gen)]
 
 [_A deep learning framework for neuroscience_](https://www.nature.com/articles/s41593-019-0520-2)<br>
 Richards BA\*, Lillicrap TP\*, (...) Costa RP, (...) Therien D\* and Kording KP\* [\* equal contrib.]<br>
