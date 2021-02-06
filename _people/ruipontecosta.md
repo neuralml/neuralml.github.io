@@ -32,6 +32,6 @@ Dept. of Computer Science, SCEEM, Faculty of Engineering<br>
 [affiliated with the Intelligent Systems/Visual Information Labs] <br><br>
 
 <header class="masthead text-justify" style="font-size:120%">
-Rui did postdoctoral research in computational neuroscience & machine learning at﻿ the University of Oxford (UK) with Tim Vogels and the University of Bern (Switzerland) with Walter Senn. ​Previously﻿, he did his PhD at the University of Edinburgh (UK) as part of the Institute for Adaptive and Neural Computation with Mark van Rossum and P. Jesper Sjöström (funded by a FCT PhD grant). Rui was also a visiting PhD student at University College London (UK) and McGill University (Canada). Before that he studied computer science at the University of Coimbra (Portugal). Rui also used to organise the Oxford NeuroTheory Forum (2014-2017).
+Rui did postdoctoral research in computational neuroscience & machine learning at﻿ the University of Oxford (UK) with Tim Vogels and the University of Bern (Switzerland) with Walter Senn and Stephane Ciocchi. ​Previously﻿, he did his PhD at the University of Edinburgh (UK) as part of the Institute for Adaptive and Neural Computation with Mark van Rossum and P. Jesper Sjöström (funded by a FCT PhD grant). Rui was also a visiting PhD student at University College London (UK) and McGill University (Canada). Before that he studied computer science at the University of Coimbra (Portugal). Rui also used to organise the Oxford NeuroTheory Forum (2014-2017).
 </header><br>
 
