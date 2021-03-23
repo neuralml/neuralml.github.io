@@ -110,12 +110,12 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 ### Under review/Preprints
 
 _Dimensionality and flexibility of learning in biological recurrent neural networks_<br>
-Prince L, et al. <br>
+Prince L, ..., Clopath C, Maass W, Costa RP and Richards B <br>
 
 _Learning offline: memory replay in biological and artificial reinforcement learning_<br>
 Roscow E, Chua R, Costa RP, Lepora N and Jones M <br>
 
-[_Developmental depression-facilitation shift controls excitation-inhibition balance_](https://www.biorxiv.org/content/10.1101/2021.02.23.431593v1)<br>
+[_Developmental depression-facilitation shift controls excitation-inhibition balance_](https://www.biorxiv.org/content/10.1101/2021.02.23.431593v2)<br>
 Jia DW, Costa RP\*, Vogels TP\* [\* co-senior author]<br>
 bioRxiv, 431593, 2021<br>
 
