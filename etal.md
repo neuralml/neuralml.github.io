@@ -128,8 +128,10 @@ We share the code of (mostly) finished projects on our [Github account](https://
 
 ### Talks
 
-- Cerebellum as a brain-wide decoupling machine, Neuromatch'2020, October 2020 [by Joe, Ellen]
-- Deep generative models as perceptual front-ends for decision-making, Virtual MATHPSYCH/ICCM 2020, July 2020 [by Milton]
+- Neuroscience through the lens of machine learning, Bristol SCEEM Research Conference, Online, April 2021
+- What else is out there?, CAG Workshop on Dimensionality and flexibility of learning in biological recurrent neural networks, Cognitive Computational Neuroscience Conference, Online, October 2020
+- Cerebellum as a brain-wide decoupling machine, Neuromatch'2020, Online, October 2020 [by Joe, Ellen]
+- Deep generative models as perceptual front-ends for decision-making, Virtual MATHPSYCH/ICCM 2020, Online, July 2020 [by Milton]
 - Cerebellum as a brain-wide decoupling machine, Alergic (Artificial life seminars), University of Sussex, June 2020
 - Invited talk, UK Neural Computation Meeting, University of Sheffield, June 2020 [moved to 2021]
 - Towards powerful learning in cortical circuits, Computational Neuroscience meeting, Claudia Clopath lab, Imperial College London, May 2019
