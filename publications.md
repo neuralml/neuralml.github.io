@@ -110,7 +110,6 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 ### Under review/Preprints
 
 [_CCN GAC Workshop: Issues with learning in biological recurrent neural networks_](https://arxiv.org/abs/2105.05382)<br>
-_Dimensionality and flexibility of learning in biological recurrent neural networks_<br>
 Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA <br>
 
 _Learning offline: memory replay in biological and artificial reinforcement learning_<br>
