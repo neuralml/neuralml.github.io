@@ -74,10 +74,10 @@ permalink: /team/
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
 
+- `Kevin Nejad` [IAI CDT]
 - `Samia Mohinta` [visiting RA; w/ Stephane Ciocchi]
 - `Ainesh Sevellaraja` [CS MEng]
 - `Nicole Li` [CS MEng]
-- `Owen Coyne` [CS MEng]
 - `Lizzie Hull` [CS MSc Conv]
 - `Jason Park` [CS BSc]
 - `Matt Friend` [CS BSc]
