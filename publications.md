@@ -16,7 +16,7 @@ permalink: /publications/
 
 ### Journals and peer-reviewed proceedings
 
-[_Learning offline: memory replay in biological and artificial reinforcement learning (in press)_]()<br>
+[_Learning offline: memory replay in biological and artificial reinforcement learning (accepted)_]()<br>
 Roscow E, Chua R, Costa RP, Jones M and Lepora N<br>
 Trends in Neuroscience, 2021<br>
 
