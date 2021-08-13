@@ -16,10 +16,13 @@ permalink: /publications/
 
 ### Under review/Preprints
 
-_Cortico-cerebellar networks as decoupling neural interfaces_<br>
+_Cortico-cerebellar networks facilitate learning through feedback decoupling_<br>
 Pemberton J\*, Boven E\*, Apps R and Costa RP [\* equal contributions]
 
-[_CCN GAC Workshop: Issues with learning in biological recurrent neural networks_](https://arxiv.org/abs/2105.05382)<br>
+_Hippocampal networks support continual spatial learning_<br>
+Mohinta S\*, Pedamonti D\*, Dimitrov M, Ciocchi S and Costa RP [\* equal contributions]
+
+[_Issues with learning in biological recurrent neural networks (CCN GAC Workshop)_](https://arxiv.org/abs/2105.05382)<br>
 Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA
 
 [_Developmental depression-facilitation shift controls excitation-inhibition balance_](https://www.biorxiv.org/content/10.1101/2021.02.23.431593v2)<br>
