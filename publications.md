@@ -39,7 +39,7 @@ Current Opinion in Neurobiology, Volume 54, 2019
 
 [_Dendritic cortical microcircuits approximate the backpropagation algorithm_](https://papers.nips.cc/paper/8089-dendritic-cortical-microcircuits-approximate-the-backpropagation-algorithm)<br>
 Sacramento J, Costa RP, Bengio Y and Senn W<br>
-Proceedings of 32nd Neural Information Processing Systems, Montreal, Canada, 2018 <br>[selected for 1/30 orals out of 4800 submissions]
+Proceedings of 32nd Neural Information Processing Systems, Montreal, Canada, 2018 <br>[selected for 1/30 orals out of 4800 submissions] see also a more neuro focused version [_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)
 
 [_Cortical microcircuits as gated-recurrent neural networks_](https://papers.nips.cc/paper/6631-cortical-microcircuits-as-gated-recurrent-neural-networks)<br>
 Costa RP\*, Assael YM\*, Shillingford B\*, Freitas N and Vogels TP [\* equal contribution]<br>
@@ -116,16 +116,9 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 [_CCN GAC Workshop: Issues with learning in biological recurrent neural networks_](https://arxiv.org/abs/2105.05382)<br>
 Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA <br>
 
-_Learning offline: memory replay in biological and artificial reinforcement learning_<br>
-Roscow E, Chua R, Costa RP, Lepora N and Jones M <br>
-
 [_Developmental depression-facilitation shift controls excitation-inhibition balance_](https://www.biorxiv.org/content/10.1101/2021.02.23.431593v2)<br>
 Jia DW, Costa RP\*, Vogels TP\* [\* co-senior author]<br>
 bioRxiv, 431593, 2021<br>
-
-[_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)<br>
-Sacramento J, Costa RP, Bengio Y and Senn W<br>
-arXiv, 1801.00062, 2018
 
 [_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/450825v1)<br>
 Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
