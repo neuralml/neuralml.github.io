@@ -17,7 +17,7 @@ permalink: /publications/
 ### Under review/Preprints
 
 _Cortico-cerebellar networks facilitate learning through feedback decoupling_<br>
-Pemberton J\*, Boven E\*, Apps R and Costa RP [\* equal contributions]
+Boven E\*, Pemberton J\*, Apps R and Costa RP [\* equal contributions]
 
 _Hippocampal networks support continual reinforcement learning_<br>
 Mohinta S\*, Pedamonti D\*, Malagon-Vina H, Dimitrov M, Ciocchi S and Costa RP [\* equal contributions]
