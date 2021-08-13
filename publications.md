@@ -16,6 +16,10 @@ permalink: /publications/
 
 ### Journals and peer-reviewed proceedings
 
+[_Learning offline: memory replay in biological and artificial reinforcement learning (in press)_]()<br>
+Roscow E, Chua R, Costa RP, Jones M and Lepora N<br>
+Trends in Neuroscience, 2021<br>
+
 [_The role of disentanglement in generalisation_](https://openreview.net/forum?id=qbH974jKUVy)<br>
 Montero ML, Ludwig C, Costa RP, Malhotra G, Bowers J<br>
 Proceedings of International Conference on Learning Representations, Online, May 2021<br>
