@@ -19,7 +19,7 @@ permalink: /publications/
 _Cortico-cerebellar networks facilitate learning through feedback decoupling_<br>
 Pemberton J\*, Boven E\*, Apps R and Costa RP [\* equal contributions]
 
-_Hippocampal networks support continual spatial learning_<br>
+_Hippocampal networks support continual learning_<br>
 Mohinta S\*, Pedamonti D\*, Dimitrov M, Ciocchi S and Costa RP [\* equal contributions]
 
 [_Issues with learning in biological recurrent neural networks (CCN GAC Workshop)_](https://arxiv.org/abs/2105.05382)<br>
