@@ -57,7 +57,8 @@ Current Opinion in Neurobiology, Volume 54, 2019
 
 [_Dendritic cortical microcircuits approximate the backpropagation algorithm_](https://papers.nips.cc/paper/8089-dendritic-cortical-microcircuits-approximate-the-backpropagation-algorithm)<br>
 Sacramento J, Costa RP, Bengio Y and Senn W<br>
-Proceedings of 32nd Neural Information Processing Systems, Montreal, Canada, 2018 <br>[selected for 1/30 orals out of 4800 submissions] see also a more neuro focused version [_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)
+Proceedings of 32nd Neural Information Processing Systems, Montreal, Canada, 2018 <br>[selected for 1/30 orals out of 4800 submissions]<br>
+See also a more neuroscience version: [_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)
 
 [_Cortical microcircuits as gated-recurrent neural networks_](https://papers.nips.cc/paper/6631-cortical-microcircuits-as-gated-recurrent-neural-networks)<br>
 Costa RP\*, Assael YM\*, Shillingford B\*, Freitas N and Vogels TP [\* equal contribution]<br>
