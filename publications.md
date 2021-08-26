@@ -23,15 +23,16 @@ _Hippocampal networks support continual reinforcement learning_<br>
 Mohinta S\*, Pedamonti D\*, Malagon-Vina H, Dimitrov M, Ciocchi S and Costa RP [\* equal contributions]
 
 [_Issues with learning in biological recurrent neural networks (CCN GAC Workshop)_](https://arxiv.org/abs/2105.05382)<br>
-Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA
+Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA<br>
+arXiv:2105.05382 [q-bio.NC]
 
 [_Developmental depression-facilitation shift controls excitation-inhibition balance_](https://www.biorxiv.org/content/10.1101/2021.02.23.431593v2)<br>
 Jia DW, Costa RP\*, Vogels TP\* [\* co-senior author]<br>
-bioRxiv, 431593, 2021
+bioRxiv:431593
 
 [_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/450825v1)<br>
 Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
-bioRxiv, 450825, 2018
+bioRxiv:450825
 
 <hr>
 
