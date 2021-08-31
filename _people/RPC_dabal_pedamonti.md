@@ -16,7 +16,7 @@ affiliation: <span>[w/ Nathan Lepora]</span><br><span style="color:#FFFFFF">.</s
  {% endif %}
 
 <b>{{page.affiliation}}</b>
-<i class="fa fa-link"></i> <a href="www.dabalpedamonti.com/">`www.dabalpedamonti.com`</a>
+<br><i class="fa fa-link"></i> <a href="www.dabalpedamonti.com/">`www.dabalpedamonti.com`</a>
 
 <header class="masthead text-justify" style="font-size:120%">
 
