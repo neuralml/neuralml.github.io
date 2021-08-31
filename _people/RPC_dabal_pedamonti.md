@@ -1,5 +1,6 @@
 ---
 name: Dabal Pedamonti
+title: Dabal Pedamonti
 position: gradstudent
 avatar: DabalPedamonti.png
 joined: 2020
