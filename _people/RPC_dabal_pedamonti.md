@@ -16,9 +16,9 @@ affiliation: <span>[w/ Nathan Lepora]</span><br><span style="color:#FFFFFF">.</s
  {% endif %}
 
 <b>{{page.affiliation}}</b>
+<i class="fa fa-link"></i> <a href="www.dabalpedamonti.com/">`www.dabalpedamonti.com`</a>
 
 <header class="masthead text-justify" style="font-size:120%">
-	<a href="www.dabalpedamonti.com">www.dabalpedamonti.com</a><br>
 
 I studied Electronics and Computer Science (MEng) at the University of Edinburgh where I focused on machine learning, robotics and autonomous systems as well as parallel architectures and software in the embedded systems relevant for the Internet of Things.
 
