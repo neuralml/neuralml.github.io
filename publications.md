@@ -14,7 +14,7 @@ permalink: /publications/
 
 <hr>
 
-### Under review/Preprints
+### Preprints
 
 _Cortico-cerebellar networks facilitate learning through feedback decoupling_<br>
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
