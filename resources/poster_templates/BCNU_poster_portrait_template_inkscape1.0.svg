@@ -12388,24 +12388,20 @@
 
 
 
-  <clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath2550"><path
-     d="m 319.043,221.207 h 64.23 V 86.9758 h -64.23 z"
-     id="path2548" /></clipPath></defs>
+  </defs>
 
 
 
   <sodipodi:namedview
    inkscape:snap-global="false"
    inkscape:document-rotation="0"
-   inkscape:current-layer="g25694"
+   inkscape:current-layer="g10"
    inkscape:window-maximized="0"
    inkscape:window-y="23"
    inkscape:window-x="0"
-   inkscape:cy="112.82706"
-   inkscape:cx="1440.3335"
-   inkscape:zoom="0.231187"
+   inkscape:cy="388.80405"
+   inkscape:cx="1679.5203"
+   inkscape:zoom="0.5380401"
    showgrid="false"
    id="namedview4"
    inkscape:window-height="755"
@@ -12992,14 +12988,15 @@
 
 
 <text
-   y="0"
+   x="770.38281"
+   y="-3260.6938"
    id="text980"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="matrix(1,0,0,-1,642.8828,3260.6938)"><tspan
+   transform="scale(1,-1)"><tspan
      id="tspan978"
      sodipodi:role="line"
-     x="0"
-     y="0">Milton Llera Montero</tspan></text>
+     x="770.38281"
+     y="-3260.6938">First Author</tspan></text>
 
 
 
@@ -13034,14 +13031,15 @@
 
 
 <text
-   y="0"
+   x="962.37299"
+   y="-3260.6938"
    id="text988"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="matrix(1,0,0,-1,962.373,3260.6938)"><tspan
+   transform="scale(1,-1)"><tspan
      id="tspan986"
      sodipodi:role="line"
-     x="0"
-     y="0">, Gaurav Malhotra</tspan></text>
+     x="962.37299"
+     y="-3260.6938">, Second Author</tspan></text>
 
 
 
@@ -13055,12 +13053,14 @@
 
 
 <text
+   y="-3280.6938"
+   x="1195.9824"
    id="text992"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="matrix(1,0,0,-1,1218.4824,3280.6938)"><tspan
+   transform="scale(1,-1)"><tspan
      id="tspan990"
-     y="0"
-     x="0">2</tspan></text>
+     y="-3280.6938"
+     x="1195.9824">2</tspan></text>
 
 
 
@@ -13074,14 +13074,15 @@
 
 
 <text
-   y="0"
+   x="1204.1055"
+   y="-3260.6938"
    id="text996"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="matrix(1,0,0,-1,1229.6055,3260.6938)"><tspan
+   transform="scale(1,-1)"><tspan
      id="tspan994"
      sodipodi:role="line"
-     x="0"
-     y="0">, Jeff Bowers</tspan></text>
+     x="1204.1055"
+     y="-3260.6938">, Third Author</tspan></text>
 
 
 
@@ -13095,12 +13096,14 @@
 
 
 <text
+   y="-3280.6938"
+   x="1397.48"
    id="text1000"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="matrix(1,0,0,-1,1413.98,3280.6938)"><tspan
+   transform="scale(1,-1)"><tspan
      id="tspan998"
-     y="0"
-     x="0">2</tspan></text>
+     y="-3280.6938"
+     x="1397.48">2</tspan></text>
 
 
 
@@ -13114,14 +13117,15 @@
 
 
 <text
-   y="0"
+   x="1423.9196"
+   y="-3260.7375"
    id="text1004"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="matrix(1,0,0,-1,1433.999,3260.6938)"><tspan
+   transform="scale(1,-1)"><tspan
      id="tspan1002"
      sodipodi:role="line"
-     x="0"
-     y="0">and Rui Ponte Costa</tspan></text>
+     x="1423.9196"
+     y="-3260.7375">and Last Author</tspan></text>
 
 
 
@@ -13135,12 +13139,14 @@
 
 
 <text
+   y="-3280.6938"
+   x="1651.9312"
    id="text1008"
    style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="matrix(1,0,0,-1,1729.9312,3280.6938)"><tspan
+   transform="scale(1,-1)"><tspan
      id="tspan1006"
-     y="0"
-     x="0">1</tspan></text>
+     y="-3280.6938"
+     x="1651.9312">1</tspan></text>
 
 
 
@@ -13192,16 +13198,16 @@
    transform="scale(1,-1)"><tspan
      style="text-align:center;text-anchor:middle"
      y="-3214.2002"
-     dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+     dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
      id="tspan1018"
      sodipodi:role="line"
-     x="1190.8044">1 - Computational Neuroscience Unit, Dept. of Computer Science, SCEEM, University of Bristol, UK</tspan><tspan
+     x="1190.8044">1 - Neural &amp; Machine Learning Group, Bristol Computational Neuroscience Unit, Faculty of Engineering, University of Bristol, UK</tspan><tspan
      style="text-align:center;text-anchor:middle"
      id="tspan2080"
      y="-3186.4456"
-     dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+     dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
      sodipodi:role="line"
-     x="1190.8044">2 - School of Psychological Science, University of Bristol, UK</tspan><tspan
+     x="1190.8044">2 - School of Physiology, Pharmacology and Neuroscience, University of Bristol, UK</tspan><tspan
      style="text-align:center;text-anchor:middle"
      y="-3158.6909"
      x="1190.8044"
@@ -13985,7 +13991,23 @@
 
 
 
-</g>
+<use
+   transform="translate(-387.04958,1472.9258)"
+   height="100%"
+   width="100%"
+   y="0"
+   x="0"
+   xlink:href="#g14"
+   inkscape:spray-origin="#g14"
+   id="use2078" /><use
+   transform="translate(-392.09062,1447.8324)"
+   height="100%"
+   width="100%"
+   y="0"
+   x="0"
+   xlink:href="#g14"
+   inkscape:spray-origin="#g14"
+   id="use2080" /></g>
 
 
 
@@ -14735,7 +14757,7 @@
 <text
    xml:space="preserve"
    id="text2097"
-   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;shape-inside:url(#rect2099);fill:#000000;fill-opacity:1;stroke:none"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;shape-inside:url(#rect2099);fill:#000000;fill-opacity:1;stroke:none;"
    transform="translate(1101.3763,646.2296)"
    x="2577.832"
    y="0"><tspan
