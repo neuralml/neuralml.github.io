@@ -38,9 +38,9 @@ bioRxiv:450825
 
 ### Journals and peer-reviewed proceedings
 
-[_Learning offline: memory replay in biological and artificial reinforcement learning (accepted)_]()<br>
+[_Learning offline: memory replay in biological and artificial reinforcement learning_](https://authors.elsevier.com/c/1dgZ4botpuX3Y)<br>
 Roscow E, Chua R, Costa RP, Jones M and Lepora N<br>
-Trends in Neuroscience, 2021<br>
+Trends in Neuroscience (in press), 2021<br>
 
 [_The role of disentanglement in generalisation_](https://openreview.net/forum?id=qbH974jKUVy)<br>
 Montero ML, Ludwig C, Costa RP, Malhotra G, Bowers J<br>
