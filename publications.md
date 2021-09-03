@@ -17,10 +17,12 @@ permalink: /publications/
 ### Under review/Preprints
 
 _Cortico-cerebellar networks facilitate learning through feedback decoupling_<br>
-Boven E\*, Pemberton J\*, Apps R and Costa RP [\* equal contributions]
+Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
+(preprint soon)
 
 _Hippocampal networks support continual reinforcement learning_<br>
-Mohinta S\*, Pedamonti D\*, Malagon-Vina H, Dimitrov M, Ciocchi S and Costa RP [\* equal contributions]
+Mohinta S\*, Pedamonti D\*, Malagon-Vina H, Dimitrov M, Ciocchi S and Costa RP [\* equal contributions]<br>
+(preprint soon)
 
 [_Issues with learning in biological recurrent neural networks (CCN GAC Workshop)_](https://arxiv.org/abs/2105.05382)<br>
 Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA<br>
@@ -62,7 +64,7 @@ Current Opinion in Neurobiology, Volume 54, 2019
 [_Dendritic cortical microcircuits approximate the backpropagation algorithm_](https://papers.nips.cc/paper/8089-dendritic-cortical-microcircuits-approximate-the-backpropagation-algorithm)<br>
 Sacramento J, Costa RP, Bengio Y and Senn W<br>
 Proceedings of 32nd Neural Information Processing Systems, Montreal, Canada, 2018 <br>[selected for 1/30 orals out of 4800 submissions]<br>
-See also a more neuroscience version: [_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)
+See also a more neurosciency version: [_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)
 
 [_Cortical microcircuits as gated-recurrent neural networks_](https://papers.nips.cc/paper/6631-cortical-microcircuits-as-gated-recurrent-neural-networks)<br>
 Costa RP\*, Assael YM\*, Shillingford B\*, Freitas N and Vogels TP [\* equal contribution]<br>
