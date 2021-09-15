@@ -9,7 +9,7 @@ permalink: /joinus/
 
 <hr>
 
-<p>Diversity leads to new creative solutions. We <b>strongly</b> encourage applications from all backgrounds, communities and industries. </p>
+<p>Diversity leads to new creative solutions. We <b>encourage</b> applications from all backgrounds and communities. </p>
 
 ### Postdocs
 
