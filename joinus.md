@@ -36,6 +36,7 @@ permalink: /joinus/
 <ul>
   <li><a href="https://www.bristol.ac.uk/engineering/postgraduate/funding/sceem-studentships/" target="_blank">EPSRC Doctoral Training Awards</a>, we have been particularly successful in these.</li>
   <li><a href="http://www.bristol.ac.uk/cdt/interactive-ai/" target="_blank">Interactive AI CDT</a></li>
+  <li><a href="https://www.swbio.ac.uk/" target="_blank">SWBiosciences Doctoral Training Partnership</a></li>
   <li><a href="http://www.bristol.ac.uk/cdt/compass/" target="_blank">Computational Statistics and Data Science CDT</a></li>
   <li><a href="https://www.farscope.bris.ac.uk" target="_blank">Robotics and Autonomous Systems CDT</a></li>
   <li><a href="https://www.bristol.ac.uk/cdt/digital-health/" target="_blank">Digital Health CDT</a></li>
