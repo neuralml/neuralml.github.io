@@ -35,10 +35,10 @@ We have a number of doctoral programs which may allow you to join our group:
 
 <ul>
   <li><a href="https://www.bristol.ac.uk/engineering/postgraduate/funding/sceem-studentships/" target="_blank">EPSRC Doctoral Training Awards</a>, we have been particularly successful in these.</li>
-  <li><a href="https://www.bristol.ac.uk/cdt/digital-health/" target="_blank">Digital Health CDT</a></li>
   <li><a href="http://www.bristol.ac.uk/cdt/interactive-ai/" target="_blank">Interactive AI CDT</a></li>
   <li><a href="http://www.bristol.ac.uk/cdt/compass/" target="_blank">Computational Statistics and Data Science CDT</a></li>
   <li><a href="https://www.farscope.bris.ac.uk" target="_blank">Robotics and Autonomous Systems CDT</a></li>
+  <li><a href="https://www.bristol.ac.uk/cdt/digital-health/" target="_blank">Digital Health CDT</a></li>
 </ul></header>
 
 
@@ -47,7 +47,7 @@ We have a number of doctoral programs which may allow you to join our group:
 #### Master and undergrad students
 
 <header class="masthead text-justify" style="font-size:120%">
-If you are a student on the University of Bristol masters or undergrad student, please contact us to discuss possible projects. We always have a range of exciting projects at the intersection of neuroscience and machine learning.</header>
+If you are a masters or undergrad student at the University of Bristol, please contact us to discuss possible projects. We always have a range of exciting projects at the intersection of neuroscience and machine learning.</header>
 <br>
 
 
