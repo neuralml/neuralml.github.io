@@ -31,7 +31,7 @@ permalink: /joinus/
 ### PhD students
 
 <header class="masthead text-justify" style="font-size:120%">
-<p>We have a number of doctoral programs which may allow you to join our group:</p>
+<p>We have a number of doctoral programs which would allow you to join our group:</p>
 
 <ul>
   <li><a href="https://www.bristol.ac.uk/engineering/postgraduate/funding/sceem-studentships/" target="_blank">EPSRC Doctoral Training Awards</a>, we have been particularly successful in these.</li>
