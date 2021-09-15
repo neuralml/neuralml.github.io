@@ -100,7 +100,7 @@ permalink: /team/
 
 
 <hr>
-<a href="https://bristolcnu.github.io/joinus" target="_blank"><b>Join us!</b></a> <br>
+<a href="https://neuralml.github.io/joinus/" target="_blank"><b>Join us!</b></a> <br>
 
 List of [NML alumni](/people/alumni).
 
