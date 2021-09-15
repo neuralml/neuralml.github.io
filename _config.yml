@@ -39,10 +39,11 @@ nav:
     href:           "/news"
   - name:           "teaching"
     href:           "/teaching"    
+  - name:           "join us"
+    href:           "/joinus"    
   - name:           "et al"
     href:           "/etal"
-  - name:           "join us"
-    href:           "/joinus"
+  
   
 
 # Sass
