@@ -12,7 +12,7 @@ permalink: /joinus/
 ### Postdocs
 
 <header class="masthead text-justify" style="font-size:120%">
-We are always interested in hearing from potential postdocs - please contact the PI early and we can work on figuring out funding. There are a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in our group, such as:
+We are always interested in hearing from potential postdocs - please contact the PI early and we can work on figuring out funding. There are a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in our group, such as:<br>
 
 <ul>
   <li><a href="https://www.bristol.ac.uk/vc-fellows/" target="_blank">Bristol Vice-Chancellor's Fellowships</a>, which offer an excelent opportunity for early-career researchers to move towards setting up their own independent group.</li>
@@ -31,7 +31,7 @@ We are always interested in hearing from potential postdocs - please contact the
 ### PhD students
 
 <header class="masthead text-justify" style="font-size:120%">
-We have a number of doctoral programs which may allow you to join our group:
+We have a number of doctoral programs which may allow you to join our group:<br>
 
 <ul>
   <li><a href="https://www.bristol.ac.uk/engineering/postgraduate/funding/sceem-studentships/" target="_blank">EPSRC Doctoral Training Awards</a>, we have been particularly successful in these.</li>
