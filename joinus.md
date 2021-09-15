@@ -9,6 +9,8 @@ permalink: /joinus/
 
 <hr>
 
+<p>Diversity leads to new creative solutions. We <b>strongly</b> encourage applications from all backgrounds, communities and industries. </p>
+
 ### Postdocs
 
 <header class="masthead text-justify" style="font-size:120%">
