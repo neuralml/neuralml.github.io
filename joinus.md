@@ -10,8 +10,9 @@ permalink: /joinus/
 <hr>
 
 ### Postdocs
+
 <header class="masthead text-justify" style="font-size:120%">
-We are always interested in hearing from potential postdocs - please contact individual PIs early and we can work on figuring out funding. There are a number of prestigious fellowships available that would allow you to work to lead exciting research at the intersection between neuroscience and machine learning in our group, such as:
+We are always interested in hearing from potential postdocs - please contact the PI early and we can work on figuring out funding. There are a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in our group, such as:
 
 <ul>
   <li><a href="https://www.bristol.ac.uk/vc-fellows/" target="_blank">Bristol Vice-Chancellor's Fellowships</a>, which offer an excelent opportunity for early-career researchers to move towards setting up their own independent group.</li>
@@ -21,7 +22,7 @@ We are always interested in hearing from potential postdocs - please contact ind
   <li><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank">HFSP Fellowships</a></li> 
   <li><a href="https://en.unesco.org/science-sustainable-future/women-in-science" target="_blank">L’Oréal-UNESCO Awards For Women in Science</a></li> 
   <li><a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/" target="_blank">Royal Society Newton Fellowship</a></li> 
-</ul>
+</ul></header>
 
 
 
@@ -30,7 +31,6 @@ We are always interested in hearing from potential postdocs - please contact ind
 ### PhD students
 
 <header class="masthead text-justify" style="font-size:120%">
-
 We have a number of doctoral programs which may allow you to join our group:
 
 <ul>
@@ -39,12 +39,13 @@ We have a number of doctoral programs which may allow you to join our group:
   <li><a href="http://www.bristol.ac.uk/cdt/interactive-ai/" target="_blank">Interactive AI CDT</a></li>
   <li><a href="http://www.bristol.ac.uk/cdt/compass/" target="_blank">Computational Statistics and Data Science CDT</a></li>
   <li><a href="https://www.farscope.bris.ac.uk" target="_blank">Robotics and Autonomous Systems CDT</a></li>
-</ul>
+</ul></header>
 
 
 <hr>
 
 #### Master and undergrad students
+
 <header class="masthead text-justify" style="font-size:120%">
 If you are a student on the University of Bristol masters or undergrad student, please contact us to discuss possible projects. We always have a range of exciting projects at the intersection of neuroscience and machine learning.</header>
 <br>
