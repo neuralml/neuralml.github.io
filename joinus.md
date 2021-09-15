@@ -22,8 +22,8 @@ permalink: /joinus/
   <li><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank">HFSP Fellowships</a></li> 
   <li><a href="https://en.unesco.org/science-sustainable-future/women-in-science" target="_blank">L’Oréal-UNESCO Awards For Women in Science</a></li> 
   <li><a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/" target="_blank">Royal Society Newton Fellowship</a></li> 
-  <li><a href="https://www.bbrfoundation.org/grants-prizes/bbrf-young-investigator-grants" target="_blank">BBRF Young Investigator Grants</a></li> 
   <li><a href="https://www.alzheimersresearchuk.org/grants/research-fellowship/" target="_blank">UK Alzheimers Research Fellowship</a></li> 
+  <li><a href="https://www.bbrfoundation.org/grants-prizes/bbrf-young-investigator-grants" target="_blank">BBRF Young Investigator Grants</a></li> 
   
 </ul></header>
 
