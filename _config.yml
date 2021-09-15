@@ -41,8 +41,8 @@ nav:
     href:           "/teaching"    
   - name:           "et al"
     href:           "/etal"
-  #- name:           "join us"
-  #  href:           "https://bristolcnu.github.io/joinus"
+  - name:           "join us"
+    href:           "/joinus"
   
 
 # Sass

@@ -128,6 +128,8 @@ We share the code of (mostly) finished projects on our [Github account](https://
 
 ### Talks
 
+- Cortico-cerebellar networks as brain-wide decoupling machines, 1st Symposium on Artificial Intelligence & Neuroscience (ACAIN), October 2021 [by Joe and Ellen]
+- Hippocampal encoding of continual reinforcement learning features, 1st Symposium on Artificial Intelligence & Neuroscience (ACAIN), October 2021 [by Dabal and Samia]
 - Neuroscience through the lens of machine learning, Bristol SCEEM Research Conference, Online, April 2021
 - What else is out there?, CAG Workshop on Dimensionality and flexibility of learning in biological recurrent neural networks, Cognitive Computational Neuroscience Conference, Online, October 2020
 - Cerebellum as a brain-wide decoupling machine, Neuromatch'2020, Online, October 2020 [by Joe, Ellen]
