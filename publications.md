@@ -32,9 +32,9 @@ arXiv:2105.05382 [q-bio.NC]
 Jia DW, Costa RP\*, Vogels TP\* [\* co-senior author]<br>
 bioRxiv:431593
 
-[_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/450825v1)<br>
+[_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/2021.09.01.458493v1.abstract)<br>
 Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
-bioRxiv:450825
+bioRxiv:458493
 
 <hr>
 
@@ -47,7 +47,7 @@ Trends in Neuroscience (in press), 2021<br>
 [_The role of disentanglement in generalisation_](https://openreview.net/forum?id=qbH974jKUVy)<br>
 Montero ML, Ludwig C, Costa RP, Malhotra G, Bowers J<br>
 Proceedings of International Conference on Learning Representations, Online, May 2021<br>
-[[code](https://github.com/mmrl/disent-and-gen)]
+[[code](https://github.com/mmrl/disent-and-gen), [slides](https://iclr.cc/media/Slides/iclr/2021/virtual(03-16-00)-03-16-00UTC-3173-the_role_of.pdf)]
 
 [_A deep learning framework for neuroscience_](https://www.nature.com/articles/s41593-019-0520-2)<br>
 Richards BA\*, Lillicrap TP\*, (...) Costa RP, (...) Therien D\* and Kording KP\* [\* equal contrib.]<br>
