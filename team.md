@@ -89,7 +89,7 @@ permalink: /team/
 </div>
 
 - non-exhaustive:
-- `Jack Mellor`, `Jeff Bowers`, `Paul Anastasiades`, `Liz Coulthard`, `Paul Chadderton`, `Paul Dodson`, `Richard Apps` [Neuro @ University of Bristol, UK]
+- `Jack Mellor`, `Paul Anastasiades`, `Liz Coulthard`, `Paul Chadderton`, `Paul Dodson`, `Matt Jones`, `Jeff Bowers`, `Richard Apps` [Neuro @ University of Bristol, UK]
 - `Rob Froemke` [New York University, US]
 - `Adam Kepecs` [Washington University, US]
 - `‪Caglar Gulcehre‬`, `Max Jaderberg` [Google Deepmind, UK]
