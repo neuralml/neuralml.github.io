@@ -3,7 +3,7 @@ name: Kevin Kermani Nejad
 title: Kevin Kermani Nejad
 position: gradstudent
 avatar: KevinNejad.png
-joined: 2021
+joined: 2021_2
 affiliation: <span>[w/ Paul Anastasiades]</span><br><span style="color:#FFFFFF">.</span>
 
 ---

@@ -2,7 +2,7 @@
 name: Maija Filipovica
 position: gradstudent
 avatar: Maija_Filipovica_bw.png
-joined: 2021
+joined: 2021_1
 affiliation: <span style="color:#FFFFFF">.</span><br><span style="color:#FFFFFF">.</span>
 ---
 
