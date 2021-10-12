@@ -75,6 +75,7 @@ permalink: /team/
 </div>
 
 - `Samia Mohinta` [visiting RA; w/ Stephane Ciocchi]
+- `Callum Young` [rotation SWBio PhD; w/ Paul Dodson]
 - `Ainesh Sevellaraja` [CS MEng]
 - `Nicole Li` [CS MEng]
 - `Lizzie Hull` [CS MSc Conv]
