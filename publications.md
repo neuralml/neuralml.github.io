@@ -40,10 +40,9 @@ bioRxiv:458493
 
 ### Journals and peer-reviewed proceedings
 
-_Cortico-cerebellar networks as decoupling neural interfaces_<br> 
+[_Cortico-cerebellar networks as decoupling neural interfaces_](https://arxiv.org/abs/2110.11501)<br>
 Pemberton J\*, Boven E\*, Apps R and Costa RP [\* equal contributions]<br>
-Proceedings of 35th Neural Information Processing Systems, Online, 2021<br>
-(link soon)
+Proceedings of 35th Neural Information Processing Systems, Sidney, Australia (Online), 2021<br>
 
 [_Learning offline: memory replay in biological and artificial reinforcement learning_](https://authors.elsevier.com/c/1dgZ4botpuX3Y)<br>
 Roscow E, Chua R, Costa RP, Jones M and Lepora N<br>
