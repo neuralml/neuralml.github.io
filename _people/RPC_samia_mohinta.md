@@ -1,6 +1,6 @@
 ---
 name: Samia Mohinta
-title:Samia Mohinta
+title: Samia Mohinta
 position: RA
 avatar: SamiaMohinta.png
 joined: 2019
