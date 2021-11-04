@@ -33,7 +33,7 @@ permalink: /team/
 <h3>Principal investigator</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Doctoral students</h3>
-{% elsif item == 'RA' %}
+{% elsif item == 'researchassistant' %}
 <h3>Research Assistants</h3>
 {% elsif item == 'alumni' %}
 <h3>Alumni</h3>

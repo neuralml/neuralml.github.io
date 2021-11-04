@@ -1,7 +1,7 @@
 ---
 name: Samia Mohinta
 title: Samia Mohinta
-position: ra
+position: researchassistant
 avatar: SamiaMohinta.png
 joined: 2019
 affiliation: visitor<br>[w/ Stephane Ciocchi (Bern)]
@@ -14,7 +14,7 @@ affiliation: visitor<br>[w/ Stephane Ciocchi (Bern)]
 <h4>Postdoctoral research associate</h4>
  {% elsif page.position == 'gradstudent' %}
 <h4>PhD student</h4>
-{% elsif page.position == 'RA' %}
+{% elsif page.position == 'researchassistant' %}
 <h4>Research Assistant</h4>
  {% endif %}
 
