@@ -1,7 +1,7 @@
 ---
 name: Samia Mohinta
 title: Samia Mohinta
-position: ra
+position: gradstudent
 avatar: SamiaMohinta.png
 joined: 2019
 affiliation: visitor<br>[w/ Stephane Ciocchi (Bern)]
