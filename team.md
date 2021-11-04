@@ -34,8 +34,8 @@ permalink: /team/
  {% elsif item == 'gradstudent' %}
 <h3>Doctoral students</h3>
 {% elsif item == 'visiting' %}
-<h3>Visiting scholars</h3>
- {% elsif item == 'ungradstudent' %}
+<h3>Research Assistants</h3>
+ {% elsif item == 'RA' %}
 <h3>Master/undergrad students</h3>
 {% elsif item == 'alumni' %}
 <h3>Alumni</h3>
