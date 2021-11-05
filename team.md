@@ -71,7 +71,7 @@ permalink: /team/
 <div class="pos_header">
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
-- `Samia Mohinta` [w/ Stephane Ciocchi]
+- `Samia Mohinta` [visiting RA; w/ Stephane Ciocchi]
 - `Callum Young` [rotation SWBio PhD; w/ Paul Dodson]
 - `Ainesh Sevellaraja` [CS MEng]
 - `Nicole Li` [CS MEng]
