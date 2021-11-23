@@ -40,8 +40,6 @@ bioRxiv:458493
 
 ### Journals and peer-reviewed proceedings
 
-[top 30 paper](https://guoqiangwei.xyz/htmls/neurips2021/neurips2021_submissions.html)!
-
 [_Cortico-cerebellar networks as decoupling neural interfaces_](https://arxiv.org/abs/2110.11501)<br>
 Pemberton J\*, Boven E\*, Apps R and Costa RP [\* equal contributions]<br>
 Proceedings of 35th Neural Information Processing Systems, Sidney, Australia (Online), 2021 [top 30 out of ~12000 submissions!](https://guoqiangwei.xyz/htmls/neurips2021/neurips2021_submissions.html)!<br>
