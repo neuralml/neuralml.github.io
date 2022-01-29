@@ -18,7 +18,7 @@ permalink: /publications/
 
 [_Cortico-cerebellar networks facilitate learning through feedback decoupling_](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1)<br>
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
-bioRxiv:431593
+bioRxiv:477827
 
 [_Developmental depression-facilitation shift controls excitation-inhibition balance_](https://www.biorxiv.org/content/10.1101/2021.02.23.431593v2)<br>
 Jia DW, Costa RP\*, Vogels TP\* [\* co-senior author]<br>
