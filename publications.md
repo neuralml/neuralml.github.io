@@ -16,17 +16,9 @@ permalink: /publications/
 
 ### Preprints
 
-_Cortico-cerebellar networks facilitate learning through feedback decoupling_<br>
+[_Cortico-cerebellar networks facilitate learning through feedback decoupling_](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1)<br>
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
-(preprint soon)
-
-_Hippocampal networks support continual reinforcement learning_<br>
-Mohinta S\*, Pedamonti D\*, Malagon-Vina H, Dimitrov M, Ciocchi S and Costa RP [\* equal contributions]<br>
-(preprint soon)
-
-[_Issues with learning in biological recurrent neural networks (CCN GAC Workshop)_](https://arxiv.org/abs/2105.05382)<br>
-Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA<br>
-arXiv:2105.05382 [q-bio.NC]
+bioRxiv:431593
 
 [_Developmental depression-facilitation shift controls excitation-inhibition balance_](https://www.biorxiv.org/content/10.1101/2021.02.23.431593v2)<br>
 Jia DW, Costa RP\*, Vogels TP\* [\* co-senior author]<br>
@@ -39,6 +31,11 @@ bioRxiv:458493
 <hr>
 
 ### Journals and peer-reviewed proceedings
+
+[_Issues with learning in biological recurrent neural networks (CCN GAC Workshop)_](https://arxiv.org/abs/2105.05382)<br>
+Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA<br>
+Neurons, Behavior, Data Analysis and Theory (NBDT) [accepted]
+
 
 [_Cortico-cerebellar networks as decoupling neural interfaces_](https://arxiv.org/abs/2110.11501)<br>
 Pemberton J\*, Boven E\*, Apps R and Costa RP [\* equal contributions]<br>
