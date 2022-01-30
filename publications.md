@@ -16,7 +16,7 @@ permalink: /publications/
 
 ### Preprints
 
-[_Cortico-cerebellar networks facilitate learning through feedback decoupling_](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1)<br>
+[_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1)<br>
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
 bioRxiv:477827
 
