@@ -10,7 +10,7 @@ permalink: /joinus/
 <hr>
 
 <header class="masthead text-justify" style="font-size:120%">
-<p>Diversity leads to new creative solutions. We <b>encourage</b> applications from all backgrounds and communities. </p>
+<p>Diversity leads to new creative solutions. We <b> strongly encourage</b> applications from under-represented groups, such as women, racial and ethnic or any other minorities. Bristol has an exciting diversity of cultures and backgrounds, making it an unique open-minded city to live in. What is important is that you have a <b>keen interest in understanding how brains learn<b>. </p>
 </header>
 
 ### Postdocs
