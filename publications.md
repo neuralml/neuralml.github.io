@@ -32,7 +32,7 @@ bioRxiv:458493
 
 ### Journals and peer-reviewed proceedings
 
-[_Issues with learning in biological recurrent neural networks (CCN GAC Workshop)_](https://arxiv.org/abs/2105.05382)<br>
+[_Current state and future directions for learning in biological recurrent neural networks: a perspective piece_](https://arxiv.org/abs/2105.05382)<br>
 Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA<br>
 Neurons, Behavior, Data Analysis and Theory (NBDT) [accepted]
 
