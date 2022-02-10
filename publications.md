@@ -329,7 +329,7 @@ Seventeenth Annual Computational Neuroscience Meeting CNS, July 2008
 
 <hr>
 
-<b>We have reviewed for:</b> Science, eLife, Neuron, PNAS, JNeurosci., NeurIPS (2015-), ICLR (2017-), ICML (2018-), PLoS Comp. Bio., CONB, JPhysio,  Front. Comput. Neurosci., JComputational Neurosci. and PLoS One.
+<b>We have reviewed for:</b> Science, eLife, Neuron, PNAS, JNeurosci., Cosyne, NeurIPS, ICLR, ICML, TMLR, PLoS Comp. Bio., CONB, JPhysio,  Front. Comput. Neurosci., JComputational Neurosci. and PLoS One.
 
 <hr>
 {% include footer.html %}
