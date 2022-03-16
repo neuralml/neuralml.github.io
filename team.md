@@ -71,14 +71,15 @@ permalink: /team/
 <div class="pos_header">
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
-- `Samia Mohinta` [visiting RA; w/ Stephane Ciocchi]
 - `Callum Young` [rotation SWBio PhD; w/ Paul Dodson]
-- `Ainesh Sevellaraja` [CS MEng]
-- `Nicole Li` [CS MEng]
-- `Lizzie Hull` [CS MSc Conv]
-- `Jason Park` [CS BSc]
-- `Matt Friend` [CS BSc]
-- `Martin Noruisis` [CS BSc]
+- `Ayodya Samarawickrama` [undergrad]
+- `Robert Popescy` [undergrad]
+- `Evgenia Karnavou` [undergrad]
+- `Viktor Kusheliev` [undergrad]
+- `Baiquan Zhang` [undergrad]
+- `Jushua Hall` [undergrad]
+- `Katia Vasilonikolidaki` [undergrad]
+- `Aadith Pillai` [undergrad]
 
 <hr>
 <div class="pos_header">
