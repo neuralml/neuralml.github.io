@@ -76,6 +76,13 @@ permalink: /people/alumni
 <div class="pos_header">
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
+<p><b>2020/2021</b>:</p>
+- `Ainesh Sevellaraja` [CS MEng]
+- `Nicole Li` [CS MEng]
+- `Lizzie Hull` [CS MSc Conv]
+- `Jason Park` [CS BSc]
+- `Matt Friend` [CS BSc]
+- `Martin Noruisis` [CS BSc]
 <p><b>2019/2020</b>:</p>
 - `Priyanka Sukumaran` [WT Neural Dynamics PhD rotation; w/ Paul Anastasiades]
 - `Dabal Pedamonti` [Farscope PhD rotation; w/ Nathan Lepora; now a PhD student]
@@ -89,7 +96,7 @@ permalink: /people/alumni
 <p><b>2018/2019</b>:</p>
 - `Ellen Boven` [WT Neural Dynamics Program, w/ Richard Apps; now a PhD student]
 - `Heng Wei Zhu` [WT Neural Dynamics Program, w/ Jack Mellor; now a PhD student]
-- `Samia Mohinta` [Advanced CS MSc w/ Stephane Ciocchi; now visiting RA]
+- `Samia Mohinta` [Advanced CS MSc w/ Stephane Ciocchi; now PhD at Cambridge]
 - `Ruben Powar` [Advanced CS MSc]
 - `Raymond Chua` [Visiting MSc; Technical University of Munich; now a visiting PhD student]
 - `Ellis Pridgeon` [CS MEng]
