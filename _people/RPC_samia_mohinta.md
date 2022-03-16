@@ -3,7 +3,7 @@ name: Samia Mohinta
 title: Samia Mohinta
 position: gradstudent
 avatar: SamiaMohinta.png
-joined: 2022
+joined: 2022_1
 affiliation: visitor<br>[w/ Albert Cardona (Cambridge)]
 
 ---
