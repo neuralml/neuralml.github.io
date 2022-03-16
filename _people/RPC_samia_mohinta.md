@@ -1,10 +1,10 @@
 ---
 name: Samia Mohinta
 title: Samia Mohinta
-position: researchassistant
+position: gradstudent
 avatar: SamiaMohinta.png
-joined: 2019
-affiliation: visitor<br>[w/ Stephane Ciocchi (Bern)]
+joined: 2022
+affiliation: visitor<br>[w/ Albert Cardona (Cambridge)]
 
 ---
 
@@ -23,4 +23,4 @@ affiliation: visitor<br>[w/ Stephane Ciocchi (Bern)]
 
 <header class="masthead text-justify" style="font-size:120%">
 
-I am a visitor to the group and currently a Research Assistant at UCL soon to start my PhD in Data Science and Neuroscience at UCambridge.
+I am a visitor/collaborator with the group and currently a Data scientist/PhD student at the Experimental and Comparative Connectomics Laboratory, MRC LMB, University of Cambridge.
