@@ -6,7 +6,7 @@ permalink: /etal/
 ### Videos
 
 
-<div class="content list people" style="text-align: left;">
+<div class="content list people" style="text-align: center;">
   <div class="list-item-people" style="width: 49%">
     <p class="list-post-title">
       <center>
