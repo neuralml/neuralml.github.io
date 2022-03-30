@@ -142,7 +142,7 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 ### Peer-reviewed conference/workshop posters
 
 _Reorganizing cortical learning: a cholinergic adaptive credit assignment model_<br>
-Filipovica M, Zhu HW\*, Greedy W\*, Mellor J and Costa RP<br>
+Filipovica M, Zhu HW, Greedy W, Mellor J and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022 [selected for a talk]
 
 _Single-phase deep learning in cortico-cortical networks_<br>
