@@ -26,7 +26,7 @@ permalink: /etal/
     <div class="list-item-people" style="width: 49%">
     <p class="list-post-title">
       <center>
-        Reorganising cortical learning (by Maija):
+        Reorganising cortical learning (Cosyne'22):
           <style>.embed-container { position: relative; margin-bottom: 0px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 75%; max-height: 85%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 80%; height: 55%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DvsflwKOWs0?start=5062' frameborder='0' allowfullscreen></iframe></div>
         </center>      
       </p>    
