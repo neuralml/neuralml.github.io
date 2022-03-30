@@ -10,6 +10,17 @@ permalink: /etal/
   <div class="list-item-people" style="width: 49%">
     <p class="list-post-title">
       <center>
+        Reorganising cortical learning (Cosyne'22):
+          <style>.embed-container { position: relative; margin-bottom: 0px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 75%; max-height: 85%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 80%; height: 55%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DvsflwKOWs0?start=5062' frameborder='0' allowfullscreen></iframe></div>
+        </center>      
+      </p>    
+   </div><br>
+</div>
+
+<div class="content list people" style="text-align: left;">
+  <div class="list-item-people" style="width: 49%">
+    <p class="list-post-title">
+      <center>
       	Ode to the brain:
           <style>.embed-container { position: relative; margin-bottom: 0px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 75%; max-height: 85%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 80%; height: 55%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/JB7jSFeVz1U' frameborder='0' allowfullscreen></iframe></div>
         </center>      
@@ -22,16 +33,7 @@ permalink: /etal/
          	<style>.embed-container { position: relative; margin-bottom: 0px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 80%; max-height: 90%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/249505102' width="320" height="200" frameborder='0' allowfullscreen></iframe></div>
         </center>
        </p>
-    </div><br>
-    <div class="list-item-people" style="width: 49%">
-    <p class="list-post-title">
-      <center>
-        Reorganising cortical learning (Cosyne'22):
-          <style>.embed-container { position: relative; margin-bottom: 0px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 75%; max-height: 85%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 80%; height: 55%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DvsflwKOWs0?start=5062' frameborder='0' allowfullscreen></iframe></div>
-        </center>      
-      </p>    
-   </div>
-    
+    </div><br>    
 </div>
 
 <hr>
