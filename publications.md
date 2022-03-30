@@ -141,6 +141,26 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 ### Peer-reviewed conference/workshop posters
 
+_Single-phase deep learning in cortico-cortical networks_
+Greedy W\*, Zhu HW\*, Mellor J, Costa RP[\* equal contributions]<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022
+
+_Cerebro-cerebellar networks facilitate learning through feedback decoupling_<br>
+Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022
+
+_Hippocampal networks support continual learning and generalisation_<br>
+Mohinta S\*, Pedamonti D\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022
+
+_Self-supervised learning in neocortical layers: how the present teaches the past_<br>
+Nejad KK, Pedamonti D, Anastasiades P, Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022
+
+_Cerebellum learns to drive cortical dynamics: a computational lesson_<br>
+Pemberton J and Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022
+
 _Cortico-cerebellar networks as brain-wide decoupling machines_<br>
 Boven E\*, Pemberton J\*, Apps R and Costa RP [\* equal contributions]<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Online, Feb 2021
