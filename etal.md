@@ -43,7 +43,7 @@ permalink: /etal/
 
 <br>
 #### `Github account`
-We share the code of (mostly) finished projects on our [Github account](https://github.com/neuralml/).
+We share the code of (mostly) finished projects on our <b>[Github account](https://github.com/neuralml/)</b>.
 <br><br>
 
 #### `Fire together, optimise together: Statistical long-term synaptic plasticity`
