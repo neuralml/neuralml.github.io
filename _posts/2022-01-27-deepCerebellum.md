@@ -1,7 +1,7 @@
 ---
-title: Deep cerebro-cerebellar networks (preprint online)
+title: Cerebro-cerebellar networks as feedback prediction machines (preprint on bioRxiv)
 categories: news
-description: A deep learning-inspired theory of cerebro-cerebellar interactions (preprint online)
+description: Cerebro-cerebellar networks as feedback prediction machines (preprint on bioRxiv)
 ---
 
-Our new exciting story on [cerebro-cerebellar networks as feedback prediction machines](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1) with a range of experimental predictions is now on bioRxiv!
+Our new exciting story inspired by a recent deep learning framework on [cerebro-cerebellar networks as feedback prediction machines](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1) with a range of experimental predictions is now on bioRxiv!
