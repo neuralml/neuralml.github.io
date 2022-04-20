@@ -139,7 +139,12 @@ We share the code of (mostly) finished projects on our <b>[Github account](https
 
 ### Talks
 
+- TBD, Neuroinformatics Institute, ETH Zurich, June 2022 [by Rui]
+- TBD, Dept of Bioengineering, Imperial College London, May 2022 [by Rui]
+- Unlocking efficient credit assignment in the brain, [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/), April 2022 [by Rui]
+- Cerebro-cerebellar networks as brain-wide decoupling machines, [MIT K. Lisa Yang ICoN Center](https://yangtan.mit.edu/k-lisa-yang-integrative-computational-neuroscience-icon-center/), April 2022 [by Joe]
 - Reorganizing cortical learning: a cholinergic adaptive credit assignment model, Filipovica M, Zhu HW, Greedy W, Mellor J and Costa RP, Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022 [selected talk by Maija]
+- Cerebro-cerebellar networks as brain-wide decoupling machines, [Wagner Lab, National Institutes of Health](http://markwagnerlab.com/), Oct 2021 [by Ellen]
 - Cortico-cerebellar networks as brain-wide decoupling machines, 1st Symposium on Artificial Intelligence & Neuroscience (ACAIN), October 2021 [by Joe and Ellen]
 - Hippocampal encoding of continual reinforcement learning features, 1st Symposium on Artificial Intelligence & Neuroscience (ACAIN), October 2021 [by Dabal and Samia]
 - Neuroscience through the lens of machine learning, Bristol SCEEM Research Conference, Online, April 2021
