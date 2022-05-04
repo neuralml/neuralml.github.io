@@ -31,11 +31,11 @@ bioRxiv:431593
 
 [_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/2021.09.01.458493v1.abstract)<br>
 Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
-PLOS Computational Biology [accepted]
+PLOS Computational Biology [to appear]
 
-[_Current state and future directions for learning in biological recurrent neural networks: a perspective piece_](https://arxiv.org/abs/2105.05382)<br>
+[_Current state and future directions for learning in biological recurrent neural networks: a perspective piece_](https://nbdt.scholasticahq.com/article/35302-current-state-and-future-directions-for-learning-in-biological-recurrent-neural-networks-a-perspective-piece)<br>
 Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA<br>
-Neurons, Behavior, Data Analysis and Theory (NBDT) [accepted]
+Neurons, Behavior, Data Analysis and Theory (NBDT), April 2022 [in press]
 
 
 [_Cortico-cerebellar networks as decoupling neural interfaces_](https://arxiv.org/abs/2110.11501)<br>
@@ -45,7 +45,7 @@ Proceedings of 35th Neural Information Processing Systems, Sidney, Australia (On
 
 [_Learning offline: memory replay in biological and artificial reinforcement learning_](https://authors.elsevier.com/c/1dgZ4botpuX3Y)<br>
 Roscow E, Chua R, Costa RP, Jones M and Lepora N<br>
-Trends in Neuroscience (in press), 2021<br>
+Trends in Neuroscience, Volume 44, Issue 10, October 2021<br>
 
 [_The role of disentanglement in generalisation_](https://openreview.net/forum?id=qbH974jKUVy)<br>
 Montero ML, Ludwig C, Costa RP, Malhotra G, Bowers J<br>
