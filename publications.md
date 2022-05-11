@@ -31,11 +31,11 @@ bioRxiv:431593
 
 [_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/2021.09.01.458493v1.abstract)<br>
 Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
-PLOS Computational Biology [minor revisions]
+PLOS Computational Biology [accepted]
 
 [_Current state and future directions for learning in biological recurrent neural networks: a perspective piece_](https://nbdt.scholasticahq.com/article/35302-current-state-and-future-directions-for-learning-in-biological-recurrent-neural-networks-a-perspective-piece)<br>
 Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA<br>
-Neurons, Behavior, Data Analysis and Theory (NBDT), April 2022 [in press]
+Neurons, Behavior, Data Analysis and Theory (NBDT), April 2022
 
 
 [_Cortico-cerebellar networks as decoupling neural interfaces_](https://arxiv.org/abs/2110.11501)<br>
