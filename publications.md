@@ -60,7 +60,7 @@ Nature Neuroscience, 22, pages 1761–1770, 2019
 Bykowska O, Gontier C, Sax AL, Jia DW, Montero ML, Bird A, Houghton C, Pfister JP and Costa RP<br>
 Front. Synaptic Neurosci. [Special Issue on Methods for Synaptic Interrogation](https://www.frontiersin.org/research-topics/7595/methods-for-synaptic-interrogation#articles), 11:21, 2019
 
-[_Computational roles of plastic probabilistic synapses_](https://www.sciencedirect.com/science/article/pii/S0959438818301028)<br>
+[_Computational roles of plastic probabilistic synapses_](https://www.sciencedirect.com/science/article/pii/S0959438818301028) [free [preprint](/images/pubs/ProbSyn_CONB_preprint.pdf)]<br>
 Montero ML, Sacramento J and Costa RP<br>
 Current Opinion in Neurobiology, Volume 54, 2019
 
