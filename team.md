@@ -91,10 +91,10 @@ permalink: /team/
 - `Rob Froemke` [New York University, US]
 - `Adam Kepecs` [Washington University, US]
 - `‪Caglar Gulcehre‬`, `Max Jaderberg` [Google Deepmind, UK]
-- `Stephane Ciocchi​` [University of Bern, Switzerland]
+- `Adil Khan` [Kings College London]
+- `Jasper Poort` [Cambridge University]
 - `Joao Sacramento` [ETH, Switzerland]
 - `Yoshua Bengio` [MILA; University of Montreal, Canada]
-- `Nathan Lepora`, `Conor Houghton` and `Laurence Aitchison` [CNU @ Bristol, UK]
 
 
 
