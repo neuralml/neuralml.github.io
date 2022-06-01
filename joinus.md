@@ -24,7 +24,7 @@ permalink: /joinus/
 <ul>
   <li><a href="https://www.bristol.ac.uk/vc-fellows/" target="_blank">Bristol Vice-Chancellor's Fellowships</a>, which offer an excelent opportunity for early-career researchers to move towards setting up their own independent group.</li>
   <li><a href="https://wellcome.org/grant-funding/schemes/early-career-awards" target="_blank">Wellcome Early-Career Awards</a>, which offers an excelent opportunity for early-career researchers to move towards setting up their own independent group.</li> 
-  <li><a href="https://www.bristol.ac.uk/red/development/international/mariecurie/mariecuriefellows/" target="_blank">Marie Skłodowska-Curie Fellowships</a>, which Bristol has been particularly successful at.</li>
+  <li><a href="https://www.bristol.ac.uk/red/international/mariecurie/mariecuriefellows/" target="_blank">Marie Skłodowska-Curie Fellowships</a>, which Bristol has been particularly successful at.</li>
   <li><a href="https://www.leverhulme.ac.uk/early-career-fellowships" target="_blank">Leverhulme Early Career Fellowship</a></li> 
   <li><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank">HFSP Fellowships</a></li> 
   <li><a href="https://en.unesco.org/science-sustainable-future/women-in-science" target="_blank">L’Oréal-UNESCO Awards For Women in Science</a></li> 
