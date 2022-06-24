@@ -17,7 +17,7 @@ permalink: /publications/
 ### Preprints
 
 [_Single-phase deep learning in cortico-cortical networks_](https://arxiv.org/abs/2206.11769)<br>
-Greedy W\*, Zhu HW\*, Pemberton J, Mellor J, Costa RP[\* equal contributions]<br>
+Greedy W\*, Zhu HW\*, Pemberton J, Mellor J, Costa RP [\* equal contributions]<br>
 arXiv:2206.11769
 
 [_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1)<br>
@@ -151,7 +151,7 @@ Filipovica M, Zhu HW, Greedy W, Mellor J and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022 [selected for a talk]
 
 _Single-phase deep learning in cortico-cortical networks_<br>
-Greedy W\*, Zhu HW\*, Mellor J, Costa RP[\* equal contributions]<br>
+Greedy W\*, Zhu HW\*, Mellor J, Costa RP [\* equal contributions]<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022
 
 _Cerebro-cerebellar networks facilitate learning through feedback decoupling_<br>
