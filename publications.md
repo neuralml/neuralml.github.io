@@ -25,7 +25,7 @@ Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributi
 bioRxiv:477827
 
 [_Developmental depression-facilitation shift controls excitation-inhibition balance_](https://www.biorxiv.org/content/10.1101/2021.02.23.431593v2)<br>
-Jia DW, Costa RP\*, Vogels TP\* [\* co-senior author]<br>
+Jia DW, Vogels TP\* and Costa RP\* [\* co-senior author]<br>
 bioRxiv:431593
 
 
@@ -33,9 +33,9 @@ bioRxiv:431593
 
 ### Journals and peer-reviewed proceedings
 
-[_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://www.biorxiv.org/content/10.1101/2021.09.01.458493v1.abstract)<br>
+[_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009409)<br>
 Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
-PLOS Computational Biology [accepted]
+PLoS Computational Biology 18(6)
 
 [_Current state and future directions for learning in biological recurrent neural networks: a perspective piece_](https://nbdt.scholasticahq.com/article/35302-current-state-and-future-directions-for-learning-in-biological-recurrent-neural-networks-a-perspective-piece)<br>
 Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA<br>
