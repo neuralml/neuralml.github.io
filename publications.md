@@ -35,7 +35,7 @@ bioRxiv:431593
 
 [_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009409)<br>
 Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
-PLoS Computational Biology 18(6)
+PLoS Computational Biology 18(6), June 2022
 
 [_Current state and future directions for learning in biological recurrent neural networks: a perspective piece_](https://nbdt.scholasticahq.com/article/35302-current-state-and-future-directions-for-learning-in-biological-recurrent-neural-networks-a-perspective-piece)<br>
 Prince L, Boven E, Eyono R, Ghosh A, Pemberton J, Scherr F, Clopath C, Costa RP, Maass W, Richards B, Savin C and Wilmes KA<br>
