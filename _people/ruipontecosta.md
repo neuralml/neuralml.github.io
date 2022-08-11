@@ -26,7 +26,7 @@ Merchant Venturers Building<br>
 Woodland Road<br>
 Bristol, BS8 1UB, England, United Kingdom<br>-->
 
-_Lecturer (tenured assistant professor), University of Bristol, United Kingdom_ <br>
+_Senior Lecturer (equivalent to tenured associate prof.), University of Bristol, United Kingdom_ <br>
 _Computational Neuroscience Unit, Intelligent Systems Lab, SCEEM, Faculty of Engineering and Bristol Neuroscience_ <br>
 <br><br>
 
