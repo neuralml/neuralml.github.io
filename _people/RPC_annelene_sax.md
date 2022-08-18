@@ -1,6 +1,6 @@
 ---
 name: Anne-Lene Sax
-position: gradstudent
+position: postdoc
 avatar: AnneLene_Sax.png
 joined: 2018
 affiliation: <span>[w/ Roland Baddeley (EP)<br>and Wei Ji Ma (NYU)]</span>
