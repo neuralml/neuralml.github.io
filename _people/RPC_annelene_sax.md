@@ -17,7 +17,7 @@ affiliation: <span>[w/ Roland Baddeley (EP)<br>and Wei Ji Ma (NYU)]</span>
 <b>{{page.affiliation}}</b>
 
 <header class="masthead text-justify" style="font-size:120%">
-Anne is interested in building computational models of metacognition and metacognitive bias in the context of different psychopathologies, in particular depression. In her current project, she explores the association between self-performance beliefs and performance, the nature of learning about own ability and deviations of both, perception of and learning about own performance in the context of depression. 
+Anne did her PhD with us and is now a postdoc in the group. She is interested in building computational models of metacognition and metacognitive bias in the context of different psychopathologies, in particular depression. In her current project, she explores the association between self-performance beliefs and performance, the nature of learning about own ability and deviations of both, perception of and learning about own performance in the context of depression. 
 
 <br><br>
 To study this, Anne combines online behavioural studies with different computational models including Bayesian, reinforcement learning and multi-level neural network models and combinations thereof.

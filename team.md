@@ -4,7 +4,7 @@ permalink: /team/
 ---
 
 {% assign people_sorted = site.people | sort: "joined" %}
-{% assign people_array = "pi|postdoc|researchassistant|gradstudent|others" | split: "|" %}
+{% assign people_array = "pi|collab|postdoc|researchassistant|gradstudent|others" | split: "|" %}
 
 
 <!--
@@ -29,6 +29,8 @@ permalink: /team/
 <div class="pos_header">
 {% if item == 'postdoc' %}
 <h3>Postdoctoral research associates</h3>
+{% elsif item == 'collab' %}
+<h3>External collaborators</h3>
  {% elsif item == 'pi' %}
 <h3>Principal investigator</h3>
 {% elsif item == 'researchassistant' %}
@@ -83,7 +85,7 @@ permalink: /team/
 
 <hr>
 <div class="pos_header">
-<h3>Collaborators</h3>
+<h3>Collaborating Labs:</h3>
 </div>
 
 - non-exhaustive:
