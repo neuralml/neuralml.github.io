@@ -31,9 +31,9 @@ bioRxiv:477827
 
 ### Journals and peer-reviewed proceedings
 
-[_Developmental depression-to-facilitation shift controls excitation-inhibition balance_](https://www.biorxiv.org/content/10.1101/2021.02.23.431593v2)<br>
+[_Developmental depression-to-facilitation shift controls excitation-inhibition balance_](https://www.nature.com/articles/s42003-022-03801-2)<br>
 Jia DW, Vogels TP\* and Costa RP\* [\* co-senior author]<br>
-Communications Biology [accepted]
+Communications Biology, 5, 873, August 2022
 
 [_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009409)<br>
 Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
