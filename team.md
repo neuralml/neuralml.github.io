@@ -80,6 +80,8 @@ permalink: /team/
 - `Jushua Hall` [undergrad]
 - `Katia Vasilonikolidaki` [undergrad]
 - `Aadith Pillai` [undergrad]
+- `Jadadish Kumar` [Data Science MSc]
+- `Olly Hill` [Data Science MSc]
 
 <hr>
 <div class="pos_header">
