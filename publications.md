@@ -16,24 +16,27 @@ permalink: /publications/
 
 ### Preprints
 
-[_Single-phase deep learning in cortico-cortical networks_](https://arxiv.org/abs/2206.11769)<br>
-Greedy W\*, Zhu HW\*, Pemberton J, Mellor J, Costa RP [\* equal contributions]<br>
-arXiv:2206.11769
 
 [_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1)<br>
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
 bioRxiv:477827
 
 
-
-
 <hr>
 
 ### Journals and peer-reviewed proceedings
 
+[_Single-phase deep learning in cortico-cortical networks_](https://arxiv.org/abs/2206.11769)<br>
+Greedy W\*, Zhu HW\*, Pemberton J, Mellor J and Costa RP [\* equal contributions]<br>
+Proceedings of 36th Neural Information Processing Systems, New Orleans, USA, 2022 [Shortlisted for an award]
+
 [_Developmental depression-to-facilitation shift controls excitation-inhibition balance_](https://www.nature.com/articles/s42003-022-03801-2)<br>
 Jia DW, Vogels TP\* and Costa RP\* [\* co-senior author]<br>
 Communications Biology, 5, 873, August 2022
+
+[_Lost in latent space: disentangled models and the challenge of combinatorial generalisation_](https://arxiv.org/abs/2204.02283)<br>
+Montero ML, Bowers J, Costa RP, Ludwig C and Malhotra G <br>
+Proceedings of 36th Neural Information Processing Systems, New Orleans, USA, 2022
 
 [_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009409)<br>
 Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
