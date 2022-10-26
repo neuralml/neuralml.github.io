@@ -28,7 +28,7 @@ bioRxiv:477827
 
 [_Single-phase deep learning in cortico-cortical networks_](https://arxiv.org/abs/2206.11769)<br>
 Greedy W\*, Zhu HW\*, Pemberton J, Mellor J and Costa RP [\* equal contributions]<br>
-Proceedings of 36th Neural Information Processing Systems, New Orleans, USA, 2022<br>[Selected for talk]
+Proceedings of 36th Neural Information Processing Systems, New Orleans, USA, 2022<br>[Selected for oral]
 
 [_Developmental depression-to-facilitation shift controls excitation-inhibition balance_](https://www.nature.com/articles/s42003-022-03801-2)<br>
 Jia DW, Vogels TP\* and Costa RP\* [\* co-senior author]<br>
