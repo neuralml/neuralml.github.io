@@ -17,9 +17,14 @@ permalink: /publications/
 ### Preprints
 
 
+[_Cerebellar-driven cortical dynamics enable task acquisition, switching and consolidation_](https://www.biorxiv.org/content/10.1101/2022.11.14.516257v1)<br>
+Pemberton J, Chadderton P and Costa RP<br>
+bioRxiv:516257
+
 [_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1)<br>
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
 bioRxiv:477827
+
 
 
 <hr>
