@@ -247,6 +247,10 @@ Computational and Systems Neuroscience Meeting (CoSyNe), Salt Lake City, Utah, U
 
 ### Conference posters
 
+_Cholinergic adaptive learning for robust cortex-wide networks_<br>
+Filipovica M, Nejad K, Zhu HW, Greedy W, Mellor J and Costa RP<br>
+Society for Neuroscience, San Diego, USA, Nov 2022
+
 _Cerebellum as a brain-wide decoupling machine_<br>
 Pemberton J, Boven E, Apps R, Costa RP<br>
 Neuromatch, October 2020
