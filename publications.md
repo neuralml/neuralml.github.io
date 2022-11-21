@@ -17,7 +17,7 @@ permalink: /publications/
 ### Preprints
 
 
-[_Cerebellar-driven cortical dynamics enable task acquisition, switching and consolidation_](https://www.biorxiv.org/content/10.1101/2022.11.14.516257v1)<br>
+[_Cerebellar-driven cortical dynamics enable task acquisition, switching and consolidation_](https://doi.org/10.1101/2022.11.14.516257)<br>
 Pemberton J, Chadderton P and Costa RP<br>
 bioRxiv:516257
 
