@@ -19,6 +19,7 @@ permalink: /joinus/
 ### Postdocs
 
 <header class="masthead text-justify" style="font-size:120%">
+<p><b> We have two long-term postdoc positions openning soon funded by a ERC Starting Grant. Get in touch if interested!</b></p>
 <p>We are always interested in hearing from potential postdocs - please contact the PI early and we can work on figuring out funding. There are a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in collaboration with our group, such as:</p>
 
 <ul>
