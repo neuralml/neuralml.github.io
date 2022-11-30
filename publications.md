@@ -21,15 +21,14 @@ permalink: /publications/
 Pemberton J, Chadderton P and Costa RP<br>
 bioRxiv:516257
 
-[_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1)<br>
-Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
-bioRxiv:477827
-
-
 
 <hr>
 
 ### Journals and peer-reviewed proceedings
+
+[_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1)<br>
+Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
+Nature Communications (accepted); bioRxiv:477827
 
 [_Single-phase deep learning in cortico-cortical networks_](https://arxiv.org/abs/2206.11769)<br>
 Greedy W\*, Zhu HW\*, Pemberton J, Mellor J and Costa RP [\* equal contributions]<br>
