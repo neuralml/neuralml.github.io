@@ -139,8 +139,9 @@ We share the code of (mostly) finished projects on our <b>[Github account](https
 
 ### Talks
 
-- TBD, Neuroinformatics Institute, ETH Zurich, June 2022 [by Rui]
-- TBD, Dept of Bioengineering, Imperial College London, May 2022 [by Rui]
+- AI-driven modelling for rapid and robust cortex-wide credit assignment, DPAG, University of Oxford, Dec 2022 [by Rui]
+- Unlocking efficient credit assignment in the brain, Gatsby Unit, University College London, Nov 2022 [by Rui]
+- Unlocking efficient credit assignment in the brain, Dept of Bioengineering, Imperial College London, May 2022 [by Rui]
 - Unlocking efficient credit assignment in the brain, [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/), April 2022 [by Rui]
 - Cerebro-cerebellar networks as brain-wide decoupling machines, [MIT K. Lisa Yang ICoN Center](https://yangtan.mit.edu/k-lisa-yang-integrative-computational-neuroscience-icon-center/), April 2022 [by Joe]
 - Reorganizing cortical learning: a cholinergic adaptive credit assignment model, Filipovica M, Zhu HW, Greedy W, Mellor J and Costa RP, Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022 [selected talk by Maija]
