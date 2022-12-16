@@ -21,6 +21,10 @@ permalink: /publications/
 Pemberton J, Chadderton P and Costa RP<br>
 bioRxiv:516257
 
+[_Distributional coding of associative learning within projection-defined populations of midbrain dopamine neurons_](https://doi.org/10.1101/2022.07.18.500429)<br>
+Avvisati R, Kaufmann AK, Young CJ, Portlock GE, Cancemi S, Costa RP, Magill PJ and Dodson PD<br>
+bioRxiv:500429
+
 
 <hr>
 
