@@ -22,7 +22,7 @@ permalink: /joinus/
 
 <p><b> We have <u>multiple long-term postdoc positions</u> (up to 5 years) openning soon funded by a ERC Starting Grant and a BBSRC grant. You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. Get in touch if interested!</b></p>
 
-<p>We are always interested in hearing from potential postdocs - please contact the PI early and we can work on figuring out funding. There are a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in collaboration with our group, such as:</p>
+<p>There are also a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in collaboration with our group, such as:</p>
 
 <ul>
   <li><a href="https://www.bristol.ac.uk/vc-fellows/" target="_blank">Bristol Vice-Chancellor's Fellowships</a>, which offer an excelent opportunity for early-career researchers to move towards setting up their own independent group.</li>
