@@ -20,7 +20,7 @@ permalink: /joinus/
 
 <header class="masthead text-justify" style="font-size:120%">
 
-<p><b> We have <u>multiple long-term postdoc positions</u> (up to 5 years) openning soon funded by a ERC Starting Grant and a BBSRC grant. You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. Get in touch if interested (<a href="mailto:PIfirstname.costa@bristol.ac.uk">email</a></p>)!</b></p>
+<p><b> We have <u>multiple long-term postdoc positions</u> (up to 5 years) opening soon funded by a ERC Starting Grant and a BBSRC grant. You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. Get in touch if interested (<a href="mailto:PIfirstname.costa@bristol.ac.uk">email</a></p>)!</b></p>
 
 <p>There are also a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in collaboration with our group, such as:</p>
 
