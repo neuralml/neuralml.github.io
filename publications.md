@@ -30,9 +30,9 @@ bioRxiv:500429
 
 ### Journals and peer-reviewed proceedings
 
-[_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://www.biorxiv.org/content/10.1101/2022.01.28.477827v1)<br>
+[_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://doi.org/10.1038/s41467-022-35658-8)<br>
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
-Nature Communications (accepted); bioRxiv:477827
+Nature Communications, 14, 51, January 2023
 
 [_Single-phase deep learning in cortico-cortical networks_](https://arxiv.org/abs/2206.11769)<br>
 Greedy W\*, Zhu HW\*, Pemberton J, Mellor J and Costa RP [\* equal contributions]<br>
