@@ -34,7 +34,7 @@ bioRxiv:500429
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
 Nature Communications, 14, 51, January 2023
 
-[_Single-phase deep learning in cortico-cortical networks_](https://arxiv.org/abs/2206.11769)<br>
+[_Single-phase deep learning in cortico-cortical networks_](https://openreview.net/pdf?id=szt95rn-ql)<br>
 Greedy W\*, Zhu HW\*, Pemberton J, Mellor J and Costa RP [\* equal contributions]<br>
 Proceedings of 36th Neural Information Processing Systems, New Orleans, USA, 2022<br>[Selected for oral (<1% rate); 5min video [here](https://t.co/qOkcO1ZxWY)]
 
