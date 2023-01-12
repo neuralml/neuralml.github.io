@@ -32,7 +32,8 @@ bioRxiv:500429
 
 [_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://doi.org/10.1038/s41467-022-35658-8)<br>
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
-Nature Communications, 14, 51, January 2023
+Nature Communications, 14, 51, January 2023<br>
+[Highlighted as one of the [most exciting papers in neuroscience](https://www.nature.com/collections/mjkksldswr) by Nature Comms]
 
 [_Single-phase deep learning in cortico-cortical networks_](https://openreview.net/pdf?id=szt95rn-ql)<br>
 Greedy W\*, Zhu HW\*, Pemberton J, Mellor J and Costa RP [\* equal contributions]<br>
