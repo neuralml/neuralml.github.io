@@ -3,7 +3,7 @@ name: Callum Young
 title: Callum Young
 position: gradstudent
 avatar: Callum_Young_bw.png
-joined: 2022_1
+joined: 2022_2
 affiliation: <span>[w/ Paul Dodson]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
