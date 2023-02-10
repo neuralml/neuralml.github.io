@@ -139,6 +139,8 @@ We share the code of (mostly) finished projects on our <b>[Github account](https
 
 ### Talks
 
+- TBD, Technische Universität Berlin, Berlin, Germany, Mar 2023 [by Rui]
+- Single-phase deep learning in cortico-cortical networks, Carnegie Mellon’s brAIn, Jan 2023 [by Will]
 - AI-driven modelling for rapid and robust cortex-wide credit assignment, DPAG, University of Oxford, Dec 2022 [by Rui]
 - Unlocking efficient credit assignment in the brain, Gatsby Unit, University College London, Nov 2022 [by Rui]
 - Unlocking efficient credit assignment in the brain, Dept of Bioengineering, Imperial College London, May 2022 [by Rui]
