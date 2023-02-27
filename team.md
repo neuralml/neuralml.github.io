@@ -85,10 +85,10 @@ permalink: /team/
 
 <hr>
 <div class="pos_header">
-<h3>Collaborating Labs:</h3>
+<h3>Collaborators:</h3>
 </div>
 
-- non-exhaustive:
+(non-exhaustive)
 - `Jack Mellor`, `Paul Anastasiades`, `Liz Coulthard`, `Paul Chadderton`, `Paul Dodson`, `Matt Jones`, `Jeff Bowers`, `Richard Apps` [Neuro @ University of Bristol, UK]
 - `Rob Froemke` [New York University, US]
 - `Adam Kepecs` [Washington University, US]
