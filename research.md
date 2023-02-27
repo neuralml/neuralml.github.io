@@ -7,6 +7,7 @@ permalink: /research/
 
 ### Brain-wide credit assignment
 
+<center>
 We are at an exciting turning point in neuroscience. New technologies now allow us to measure and control neural activity and behaviour with unprecedented detail (Landhuis et al. 2017, Lauer et al. 2021). At the same time new theoretical frameworks are starting to reveal how rich behaviours arise from synaptic, circuit and systems computations (Richards et al. 2019). In our group we are contributing directly to the latter by aiming to understand how animals learn. To this end we are developing a new generation of computational models of brain function inspired by machine learning. We focus on understanding how a given behavioural outcome ultimately leads to credit being assigned to trillions of synapses across multiple brain areas – credit assignment problem (Fig. 1a). We believe that in order to have an unified understanding of how we learn to produce adaptible behaviours it is important to jointly study the contribution of (at least) three different systems (Fig. 1b): (i) cortical circuits, (ii) neuromodulation and (iii) subcortical facilitation.
 
 <div class="list-item-people" style="width: 100%">
@@ -20,7 +21,7 @@ We are at an exciting turning point in neuroscience. New technologies now allow 
 
 <hr>
 
-#### <p style="color:red">Cortical circuits for efficient credit assignment</p>
+#### Cortical circuits for efficient credit assignment
 
 
 <div class="content list people" style="text-align: left;">
@@ -33,7 +34,7 @@ We are at an exciting turning point in neuroscience. New technologies now allow 
 </div>
 <br>
 
-#### `Neuromodulation of cortical credit assignment`
+#### Neuromodulation of cortical credit assignment
 <div class="content list people" style="text-align: left;">
   
    <div class="list-item-people" style="width: 100%" >
@@ -45,7 +46,7 @@ We are at an exciting turning point in neuroscience. New technologies now allow 
 <br>
 
 
-#### `Subcortical regions as facilitators of cortical credit assignment`
+#### Subcortical regions as facilitators of cortical credit assignment
 <div class="content list people" style="text-align: left;">
   
    <div class="list-item-people" style="width: 80%" >
