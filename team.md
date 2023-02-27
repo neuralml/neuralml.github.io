@@ -71,7 +71,6 @@ permalink: /team/
 <div class="pos_header">
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
-- `Callum Young` [rotation SWBio PhD; w/ Paul Dodson]
 - `Ayodya Samarawickrama` [undergrad]
 - `Robert Popescy` [undergrad]
 - `Evgenia Karnavou` [undergrad]
