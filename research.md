@@ -12,7 +12,7 @@ We are at an exciting turning point in neuroscience. New technologies now allow 
  We focus on understanding how a given behavioural outcome ultimately leads to credit being assigned to trillions of synapses across multiple brain areas – credit assignment problem (Fig. 1a). We believe that in order to have an unified understanding of how we learn to produce adaptible behaviours it is important to jointly study the contribution of (at least) three different systems (Fig. 1b): (i) cortical circuits, (ii) neuromodulation and (iii) subcortical facilitation.
  </header>
 
-
+<br>
 <div class="list-item-people" style="width: 100%">
     <p class="list-post-title">
       <center>
