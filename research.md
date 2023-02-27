@@ -1,6 +1,6 @@
 ---
 title: Neural & ML Group
-permalink: /etal/
+permalink: /research/
 ---
 
 ### Brain-wide credit assignment
