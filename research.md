@@ -24,7 +24,7 @@ We are at an exciting turning point in neuroscience. New technologies now allow 
 
 <hr>
 
-<h3 style="color:#919191;"><b>Cortical circuits for efficient credit assignment</b></h3>
+<h4 style="color:#919191;"><b>Cortical circuits for efficient credit assignment</b></h4>
 
 <header class="masthead text-justify" style="font-size:120%">
 We are interested in understanding what are the principles that enable cortical circuits to learn non-trivial problems efficiently. We establish close links between state-of-the-art deep learning algorithms and circuits across the cortex, thereby providing new prespectives on how these circuits ultimately lead to adaptive behaviour. 
@@ -32,7 +32,7 @@ We are interested in understanding what are the principles that enable cortical 
 <br>
 
 
-<h3 style="color:#C97B33;"><b>Neuromodulation of cortical credit assignment</b></h3>
+<h4 style="color:#C97B33;"><b>Neuromodulation of cortical credit assignment</b></h4>
 
 <header class="masthead text-justify" style="font-size:120%">
 Neuromodulation is critical to establish bridges between internal representations of the world and feedback from the enviroment. We are particularly intereted in understanding how the classical source of reward prediction errors (dopaminergic system) and the cholinergic system jointly control cortex-wide learning processes. This work is already providing novel theories about the underlying causes of cognitive decline in dementia, ageing and injury.
@@ -41,7 +41,7 @@ Neuromodulation is critical to establish bridges between internal representation
 <br>
 
 
-<h3 style="color:#538D5F;"><b>Subcortical regions as facilitators of cortical credit assignment</b></h3>
+<h4 style="color:#538D5F;"><b>Subcortical regions as facilitators of cortical credit assignment</b></h4>
 
 <header class="masthead text-justify" style="font-size:120%">
 Cortical and subcortical structures have evolved jointly. This strongly suggests that these two must cooperate to enable adaptive behaviour. Recently, we have introduced novel theories of how the mini-brain (cerebellum) may unlock learning in the cortex by predicting future feedback. We are also modelling the hippocampus and are interested in understanding how if guides the cortex for more efficient learning and planning.
