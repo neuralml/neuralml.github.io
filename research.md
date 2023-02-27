@@ -24,7 +24,7 @@ We are at an exciting turning point in neuroscience. New technologies now allow 
 
 <hr>
 
-#### Cortical circuits for efficient credit assignment
+<h2 style="color:blue;"><b>Cortical circuits for efficient credit assignment</b></h2>
 
 <header class="masthead text-justify" style="font-size:100%">
 We are interested in understanding what are the principles that enable cortical circuits to learn non-trivial problems efficiently. We establish close links between state-of-the-art deep learning algorithms and circuits across the cortex, thereby providing new prespectives on how these circuits ultimately lead to adaptive behaviour. 
