@@ -24,14 +24,15 @@ We are at an exciting turning point in neuroscience. New technologies now allow 
 
 <hr>
 
-<h2 style="color:blue;"><b>Cortical circuits for efficient credit assignment</b></h2>
+<h3 style="color:#919191;"><b>Cortical circuits for efficient credit assignment</b></h3>
 
 <header class="masthead text-justify" style="font-size:120%">
 We are interested in understanding what are the principles that enable cortical circuits to learn non-trivial problems efficiently. We establish close links between state-of-the-art deep learning algorithms and circuits across the cortex, thereby providing new prespectives on how these circuits ultimately lead to adaptive behaviour. 
  </header>
 <br>
 
-#### Neuromodulation of cortical credit assignment
+
+<h3 style="color:#C97B33;"><b>Neuromodulation of cortical credit assignment</b></h3>
 
 <header class="masthead text-justify" style="font-size:120%">
 Neuromodulation is critical to establish bridges between internal representations of the world and feedback from the enviroment. We are particularly intereted in understanding how the classical source of reward prediction errors (dopaminergic system) and the cholinergic system jointly control cortex-wide learning processes. This work is already providing novel theories about the underlying causes of cognitive decline in dementia, ageing and injury.
