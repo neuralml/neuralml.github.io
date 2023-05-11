@@ -161,7 +161,7 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 ### Peer-reviewed conference/workshop posters
 
 _Back to the present: self-supervised learning in neocortical microcircuits_<br>
-Nejad KK, Hertäg L, Anastasiades P, Costa RP<br>
+Nejad KK, Hertäg L, Anastasiades P and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Montreal, Mar 2023
 
 _A cortical microcircuit for reinforcement prediction error_<br>
@@ -169,7 +169,7 @@ Chevy Q, Costa RP, Szadai Z, Balazs R and Kepecs A<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Montreal, Mar 2023
 
 _Excitatory-inhibitory cortical feedback enables efficient hierarchical credit assignment_<br>
-Greedy W\*, Zhu HW\*, Nejad K, Pemberton J, Mellor J, Costa RP [\* equal contributions]<br>
+Greedy W\*, Zhu HW\*, Nejad K, Pemberton J, Mellor and Costa RP [\* equal contributions]<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Montreal, Mar 2023
 
 _AI-driven cholinergic theory enables rapid and robust cortex-wide learning_<br>
@@ -181,7 +181,7 @@ Pemberton J\*, Boven E\*, Chadderton P, Apps R and Costa RP [\* equal contributi
 Computational and Systems Neuroscience Meeting (CoSyNe), Montreal, Mar 2023
 
 _Cerebellar involvement in supra-second time prediction_<br>
-Ellen Boven, , Rui Ponte Costa, Richard Apps<br>
+Ellen Boven, Pickford J, Pemberton J, Cerminara N, Costa RP and Richard Apps<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Montreal, Mar 2023
 
 _Reorganizing cortical learning: a cholinergic adaptive credit assignment model_<br>
@@ -189,7 +189,7 @@ Filipovica M, Zhu HW, Greedy W, Mellor J and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022 [selected for a talk]
 
 _Single-phase deep learning in cortico-cortical networks_<br>
-Greedy W\*, Zhu HW\*, Mellor J, Costa RP [\* equal contributions]<br>
+Greedy W\*, Zhu HW\*, Mellor J and Costa RP [\* equal contributions]<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022
 
 _Cerebro-cerebellar networks facilitate learning through feedback decoupling_<br>
@@ -201,7 +201,7 @@ Mohinta S\*, Pedamonti D\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022
 
 _Self-supervised learning in neocortical layers: how the present teaches the past_<br>
-Nejad KK, Pedamonti D, Anastasiades P, Costa RP<br>
+Nejad KK, Pedamonti D, Anastasiades P and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2022
 
 _Cerebellum learns to drive cortical dynamics: a computational lesson_<br>
