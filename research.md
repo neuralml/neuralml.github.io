@@ -7,9 +7,9 @@ permalink: /research/
 ### How do we learn?
 
 <header class="masthead text-justify" style="font-size:120%">
-We are at an exciting turning point in neuroscience. New technologies now allow us to measure and control neural activity and behaviour with unprecedented detail (Landhuis et al. 2017, Lauer et al. 2021). At the same time new theoretical frameworks are starting to reveal how rich behaviours arise from synaptic, circuit and systems computations (Richards et al. 2019). In our group we are contributing directly to the latter by aiming to understand how we learn. To this end we are developing a new generation of computational models of brain function inspired by machine learning.
+We are at an exciting turning point in neuroscience. New technologies now allow us to measure and control neural activity and behaviour with unprecedented detail (Landhuis et al. Nature 2017, Lauer et al. Nature Methods 2022). At the same time, new theoretical frameworks are starting to reveal how rich behaviours arise from synaptic, circuit and systems computations (Richards et al. Nature Neuroscience 2019). In our group, we are contributing directly to the latter by aiming to understand how we learn. To this end, we are developing a new generation of computational models of brain function driven by recent machine learning developments.
 <br><br>
- We focus on understanding how a given behavioural outcome ultimately leads to credit being assigned to trillions of synapses across multiple brain areas – credit assignment problem (Fig. 1a). We believe that in order to have an unified understanding of how we learn to produce adaptible behaviours it is important to jointly study the contribution of three different systems (Fig. 1b): (i) cortical circuits, (ii) neuromodulation and (iii) subcortical regions.
+ We focus on understanding how a given behavioural outcome ultimately leads to credit being assigned to trillions of synapses across multiple brain areas – credit assignment problem (Fig. 1a). We believe that in order to have a unified understanding of how we learn to produce adaptable behaviours it is important to jointly study the contribution of three different systems (Fig. 1b): (i) cortical circuits, (ii) neuromodulation and (iii) subcortical regions.
  </header>
 
 <br>
