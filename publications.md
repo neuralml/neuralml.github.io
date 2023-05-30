@@ -19,11 +19,15 @@ permalink: /publications/
 
 [_Cerebellar-driven cortical dynamics enable task acquisition, switching and consolidation_](https://doi.org/10.1101/2022.11.14.516257)<br>
 Pemberton J, Chadderton P and Costa RP<br>
-bioRxiv:516257
+BioRxiv:516257
+
+[_Depression impairs metacognitive biases, but not learning_](https://psyarxiv.com/9a7y8/)<br>
+Sax AL, Baddeley R and Costa RP<br>
+PsyArXiv:10.31234/osf.io/9a7y8
 
 [_Distributional coding of associative learning within projection-defined populations of midbrain dopamine neurons_](https://doi.org/10.1101/2022.07.18.500429)<br>
 Avvisati R, Kaufmann AK, Young CJ, Portlock GE, Cancemi S, Costa RP, Magill PJ and Dodson PD<br>
-bioRxiv:500429
+BioRxiv:500429
 
 
 <hr>
