@@ -19,14 +19,13 @@ permalink: /joinus/
 
 <header class="masthead text-justify" style="font-size:120%">
 
-<p><b> We have <u>multiple long-term postdoc positions</u> or/and PhD positions opening soon funded by a ERC Starting Grant, BBSRC and MRC grants. You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. Please give your EoI <a href="https://t.co/pwePzXdOSb">here</a>. Or get in touch directly (<a href="mailto:PIfirstname.costa@bristol.ac.uk">email</a>)!</b></p>
+<p><b> We have multiple <u>postdoc positions and PhD positions</u> open. You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. Please give your EoI <a href="https://t.co/pwePzXdOSb">here</a>. Or get in touch directly (<a href="mailto:PIfirstname.costa@dpag.ox.ac.uk">email</a>)!</b></p>
 
 <p>There are also a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in collaboration with our group, such as:</p>
 
 <ul>
-  <li><a href="https://www.bristol.ac.uk/vc-fellows/" target="_blank">Bristol Vice-Chancellor's Fellowships</a>, which offer an excelent opportunity for early-career researchers to move towards setting up their own independent group.</li>
   <li><a href="https://wellcome.org/grant-funding/schemes/early-career-awards" target="_blank">Wellcome Early-Career Awards</a>, which offers an excelent opportunity for early-career researchers to move towards setting up their own independent group.</li> 
-  <li><a href="https://www.bristol.ac.uk/red/international/mariecurie/mariecuriefellows/" target="_blank">Marie Skłodowska-Curie Fellowships</a>, which Bristol has been particularly successful at.</li>
+  <li><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank">Marie Skłodowska-Curie Fellowships</a>.</li>
   <li><a href="https://www.leverhulme.ac.uk/early-career-fellowships" target="_blank">Leverhulme Early Career Fellowship</a></li> 
   <li><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank">HFSP Fellowships</a></li> 
   <li><a href="https://en.unesco.org/science-sustainable-future/women-in-science" target="_blank">L’Oréal-UNESCO Awards For Women in Science</a></li> 
@@ -43,10 +42,10 @@ permalink: /joinus/
 ### PhD students
 
 <header class="masthead text-justify" style="font-size:120%">
-<p>Bristol has a number of doctoral programs which would allow you to join our group:</p>
+<p>Oxford has a number of doctoral programs which would allow you to join our group:</p>
 
 <ul>
-  <li><a href="https://www.bristol.ac.uk/engineering/postgraduate/funding/sceem-studentships/" target="_blank">EPSRC Doctoral Training Awards</a>, we have been particularly successful in these.</li>
+  <li><a href="https://www.bristol.ac.uk/engineering/postgraduate/funding/sceem-studentships/" target="_blank">DTP in Interdisciplinary Biosciences</a>.</li>
   <li><a href="http://www.bristol.ac.uk/cdt/interactive-ai/" target="_blank">Interactive AI CDT</a></li>
   <li><a href="https://www.swbio.ac.uk/" target="_blank">SWBiosciences Doctoral Training Partnership</a></li>
   <li><a href="http://www.bristol.ac.uk/cdt/compass/" target="_blank">Computational Statistics and Data Science CDT</a></li>
@@ -60,7 +59,7 @@ permalink: /joinus/
 #### Master and undergrad students
 
 <header class="masthead text-justify" style="font-size:120%">
-If you are a masters or undergrad student at the University of Bristol, please contact us to discuss possible projects. We always have a range of exciting projects at the intersection of neuroscience and machine learning.</header>
+If you are a masters or undergrad student at the University of Oxford, please contact us to discuss possible projects. We always have a range of exciting projects at the intersection of neuroscience and machine learning.</header>
 <br>
 
 
