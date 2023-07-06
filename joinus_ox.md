@@ -25,7 +25,7 @@ permalink: /joinus/
 
 <ul>
   <li><a href="https://wellcome.org/grant-funding/schemes/early-career-awards" target="_blank">Wellcome Early-Career Awards</a>, which offers an excelent opportunity for early-career researchers to move towards setting up their own independent group.</li> 
-  <li><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank">Marie Skłodowska-Curie Fellowships</a>.</li>
+  <li><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank">Marie Skłodowska-Curie Fellowships</a></li>
   <li><a href="https://www.leverhulme.ac.uk/early-career-fellowships" target="_blank">Leverhulme Early Career Fellowship</a></li> 
   <li><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank">HFSP Fellowships</a></li> 
   <li><a href="https://en.unesco.org/science-sustainable-future/women-in-science" target="_blank">L’Oréal-UNESCO Awards For Women in Science</a></li> 
@@ -45,9 +45,9 @@ permalink: /joinus/
 <p>Oxford has a number of doctoral programs/funding which would allow you to join our group:</p>
 
 <ul>
-  <li><a href="https://www.biodtp.ox.ac.uk" target="_blank">Oxford Interdisciplinary Bioscience DTP</a>.</li>
-<li><a href="https://www.bdi.ox.ac.uk/study/cdt" target="_blank">EPSRC Centre for Doctoral Training in Health Data Science</a>.</li>  
-  <li><a href="https://www.medsci.ox.ac.uk/study/graduateschool/mrcdtp" target="_blank">Oxford-MRC Doctoral Training Partnership</a>.</li>
+  <li><a href="https://www.biodtp.ox.ac.uk" target="_blank">Oxford Interdisciplinary Bioscience DTP</a></li>
+<li><a href="https://www.bdi.ox.ac.uk/study/cdt" target="_blank">EPSRC Centre for Doctoral Training in Health Data Science</a></li>  
+  <li><a href="https://www.medsci.ox.ac.uk/study/graduateschool/mrcdtp" target="_blank">Oxford-MRC Doctoral Training Partnership</a></li>
   <li><a href="https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding" target="_blank">Other Oxford Scholarships</a></li>
 </ul></header>
 
