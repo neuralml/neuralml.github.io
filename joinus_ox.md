@@ -26,6 +26,8 @@ permalink: /joinus/
 <ul>
   <li><a href="https://wellcome.org/grant-funding/schemes/early-career-awards" target="_blank">Wellcome Early-Career Awards</a>, which offers an excelent opportunity for early-career researchers to move towards setting up their own independent group.</li> 
   <li><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank">Marie Skłodowska-Curie Fellowships</a></li>
+  <li><a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" target="_blank">EMBO Postdoctoral Fellowships</a></li>
+  <li><a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/" target="_blank">Newton International Fellowship</a></li>
   <li><a href="https://www.leverhulme.ac.uk/early-career-fellowships" target="_blank">Leverhulme Early Career Fellowship</a></li> 
   <li><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank">HFSP Fellowships</a></li> 
   <li><a href="https://en.unesco.org/science-sustainable-future/women-in-science" target="_blank">L’Oréal-UNESCO Awards For Women in Science</a></li> 
@@ -34,7 +36,6 @@ permalink: /joinus/
   <li><a href="https://www.bbrfoundation.org/grants-prizes/bbrf-young-investigator-grants" target="_blank">BBRF Young Investigator Grants</a></li> 
   
 </ul></header>
-
 
 
 <hr>
