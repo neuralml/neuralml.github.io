@@ -4,7 +4,7 @@ permalink: /joinus/
 ---
 
 <center>
-	<style>.embed-container { position: relative; margin-bottom: -50px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 75%; max-height: 85%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 85%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/watch?v=GZo87YoJB04' frameborder='0' allowfullscreen></iframe></div>
+	<style>.embed-container { position: relative; margin-bottom: -50px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 75%; max-height: 85%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 85%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/GZo87YoJB04' frameborder='0' allowfullscreen></iframe></div>
 </center>
 
 <hr>
