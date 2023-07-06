@@ -10,8 +10,7 @@ permalink: /joinus/
 <hr>
 
 <header class="masthead text-justify" style="font-size:120%">
-<p><b>The University of Oxford is a world-leading research institution</b>.</p>
-<p>Diversity leads to new creative solutions. We <b> strongly encourage</b> applications from under-represented groups, such as women, racial and ethnic or any other minorities (we are also a member of <a href="https://www.alba.network" target="_blank">ALBA</a>, a network for diversity in neuroscience).</p>
+<p>We <b> strongly encourage</b> applications from under-represented groups, such as women, racial and ethnic or any other minorities (we are also a member of <a href="https://www.alba.network" target="_blank">ALBA</a>, a network for diversity in neuroscience). We believe in the power of diversity and in the creative solutions and welcome enviroment that it creates. </p>
 </header>
 
 <hr>
