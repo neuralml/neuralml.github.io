@@ -42,15 +42,13 @@ permalink: /joinus/
 ### PhD students
 
 <header class="masthead text-justify" style="font-size:120%">
-<p>Oxford has a number of doctoral programs which would allow you to join our group:</p>
+<p>Oxford has a number of doctoral programs/funding which would allow you to join our group:</p>
 
 <ul>
-  <li><a href="https://www.bristol.ac.uk/engineering/postgraduate/funding/sceem-studentships/" target="_blank">DTP in Interdisciplinary Biosciences</a>.</li>
-  <li><a href="http://www.bristol.ac.uk/cdt/interactive-ai/" target="_blank">Interactive AI CDT</a></li>
-  <li><a href="https://www.swbio.ac.uk/" target="_blank">SWBiosciences Doctoral Training Partnership</a></li>
-  <li><a href="http://www.bristol.ac.uk/cdt/compass/" target="_blank">Computational Statistics and Data Science CDT</a></li>
-  <li><a href="https://www.farscope.bris.ac.uk" target="_blank">Robotics and Autonomous Systems CDT</a></li>
-  <li><a href="https://www.bristol.ac.uk/cdt/digital-health/" target="_blank">Digital Health CDT</a></li>
+  <li><a href="https://www.biodtp.ox.ac.uk" target="_blank">Oxford Interdisciplinary Bioscience DTP</a>.</li>
+<li><a href="https://www.bdi.ox.ac.uk/study/cdt" target="_blank">EPSRC Centre for Doctoral Training in Health Data Science</a>.</li>  
+  <li><a href="https://www.medsci.ox.ac.uk/study/graduateschool/mrcdtp" target="_blank">Oxford-MRC Doctoral Training Partnership</a>.</li>
+  <li><a href="https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding" target="_blank">Other Oxford Scholarships</a></li>
 </ul></header>
 
 
