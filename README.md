@@ -1,7 +1,7 @@
 # Neural &amp; Machine Learning Group @ University of Bristol
 
 
-This is repository for [Neural &amp; Machine Learning Group](http://neuralml.github.io/), part of [Bristol CNU](http://bristolcnu.github.io/). We use Jekyll to run our Github page that builds upon the template from the [Kording lab webpage](http://kordinglab.com/).
+This is repository for the [Neural &amp; Machine Learning Group](http://neuralml.github.io/), part of [Bristol CNU](http://bristolcnu.github.io/). We use Jekyll to run our Github page that builds upon the template from the [Kording lab webpage](http://kordinglab.com/).
 
 
 ## Run the page locally
