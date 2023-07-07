@@ -3,6 +3,12 @@ title: Neural & ML Group
 permalink: /teaching/
 ---
 
+#### MSc in Neuroscience
+_University of Oxford (2023-)_<br>
+[`website`](https://www.neuroscience.ox.ac.uk/MSc-Neuroscience)
+
+We will be contributing to the interdisciplinary and interdepartmental MSc in Neuroscience.
+
 #### Information Processing & the Brain [COMSM0075]
 _University of Bristol (2018-2023)_<br>
 [`Github repo`](https://comsm0075.github.io/)
