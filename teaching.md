@@ -4,7 +4,7 @@ permalink: /teaching/
 ---
 
 #### Information Processing & the Brain [COMSM0075]
-_University of Bristol (2018-)_<br>
+_University of Bristol (2018-2023)_<br>
 [`Github repo`](https://comsm0075.github.io/)
 
 The brain is the most remarkable learning and information processing system that we know of. In this unit we teach information and statistical theories of the brain, different learning paradigms in neuroscience (unsupervised learning, supervised learning, reinforcement learning and deep learning) and advanced data analysis methods. Taught together with Conor Houghton and Cian O'Donnell.
@@ -12,7 +12,7 @@ The brain is the most remarkable learning and information processing system that
 <hr>
 
 #### Machine Learning [COMS30035]
-_University of Bristol (2020-)_<br>
+_University of Bristol (2020-2023)_<br>
 [`Github repo`](https://uob-coms30035.github.io)
 
 ​This unit seeks to acquaint students with machine learning algorithms which are important in many modern data and computer science applications. We cover topics such as kernel machines, probabilistic inference, neural networks, PCA/ICA, HMMs and emsemble models. Taught together with James Cussens and Edwin Simpson.
@@ -20,7 +20,7 @@ _University of Bristol (2020-)_<br>
 <hr>
 
 #### Mathematics for Computer Science A [COMS10014]
-_University of Bristol (2020-)_<br>
+_University of Bristol (2020-2023)_<br>
 [`Github repo`](https://cs-uob.github.io/COMS10014/)
 
 ​This unit and its companion Mathematics B teach you the basic mathematics that you will need in your Computer Science degree. The topics have been selected based on the needs of units in later years linked to some of our research areas, for example algorithms, machine learning, data science or computational neuroscience as well as topics in statistics that will be of interest to many students when they perform experiments or evaluations in their final project. Taught together with Conor Houghton, Kerstin Eder and David Bernhard.
