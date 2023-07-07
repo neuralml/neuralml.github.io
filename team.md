@@ -89,6 +89,8 @@ permalink: /team/
 
 (non-exhaustive)
 
+- `Randy Bruno`, `Helen Barron`, `Clare Mackay`, `Chris Summerfield`, `Armin Lak`, `Tim Behrens` and several others [Neuro @ University of Bristol, UK]
+- `Yarin Gal` [ML @ University of Oxford, UK]
 - `Jack Mellor`, `Paul Anastasiades`, `Liz Coulthard`, `Paul Chadderton`, `Paul Dodson`, `Matt Jones`, `Jeff Bowers`, `Richard Apps` [Neuro @ University of Bristol, UK]
 - `Rob Froemke` [New York University, US]
 - `Adam Kepecs` [Washington University, US]
