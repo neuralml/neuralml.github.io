@@ -26,11 +26,11 @@ Merchant Venturers Building<br>
 Woodland Road<br>
 Bristol, BS8 1UB, England, United Kingdom<br>-->
 
-_Senior Lecturer (equivalent to tenured associate prof.), University of Bristol, United Kingdom_ <br>
-_Computational Neuroscience Unit, Intelligent Systems Lab, SCEEM, Faculty of Engineering and Bristol Neuroscience_ <br>
+_Group Leader, University of Oxford, United Kingdom_ <br>
+_Oxford Neuroscience and Centre for Neural Circuits and Behaviour, Department of Physiology, Anatomy and Genetics, Medical Sciences Division_ <br>
 <br><br>
 
 <header class="masthead text-justify" style="font-size:120%">
-	Rui did his PhD at the University of Edinburgh (UK) as part of the Institute for Adaptive and Neural Computation where he established a collaboration between theoretical (Mark van Rossum) and experimental groups (P. Jesper Sjöström). Rui was also a visiting PhD student at University College London (UK) and McGill University (Canada). After that, Rui conducted postdoctoral research in computational neuroscience & machine learning at the University of Oxford (UK) with Tim Vogels where he established collaborations with the groups of Nando de Freitas (Oxford/Google Deepmind) and Nigel Emptage (Oxford). During his time at Oxford Rui co-organised the Oxford NeuroTheory Forum. Next, Rui did a short postdoc with the group of Walter Senn (Bern, Switzerland) in collaboration with Yoshua Bengio (MILA). In 2018 Rui moved to the University of Bristol to start his own group (Neural & Machine Learning group).
+	Rui did his PhD at the University of Edinburgh (UK) as part of the Institute for Adaptive and Neural Computation where he established a collaboration between theoretical (Mark van Rossum) and experimental groups (P. Jesper Sjöström). Rui was also a visiting PhD student at University College London (UK) and McGill University (Canada). After that, Rui conducted postdoctoral research in computational neuroscience & machine learning at the University of Oxford (UK) with Tim Vogels where he established collaborations with the groups of Nando de Freitas (Oxford/Google Deepmind) and Nigel Emptage (Oxford). During his time at Oxford Rui co-organised the Oxford NeuroTheory Forum. Next, Rui did a short postdoc with the group of Walter Senn (Bern, Switzerland) in collaboration with Yoshua Bengio (MILA). In 2018 Rui moved to the University of Bristol to start his own group (Neural & Machine Learning group), which in 2023 moved to the University of Oxford.
 </header><br>
 
