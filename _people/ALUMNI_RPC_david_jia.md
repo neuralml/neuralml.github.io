@@ -3,7 +3,7 @@ name: David Jia
 position: alumni_phd
 avatar: DavidJia.png
 joined: 2015
-affiliation: [w/ Tim Vogels (Oxford)]
+affiliation: <span>[w/ Tim Vogels (Oxford)]</span><br><span style="color:#FFFFFF">.</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
