@@ -19,6 +19,6 @@ affiliation: [w/ Tim Vogels (Oxford)]
 <header class="masthead text-justify" style="font-size:120%">
 David studied math and computer science at MIT. His PhD focus on understanding the intricate roles of synaptic plasticity for signal processing in cortical circuits through computational modelling of spiking networks.
 
-<p>David's next adventure was to become an entrepreneur.</p>
+<p>David created his own company.</p>
 </header>
 <br><br>
