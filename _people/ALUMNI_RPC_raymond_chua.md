@@ -1,6 +1,6 @@
 ---
 name: Raymond Chua
-position: gradstudent
+position: alumni_phd
 avatar: Raymond_Chua.png
 joined: 2018
 affiliation: visitor<br>[w/ B Richards & D Precup (McGill)]
