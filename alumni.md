@@ -76,6 +76,17 @@ permalink: /people/alumni
 <div class="pos_header">
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
+<p><b>2022/2023</b>:</p>
+- `Ayodya Samarawickrama` [undergrad]
+- `Robert Popescy` [undergrad]
+- `Evgenia Karnavou` [undergrad]
+- `Viktor Kusheliev` [undergrad]
+- `Baiquan Zhang` [undergrad]
+- `Jushua Hall` [undergrad]
+- `Katia Vasilonikolidaki` [undergrad]
+- `Aadith Pillai` [undergrad]
+- `Jadadish Kumar` [Data Science MSc]
+- `Olly Hill` [Data Science MSc]
 <p><b>2020/2021</b>:</p>
 - `Ainesh Sevellaraja` [CS MEng]
 - `Nicole Li` [CS MEng]
