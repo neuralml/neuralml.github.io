@@ -26,9 +26,11 @@ Merchant Venturers Building<br>
 Woodland Road<br>
 Bristol, BS8 1UB, England, United Kingdom<br>-->
 
-_Group Leader, University of Oxford, United Kingdom_ <br>
-_Centre for Neural Circuits and Behaviour, Department of Physiology, Anatomy and Genetics_ <br>
-<br>_Oxford Neurotheory & Oxford Neuroscience_
+_Group Leader_ <br>
+_Centre for Neural Circuits and Behaviour_<br>
+_Department of Physiology, Anatomy and Genetics_<br>
+_Oxford Neurotheory & Oxford Neuroscience_<br>
+_University of Oxford, United Kingdom_
 <br><br>
 
 <header class="masthead text-justify" style="font-size:120%">
