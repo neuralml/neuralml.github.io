@@ -3,7 +3,7 @@ name: Milton Llera-Montero
 position: alumni_phd
 avatar: Milton_LleraMontero.png
 joined: 2018
-affiliation: <span>[w/ Jeff Bowers (EP)]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Jeff Bowers (EP)]</span><br><span>Postdoc (REAL Lab, Copenhagen)</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

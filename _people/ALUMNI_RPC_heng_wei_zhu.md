@@ -3,7 +3,7 @@ name: Heng Wei Zhu
 position: alumni_phd
 avatar: Heng_WeiZhu.png
 joined: 2019
-affiliation: <span>[w/ Jack Mellor (PPN)]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Jack Mellor (PPN)]</span><br><span>Postdoc (NYU, US)</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
