@@ -15,7 +15,7 @@ website:
 
 <h4>Principal Investigator</h4>
 
-<i class="fa fa-envelope-o"></i> `first.last(at)bristol.ac.uk`<br>
+<i class="fa fa-envelope-o"></i> `first.verylast(at)dpag.ox.ac.uk`<br>
 <i class="fa fa-book"></i> <a href="https://scholar.google.co.uk/citations?user=otGgQKQAAAAJ&hl=en">`google scholar`</a><br>
 <i class="fa fa-link"></i> <a href="https://neuralml.github.io/">`group website`</a>
 
@@ -27,7 +27,8 @@ Woodland Road<br>
 Bristol, BS8 1UB, England, United Kingdom<br>-->
 
 _Group Leader, University of Oxford, United Kingdom_ <br>
-_Oxford Neuroscience and Centre for Neural Circuits and Behaviour, Department of Physiology, Anatomy and Genetics, Medical Sciences Division_ <br>
+_Centre for Neural Circuits and Behaviour, Department of Physiology, Anatomy and Genetics_ <br>
+<br>_Oxford Neurotheory & Oxford Neuroscience_
 <br><br>
 
 <header class="masthead text-justify" style="font-size:120%">
