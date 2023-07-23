@@ -94,7 +94,7 @@ permalink: /team/
 - `Jack Mellor`, `Paul Anastasiades`, `Liz Coulthard`, `Paul Chadderton`, `Paul Dodson`, `Matt Jones`, `Jeff Bowers`, `Richard Apps` [Neuro @ University of Bristol, UK]
 - `Rob Froemke` [New York University, US]
 - `Adam Kepecs` [Washington University, US]
-- `‪Caglar Gulcehre‬`, `Max Jaderberg` [Google Deepmind, UK]
+- `Kim Stachenfeld`, `‪Caglar Gulcehre‬`, `Max Jaderberg` [Google Deepmind, UK]
 - `Adil Khan` [Kings College London]
 - `Jasper Poort` [Cambridge University]
 - `Joao Sacramento` [ETH, Switzerland]

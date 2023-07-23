@@ -3,6 +3,13 @@ title: Neural & ML Group
 permalink: /teaching/
 ---
 
+
+#### Machine Learning for Neuroscience
+_CAJAL Advanced Neuroscience Training (2023)_<br>
+[`website`](https://cajal-training.org/on-site/artificial-intelligence/#)
+
+We provide teaching about AI-driven brain-wide credit assignment as part of this new Cajal course.
+
 #### MSc in Neuroscience
 _University of Oxford (2023-)_<br>
 [`website`](https://www.neuroscience.ox.ac.uk/MSc-Neuroscience)
