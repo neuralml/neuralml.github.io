@@ -16,6 +16,12 @@ _University of Oxford (2023-)_<br>
 
 We will be contributing to the interdisciplinary and interdepartmental MSc in Neuroscience.
 
+#### NeuroAI workshop
+_Max Planck Institute for Brain Research (2023)_<br>
+[`website`](/pubs/WorkshopFlyer.pdf)
+
+We provided teaching/tutorials for the Bio-inspired deep learning workshop organised by Max Eggl and Laura Timón at the Max Planck Institute for Brain Research in Frankfurt.
+
 #### Information Processing & the Brain [COMSM0075]
 _University of Bristol (2018-2023)_<br>
 [`Github repo`](https://comsm0075.github.io/)
