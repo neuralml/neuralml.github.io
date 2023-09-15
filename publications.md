@@ -164,6 +164,22 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 ### Peer-reviewed conference/workshop posters
 
+_Back to the present: self-supervised learning across cortical layers_<br>
+Nejad KK, Hertäg L, Anastasiades P and Costa RP<br>
+Conference on Cognitive Computational Neuroscience (CCN), Oxford, Aug 2023
+
+_Excitatory-inhibitory cortical feedback enables hierarchical credit assignment_<br>
+Greedy W, Zhu HW, Pemberton J, Nejad KK, Mellor and Costa RP<br>
+Conference on Cognitive Computational Neuroscience (CCN), Oxford, Aug 2023
+
+_AI-driven cholinergic theory enables rapid and robust cortex-wide learning_<br>
+Filipovica M, Nejad K, Greedy W, Zhu HW and Costa RP<br>
+Conference on Cognitive Computational Neuroscience (CCN), Oxford, Aug 2023
+
+_Cerebellar-driven cortical dynamics enable cognitive task acquisition and consolidation_<br>
+Pemberton J, Chadderton P and Costa RP [\* equal contributions]<br>
+Conference on Cognitive Computational Neuroscience (CCN), Oxford, Aug 2023
+
 _Back to the present: self-supervised learning in neocortical microcircuits_<br>
 Nejad KK, Hertäg L, Anastasiades P and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Montreal, Mar 2023
