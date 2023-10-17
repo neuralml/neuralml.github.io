@@ -41,7 +41,7 @@ Nature Communications, 14, 51, January 2023<br>
 
 [_Single-phase deep learning in cortico-cortical networks_](https://openreview.net/pdf?id=szt95rn-ql)<br>
 Greedy W\*, Zhu HW\*, Pemberton J, Mellor J and Costa RP [\* equal contributions]<br>
-Proceedings of 36th Neural Information Processing Systems, New Orleans, USA, 2022<br>[Selected for oral (<1% rate); 5min video [here](https://t.co/qOkcO1ZxWY)]
+Proceedings of 36th Neural Information Processing Systems, New Orleans, USA, 2022<br>[Selected for oral (<1% rate); 5min video [here](https://slideslive.com/38991008/singlephase-deep-learning-in-corticocortical-networks?ref=search-presentations-NeurIPS2021__53932__will-greedy-heng-wei-zhu-jos)]
 
 [_Developmental depression-to-facilitation shift controls excitation-inhibition balance_](https://www.nature.com/articles/s42003-022-03801-2)<br>
 Jia DW, Vogels TP\* and Costa RP\* [\* co-senior author]<br>
