@@ -19,7 +19,7 @@ permalink: /joinus/
 
 <header class="masthead text-justify" style="font-size:120%">
 
-<p><b> We have multiple <u>postdoc and PhD positions</u> open. You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. Please give your EoI <a href="https://forms.gle/mFbQ29kjhnwBBH3B6">here</a>. Or get in touch directly (<a href="mailto:PIfirstname.costa@dpag.ox.ac.uk">email</a>)!</b></p>
+<p><b> We are considering applications from <u>postdoc</u> via fellowships at Oxford or from elsewhere (see list below). You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. Please give your EoI <a href="https://forms.gle/mFbQ29kjhnwBBH3B6">here</a>. Or get in touch directly (<a href="mailto:PIfirstname.costa@dpag.ox.ac.uk">email</a>)!</b></p>
 
 <p>There are also a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in collaboration with our group, such as:</p>
 
@@ -46,7 +46,8 @@ permalink: /joinus/
 <p>Oxford has a number of doctoral programs/funding which would allow you to join our group:</p>
 
 <ul>
-  <li><a href="https://www.ox.ac.uk/admissions/graduate/courses/dphil-neuroscience" target="_blank">DPhil in Neuroscience (1yr MSc + 3yr DPhil)</a></li>
+  <li><a href="https://www.ox.ac.uk/admissions/graduate/courses/dphil-neuroscience" target="_blank">Masters + DPhil in Neuroscience (1yr MSc + 3-4yr PhD)</a></li>
+  <li><a href="https://www.ox.ac.uk/admissions/graduate/courses/dphil-physiology-anatomy-and-genetics" target="_blank">Neuroscience DPhil (through DPAG; 3-4yr PhD)</a></li>
   <li><a href="https://www.biodtp.ox.ac.uk" target="_blank">Oxford Interdisciplinary Bioscience DTP</a></li>
 <li><a href="https://www.bdi.ox.ac.uk/study/cdt" target="_blank">EPSRC Centre for Doctoral Training in Health Data Science</a></li>  
 <li><a href="https://www.sabsr3.ox.ac.uk" target="_blank">EPSRC Sustainable Approaches to Biomedical Science</a></li>
