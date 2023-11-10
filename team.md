@@ -71,16 +71,9 @@ permalink: /team/
 <div class="pos_header">
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
-- `Ayodya Samarawickrama` [undergrad]
-- `Robert Popescy` [undergrad]
-- `Evgenia Karnavou` [undergrad]
-- `Viktor Kusheliev` [undergrad]
-- `Baiquan Zhang` [undergrad]
-- `Jushua Hall` [undergrad]
-- `Katia Vasilonikolidaki` [undergrad]
-- `Aadith Pillai` [undergrad]
-- `Jadadish Kumar` [Data Science MSc]
-- `Olly Hill` [Data Science MSc]
+- `Alexia Duriez` [Master project, EPFL]
+- `Milan Sobota` [PhD rotation, BioDTP]
+- `Ben Ibbott` [PhD rotation, BioDTP]
 
 <hr>
 <div class="pos_header">
