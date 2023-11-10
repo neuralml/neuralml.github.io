@@ -10,7 +10,10 @@ permalink: /joinus/
 <hr>
 
 <header class="masthead text-justify" style="font-size:120%">
-<p>We <b> strongly encourage</b> applications from under-represented groups, such as women, racial and ethnic or any other minorities (we are a member of <a href="https://www.alba.network" target="_blank">ALBA</a>, a network for diversity in neuroscience). We believe in the power of diversity and in the creative solutions and welcome enviroment that it creates. </p>
+<p>We <b> strongly encourage</b> applications from under-represented groups, such as women, racial and ethnic or any other minorities (we are a member of <a href="https://www.alba.network" target="_blank">ALBA</a>, a network for diversity in neuroscience). We believe in the power of diversity and in the creative solutions and welcome enviroment that it creates. </p> 
+
+<p> You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. You can give your EoI <a href="https://forms.gle/mFbQ29kjhnwBBH3B6">here</a>. Or get in touch directly (<a href="mailto:PIfirstname.costa@dpag.ox.ac.uk">email</a>)!</p>
+
 </header>
 
 <hr>
@@ -19,9 +22,8 @@ permalink: /joinus/
 
 <header class="masthead text-justify" style="font-size:120%">
 
-<p> We are happy to consider applications via fellowships at Oxford or from elsewhere (see list below). You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. Please give your EoI <a href="https://forms.gle/mFbQ29kjhnwBBH3B6">here</a>. Or, preferably, get in touch directly (<a href="mailto:PIfirstname.costa@dpag.ox.ac.uk">email</a>)!</p>
 
-<p>There are also a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in collaboration with our group, such as:</p>
+<p>There are a number of prestigious fellowships available that would allow you to lead exciting research at the intersection between neuroscience and machine learning in collaboration with our group, such as:</p>
 
 <ul>
   <li><a href="https://wellcome.org/grant-funding/schemes/early-career-awards" target="_blank">Wellcome Early-Career Awards</a>, which offers an excelent opportunity for early-career researchers to move towards setting up their own independent group.</li> 
