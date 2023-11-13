@@ -17,6 +17,10 @@ permalink: /publications/
 ### Preprints
 
 
+[_Hippocampal networks support reinforcement learning in partially observable environments_](https://doi.org/10.1101/2023.11.09.565503)<br>
+Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
+BioRxiv:565503
+
 [_Cerebellar-driven cortical dynamics enable task acquisition, switching and consolidation_](https://doi.org/10.1101/2022.11.14.516257)<br>
 Pemberton J, Chadderton P and Costa RP<br>
 BioRxiv:516257
