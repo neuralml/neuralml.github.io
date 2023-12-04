@@ -4,7 +4,7 @@ permalink: /people/alumni
 ---
 
 {% assign people_sorted = site.people | sort: "joined" %}
-{% assign people_array = "alumni_phd" | split: "|" %}
+{% assign people_array = "alumni_ra|alumni_phd" | split: "|" %}
 
 
 <!--
