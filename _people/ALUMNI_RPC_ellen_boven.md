@@ -3,7 +3,7 @@ name: Ellen Boven
 position: alumni_ra
 avatar: Ellen_Boven.png
 joined: 2019
-affiliation: <span>[w/ Richard Apps (PPN)]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Richard Apps (PPN)]</span><br><span>Postdoc (Gao Lab, Erasmus MC)</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
