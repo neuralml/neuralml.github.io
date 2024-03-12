@@ -2,7 +2,7 @@
 ---
 name: Jascha Achterberg
 position: postdoc
-avatar: Jascha_bw.jpg
+avatar: Jascha_bw.png
 joined: 2024
 affiliation: <span><span style="color:#FFFFFF">.</span></span><br><span style="color:#FFFFFF">.</span>
 ---
