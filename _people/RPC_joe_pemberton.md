@@ -3,7 +3,7 @@ name: Joe Pemberton
 position: postdoc
 avatar: Joe_Pemberton.png
 joined: 2019
-affiliation: <span>[visitor]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>visitor<br>University of Washington</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
