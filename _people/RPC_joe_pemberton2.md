@@ -1,7 +1,7 @@
 ---
 name: Ian Cone
 position: postdoc
-avatar: Joe_Pemberton.png
+avatar: Ian_bw.png
 joined: 2024
 affiliation: <span style="color:#FFFFFF">.</span><br><span style="color:#FFFFFF">.</span>
 ---
