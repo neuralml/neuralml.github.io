@@ -1,5 +1,5 @@
 ---
-name: Joe Pemberton
+name: Ian Cone
 position: postdoc
 avatar: Joe_Pemberton.png
 joined: 2019
@@ -17,10 +17,7 @@ affiliation: <span style="color:#FFFFFF">.</span><br><span style="color:#FFFFFF"
 <b>{{page.affiliation}}</b>
 
 <header class="masthead text-justify" style="font-size:120%">
-When an organism or machine makes a certain decision, the ensuing teaching signal (e.g. reward) is often not instanteous but comes at a later point in time. The challenge of attributing this teaching signal, and appropriately updating any parameters which led to the original decision being made, is known as the temporal credit assigment problem and is the focus of my research. In particular, I hope to bridge the ominous gap between the existing temporal learning mechanisms developed by those in pure machine learning (the most prevalent example of which at the moment is backpropogation's temporal cousin, backpropogation through time) and computational principles considered to be realistically implementable in a biological system.
-
-<br><br>
-I did a PhD in the group, and I am now a short-term postdoc. Before coming to Bristol, I received a BSc in mathematics at the University of Warwick, before doing an MSc in Artificial Intelligence at the University of Edinburgh.
+My research is broadly focused on understanding how learning techniques from artificial intelligence can inform us about plasticity in the brain.  I am particularly interested in how biophysically plausible learning rules can appropriately assign credit such that brain-like neural networks can develop the complex latent structure required for cognition and behaviour. I have previously studied methods of sequence learning in visual cortex and theories of splitter cell formation in hippocampus.
 
 </header>
 <br><br>
