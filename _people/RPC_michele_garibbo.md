@@ -3,8 +3,8 @@ name: Michele Garibbo
 title: Michele Garibbo
 position: postdoc
 avatar: MicheleGaribbo.png
-joined: 2023_4
-affiliation: visitor<br>[w/ Laurence Aitchison (Bristol)]
+joined: 2023
+affiliation: [w/ Laurence Aitchison (Bristol)]<br><span style="color:#FFFFFF">.</span>
 
 ---
 
