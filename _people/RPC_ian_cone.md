@@ -1,5 +1,6 @@
 ---
 name: Ian Cone
+title: Ian Cone
 position: postdoc
 avatar: Ian_bw.png
 joined: 2024

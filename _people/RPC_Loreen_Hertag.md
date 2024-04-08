@@ -1,5 +1,6 @@
 ---
 name: Loreen Hertag
+title: Loreen Hertag
 position: postdoc
 avatar: Loreen_Hertag.png
 joined: 2022
