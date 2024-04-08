@@ -34,6 +34,11 @@ PsyArXiv:10.31234/osf.io/9a7y8
 
 ### Journals and peer-reviewed proceedings
 
+
+[_BP(λ): Online Learning via Synthetic Gradients_](https://openreview.net/forum?id=3kYgouAfqk)<br>
+Pemberton R and Costa RP<br>
+Transactions on Machine Learning Research (TLMR), April 2024<br>
+
 [_Distributional coding of associative learning in discrete populations of midbrain dopamine neurons_](https://doi.org/10.1016/j.celrep.2024.114080)<br>
 Avvisati R, Kaufmann AK, Young CJ, Portlock GE, Cancemi S, Costa RP, Magill PJ and Dodson PD<br>
 Cell Reports, 43, April 2024<br>
