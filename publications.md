@@ -29,14 +29,14 @@ BioRxiv:516257
 Sax AL, Baddeley R and Costa RP<br>
 PsyArXiv:10.31234/osf.io/9a7y8
 
-[_Distributional coding of associative learning within projection-defined populations of midbrain dopamine neurons_](https://doi.org/10.1101/2022.07.18.500429)<br>
-Avvisati R, Kaufmann AK, Young CJ, Portlock GE, Cancemi S, Costa RP, Magill PJ and Dodson PD<br>
-BioRxiv:500429
-
 
 <hr>
 
 ### Journals and peer-reviewed proceedings
+
+[_Distributional coding of associative learning in discrete populations of midbrain dopamine neurons_](https://doi.org/10.1016/j.celrep.2024.114080)<br>
+Avvisati R, Kaufmann AK, Young CJ, Portlock GE, Cancemi S, Costa RP, Magill PJ and Dodson PD<br>
+Cell Reports, 43, April 2024<br>
 
 [_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://doi.org/10.1038/s41467-022-35658-8)<br>
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>
