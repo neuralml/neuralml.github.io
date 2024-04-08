@@ -3,7 +3,7 @@ name: Michele Garibbo
 position: postdoc
 avatar: MicheleGaribbo.png
 joined: 2024
-affiliation: <span style="color:#FFFFFF">.</span><br><span style="color:#FFFFFF">.</span>
+affiliation: [w/ Laurence Aitchison (Bristol)]<br><span style="color:#FFFFFF">.</span>
 
 ---  
 
