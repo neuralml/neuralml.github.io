@@ -2,7 +2,7 @@
 name: Andrada-Maria Marica
 title: Andrada-Maria Marica
 position: gradstudent
-avatar: andrada_bw.png
+avatar: Andrada_bw.png
 joined: 2023_3
 affiliation: <span>[w/ Andy Peters]</span><br><span style="color:#FFFFFF">.</span>
 
