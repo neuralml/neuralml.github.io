@@ -1,5 +1,6 @@
 ---
 name: Michele Garibbo
+title: Michele Garibbo
 position: postdoc
 avatar: MicheleGaribbo.png
 joined: 2024
