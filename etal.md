@@ -15,10 +15,8 @@ permalink: /etal/
         </center>      
       </p>    
    </div><br>
-</div>
 
-<div class="content list people" style="text-align: left;">
-  <div class="list-item-people" style="width: 49%">
+   <div class="list-item-people" style="width: 49%">
     <p class="list-post-title">
       <center>
         Back to the present: neoSSL (<a href="https://www.cosyne.org/">Cosyne'24</a>):
@@ -26,6 +24,7 @@ permalink: /etal/
         </center>
       </p>    
    </div><br>
+
 </div>
 
 <div class="content list people" style="text-align: left;">
