@@ -61,6 +61,11 @@ We share the code of (mostly) finished projects on our <b>[Github account](https
 
 ### Talks
 
+- Brain-wide credit assignment: cortical and subcortical perspectives, Neurotheory Seminar, Columbia University, NY, US, March 2024 [by Rui]
+- Brain-wide credit assignment: cortical and subcortical perspectives, Neurotheory Seminar, NYU, NY, US, March 2024 [by Rui]
+- AI-driven hierarchical learning in cortical networks, Cosyne Workshop, Lisbon, Portugal, March 2024 [by Rui]
+- Back to the present: self-supervised learning in neocortical circuits, Cosyne, Lisbon, Portugal, March 2024 [by Kevin]
+- Stable brains in dynamic worlds: a key role for cortico-cerebellar loops, EP Seminar, University of Oxford, Feb 2024 [by Rui]
 - AI-driven brain-wide credit assignment, be.AI Conference, Brighton, UK, May 2023 [by Rui]
 - AI-driven modelling for rapid and robust cortex-wide credit assignment, Technische Universität Berlin, Berlin, Germany, Mar 2023 [by Rui]
 - AI-driven modelling of credit assignment in the brain, neuroAI workshop, Max Planck Institute for Brain Research, Frankfurt, Germany, Mar 2023 [by Rui]
