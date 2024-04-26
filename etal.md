@@ -6,13 +6,24 @@ permalink: /etal/
 ### Videos
 
 
-<div class="content list people" style="text-align: center;">
+<div class="content list people" style="text-align: left;">
   <div class="list-item-people" style="width: 49%">
     <p class="list-post-title">
       <center>
         Reorganising cortical learning (<a href="https://www.cosyne.org/">Cosyne'22</a>):
           <style>.embed-container { position: relative; margin-bottom: 0px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 75%; max-height: 85%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 80%; height: 55%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/jnYJBJ2kndA' frameborder='0' allowfullscreen></iframe></div>
         </center>      
+      </p>    
+   </div><br>
+</div>
+
+<div class="content list people" style="text-align: left;">
+  <div class="list-item-people" style="width: 49%">
+    <p class="list-post-title">
+      <center>
+        Back to the present: neoSSL (<a href="https://www.cosyne.org/">Cosyne'24</a>):
+          <style>.embed-container { position: relative; margin-bottom: 0px; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 75%; max-height: 85%;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 80%; height: 55%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/rNPhkhJtCc8?si=hMranGQsGHkpyzbP&amp;start=4900" frameborder='0' allowfullscreen></iframe></div>
+        </center>
       </p>    
    </div><br>
 </div>
