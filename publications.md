@@ -18,7 +18,7 @@ permalink: /publications/
 
 [_A theory of temporal self-supervised learning in neocortical layers_](https://doi.org/10.1101/2024.04.24.590916)<br>
 Nejad KK, Anastasiades P, Hertäg L\* and Costa RP\* [\* equal contributions]<br>
-BioRxiv:590916
+BioRxiv:590916 [[Cosyne'24 talk](https://youtu.be/rNPhkhJtCc8)]
 
 [_Hippocampal networks support reinforcement learning in partially observable environments_](https://doi.org/10.1101/2023.11.09.565503)<br>
 Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
