@@ -31,7 +31,7 @@ permalink: /joinus/
   <li><a href="https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/" target="_blank">EMBO Postdoctoral Fellowships</a></li>
   <li><a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/" target="_blank">Newton International Fellowship</a></li>
   <li><a href="https://www.leverhulme.ac.uk/early-career-fellowships" target="_blank">Leverhulme Early Career Fellowship</a></li> 
-  <li><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank">HFSP Fellowships</a></li> 
+  <li><a href="https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships" target="_blank">HFSP Fellowships</a></li>
   <li><a href="https://en.unesco.org/science-sustainable-future/women-in-science" target="_blank">L’Oréal-UNESCO Awards For Women in Science</a></li> 
   <li><a href="https://royalsociety.org/grants-schemes-awards/grants/newton-international/" target="_blank">Royal Society Newton Fellowship</a></li> 
   <li><a href="https://www.alzheimersresearchuk.org/grants/research-fellowship/" target="_blank">UK Alzheimers Research Fellowship</a></li> 
