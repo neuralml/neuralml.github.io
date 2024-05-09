@@ -3,7 +3,7 @@ name: Anne-Lene Sax
 title: Anne-Lene Sax
 position: postdoc
 avatar: AnneLene_Sax.png
-joined: 2018
+joined: 3_2018
 affiliation: <span>visitor</span><br><span style="color:#FFFFFF">.</span>
 ---
 
