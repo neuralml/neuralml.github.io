@@ -38,7 +38,7 @@ PsyArXiv:10.31234/osf.io/9a7y8
 ### Journals and peer-reviewed proceedings
 
 
-[_BP(λ): Online Learning via Synthetic Gradients_](https://openreview.net/forum?id=3kYgouAfqk)<br>
+[_BP(λ): Online learning via synthetic gradients_](https://openreview.net/forum?id=3kYgouAfqk)<br>
 Pemberton R and Costa RP<br>
 Transactions on Machine Learning Research (TLMR), April 2024<br>
 
