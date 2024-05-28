@@ -16,7 +16,7 @@ permalink: /publications/
 
 ### Preprints
 
-[_A theory of temporal self-supervised learning in neocortical layers_](https://doi.org/10.1101/2024.04.24.590916)<br>
+[_Self-supervised predictive learning accounts for cortical layer-specificity_](https://doi.org/10.1101/2024.04.24.590916)<br>
 Nejad KK, Anastasiades P, Hertäg L\* and Costa RP\* [\* equal contributions]<br>
 BioRxiv:590916 [[Cosyne'24 talk](https://youtu.be/rNPhkhJtCc8)]
 
