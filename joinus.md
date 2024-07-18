@@ -61,10 +61,10 @@ permalink: /joinus/
 
 <hr>
 
-#### Master and undergrad students
+#### Master students
 
 <header class="masthead text-justify" style="font-size:120%">
-If you are a masters or undergrad student at the University of Oxford, please contact us to discuss possible projects. We always have a range of exciting projects at the intersection of neuroscience and machine learning.</header>
+We encourage you to apply to the <a href="https://www.ox.ac.uk/admissions/graduate/courses/msc-neuroscience" target="_blank">MSc in Neuroscience at Oxford</a>, in which you will be exposed to the latest neuroscience research, including systems and computational neuroscience. Our group contributes to the Computational Neuroscience module. You can then do your Master thesis in our group exploring the new exciting field of neuroAI.</header>
 <br>
 
 
