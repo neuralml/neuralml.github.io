@@ -3,7 +3,7 @@ name: Raymond Chua
 position: alumni_phd
 avatar: Raymond_Chua.png
 joined: 2018
-affiliation:[master's student and visitor]<br>PhD w/ Blake Richards & D Precup (McGill)
+affiliation:<span>[master's student and visitor]</span><br><span>PhD w/ Blake Richards & D Precup (McGill)</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
