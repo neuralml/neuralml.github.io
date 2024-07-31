@@ -69,14 +69,16 @@ permalink: /team/
 {% endfor %}
 <hr>
 <div class="pos_header">
-<h3>Rotation/MEng/BSc/MSc students</h3>
+<h3>DPhil rotation/Master students</h3>
 </div>
 - `Angeliki Papathanasiou` [DPhil rotation, Health DS CDT]
-- `Marius Urbonas` [DPhil rotation, SABS CDT]
-- `Quentin Guilhot` [Master project, ETH]
-- `Alexia Duriez` [Master project, EPFL]
 - `Milan Sobota` [DPhil rotation, BioDTP]
 - `Ben Ibbott` [DPhil rotation, BioDTP]
+- `Marius Urbonas` [DPhil rotation, SABS CDT]
+- `Iris Marmouset-De La Taille Tretin` [DPhil rotation, SABS CDT]
+- `Junde Wu` [DPhil rotation, SABS CDT]
+- `Quentin Guilhot` [Master project, ETH]
+- `Alexia Duriez` [Master project, EPFL]
 
 <hr>
 <div class="pos_header">
