@@ -103,7 +103,7 @@ permalink: /team/
 <hr>
 <a href="https://neuralml.github.io/joinus/" target="_blank"><b>Join us!</b></a> <br>
 
-List of [NML alumni](/people/alumni).
+List of [NMLG alumni](/people/alumni).
 
 <hr>
 
