@@ -176,6 +176,22 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 ### Peer-reviewed conference/workshop posters
 
+_Back to the present: self-supervised learning in neocortical microcircuits_<br>
+Nejad KK, Anastasiades P, Hertäg L and Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2024 [selected for talk!]
+
+_Learning dynamics in the PFC can be explained by an external controller_<br>
+Pemberton J\*, Wojcik M\* and Costa RP [\* equal contributions]<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2024
+
+_Cholinergic control of cortical circuits for reinforcement learning_<br>
+Chevy Q, Hertäg L, Balazs R, Szadai Z, Costa RP and Kepecs A<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2024
+
+_Learning, selectivity, and robustness: an AI-inspired model of the cholinergic system_<br>
+Filipovica M, Nejad K, Greedy W, Zhu HW, Mellor J and Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2024
+
 _Back to the present: self-supervised learning across cortical layers_<br>
 Nejad KK, Hertäg L, Anastasiades P and Costa RP<br>
 Conference on Cognitive Computational Neuroscience (CCN), Oxford, Aug 2023
