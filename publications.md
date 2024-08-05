@@ -178,7 +178,7 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 _Back to the present: self-supervised learning in neocortical microcircuits_<br>
 Nejad KK, Anastasiades P, Hertäg L and Costa RP<br>
-Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2024 [selected for talk!]
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2024 [selected for [talk](https://youtu.be/rNPhkhJtCc8)!]
 
 _Learning dynamics in the PFC can be explained by an external controller_<br>
 Pemberton J\*, Wojcik M\* and Costa RP [\* equal contributions]<br>
