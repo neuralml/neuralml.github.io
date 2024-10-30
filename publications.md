@@ -24,10 +24,6 @@ BioRxiv:590916 [[Cosyne'24 talk](https://youtu.be/rNPhkhJtCc8)]
 Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
 BioRxiv:565503
 
-[_Cerebellar-driven cortical dynamics enable task acquisition, switching and consolidation_](https://doi.org/10.1101/2022.11.14.516257)<br>
-Pemberton J, Chadderton P and Costa RP<br>
-BioRxiv:516257
-
 [_Depression impairs metacognitive biases, but not learning_](https://psyarxiv.com/9a7y8/)<br>
 Sax AL, Baddeley R and Costa RP<br>
 PsyArXiv:10.31234/osf.io/9a7y8
@@ -37,6 +33,9 @@ PsyArXiv:10.31234/osf.io/9a7y8
 
 ### Journals and peer-reviewed proceedings
 
+[_Cerebellar-driven cortical dynamics can enable task acquisition, switching and consolidation_](https://doi.org/10.1101/2022.11.14.516257)<br>
+Pemberton J, Chadderton P and Costa RP<br>
+Nature Communications (to appear; BioRxiv:516257)
 
 [_BP(λ): Online learning via synthetic gradients_](https://openreview.net/forum?id=3kYgouAfqk)<br>
 Pemberton R and Costa RP<br>
