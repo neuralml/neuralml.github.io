@@ -16,8 +16,12 @@ permalink: /publications/
 
 ### Preprints
 
+[_A cortical microcircuit for region-specific credit assignment in reinforcement learning_](https://doi.org/10.1101/2024.10.15.618337)<br>
+Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Adam Kepecs<br>
+BioRxiv:618337
+
 [_Self-supervised predictive learning accounts for cortical layer-specificity_](https://doi.org/10.1101/2024.04.24.590916)<br>
-Nejad KK, Anastasiades P, Hertäg L\* and Costa RP\* [\* equal contributions]<br>
+Nejad KK, Anastasiades P, Hertäg L\* and Costa RP\* [\* equal supervision]<br>
 BioRxiv:590916 [[Cosyne'24 talk](https://youtu.be/rNPhkhJtCc8)]
 
 [_Hippocampal networks support reinforcement learning in partially observable environments_](https://doi.org/10.1101/2023.11.09.565503)<br>
