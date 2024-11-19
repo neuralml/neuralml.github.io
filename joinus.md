@@ -52,7 +52,7 @@ permalink: /joinus/
   <li><a href="https://www.ox.ac.uk/admissions/graduate/courses/dphil-physiology-anatomy-and-genetics" target="_blank">(Computational) Neuroscience DPhil (through DPAG; 3-4yr PhD)</a></li>
   <li><a href="https://www.ilesla.ox.ac.uk/" target="_blank">Interdisciplinary Life Science (ILESLA) program</a></li>
   <li><a href="https://www.bdi.ox.ac.uk/study/cdt" target="_blank">EPSRC Centre for Doctoral Training in Health Data Science</a></li>  
-  <li><a href="https://https://www.ox.ac.uk/admissions/graduate/courses/fundamentals-of-ai" target="_blank">Fundamentals of AI</a> [in collaboration w/ a supervisor based in MPLS]</li>
+  <li><a href="https://www.ox.ac.uk/admissions/graduate/courses/fundamentals-of-ai" target="_blank">Fundamentals of AI</a> [in collaboration w/ a supervisor based in MPLS]</li>
   <li><a href="https://oxcam.gpp.nih.gov/" target="_blank">NIH Oxford-Cambridge Scholars Program</a></li>
   <li><a href="https://www.medsci.ox.ac.uk/study/graduateschool/mrcdtp" target="_blank">Oxford-MRC Doctoral Training Partnership</a></li>
   <li><a href="https://www.ox.ac.uk/admissions/graduate/fees-and-funding/oxford-funding" target="_blank">Other Oxford Scholarships</a></li>
