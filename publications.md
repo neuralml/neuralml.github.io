@@ -41,13 +41,17 @@ PsyArXiv:10.31234/osf.io/9a7y8
 Pemberton J, Chadderton P and Costa RP<br>
 Nature Communications, 15, 10913, December 2024
 
-[_BP(λ): Online learning via synthetic gradients_](https://openreview.net/forum?id=3kYgouAfqk)<br>
-Pemberton R and Costa RP<br>
-Transactions on Machine Learning Research (TLMR), April 2024
+[_The short-term plasticity of VIP interneurons in motor cortex_](https://www.frontiersin.org/journals/synaptic-neuroscience/articles/10.3389/fnsyn.2024.1433977/full)<br>
+McFarlan AR, Gomez I, Chou CYC, Alcolado A, Costa RP and Sjöström PJ<br>
+Frontiers in Synaptic Neuroscience 16, 1433977, August 2024
 
 [_Distributional coding of associative learning in discrete populations of midbrain dopamine neurons_](https://doi.org/10.1016/j.celrep.2024.114080)<br>
 Avvisati R, Kaufmann AK, Young CJ, Portlock GE, Cancemi S, Costa RP, Magill PJ and Dodson PD<br>
 Cell Reports, 43, April 2024
+
+[_BP(λ): Online learning via synthetic gradients_](https://openreview.net/forum?id=3kYgouAfqk)<br>
+Pemberton R and Costa RP<br>
+Transactions on Machine Learning Research (TLMR), April 2024
 
 [_Cerebro-cerebellar networks facilitate learning through feedback decoupling_](https://doi.org/10.1038/s41467-022-35658-8)<br>
 Boven E\*, Pemberton J\*, Chadderton P, Apps R and Costa RP [\* equal contributions]<br>

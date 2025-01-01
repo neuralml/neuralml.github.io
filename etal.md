@@ -59,6 +59,7 @@ We share the code of (mostly) finished projects on our <b>[Github account](https
 
 ### Talks
 
+- Dreaming in brains and machines: (slowly) updating world models, Why Do We Dream?: A Multidisciplinary Symposium on Dreaming, Centre for the Creative Brain, St Edmunds Hall, Oxford, November 2024 [by Rui]
 - Brain-wide credit assignment: cortical and subcortical perspectives, Neurotheory Seminar, Columbia University, NY, US, March 2024 [by Rui]
 - Brain-wide credit assignment: cortical and subcortical perspectives, Neurotheory Seminar, NYU, NY, US, March 2024 [by Rui]
 - AI-driven hierarchical learning in cortical networks, Cosyne Workshop, Lisbon, Portugal, March 2024 [by Rui]
