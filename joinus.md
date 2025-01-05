@@ -12,7 +12,7 @@ permalink: /joinus/
 <header class="masthead text-justify" style="font-size:120%">
 <p>We <b> strongly encourage</b> applications from under-represented groups, such as women, racial and ethnic or any other minorities (we are a member of <a href="https://www.alba.network" target="_blank">ALBA</a>, a network for diversity in neuroscience). We believe in the power of diversity and in the creative solutions and welcoming enviroment that it creates. </p> 
 
-<p> You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. Please get in touch directly (<a href="mailto:PIfirstname.costa@dpag.ox.ac.uk">email</a>) if this sounds exciting!</p>
+<p> You will be working on AI-driven brain-wide credit assignment -- contributing to solving some of the most exciting and important problems in neuroscience. Get in touch directly (<a href="mailto:PIfirstname.costa@dpag.ox.ac.uk">email</a>) if this sounds exciting!</p>
 
 </header>
 
