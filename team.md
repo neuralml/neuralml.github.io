@@ -71,14 +71,13 @@ permalink: /team/
 <div class="pos_header">
 <h3>DPhil rotation/Master students</h3>
 </div>
-- `Angeliki Papathanasiou` [DPhil rotation, Health DS CDT]
-- `Milan Sobota` [DPhil rotation, BioDTP]
-- `Ben Ibbott` [DPhil rotation, BioDTP]
-- `Marius Urbonas` [DPhil rotation, SABS CDT]
-- `Iris Marmouset-De La Taille Tretin` [DPhil rotation, SABS CDT]
-- `Junde Wu` [DPhil rotation, SABS CDT]
-- `Quentin Guilhot` [Master project, ETH]
-- `Alexia Duriez` [Master project, EPFL]
+- `Jack Cook` [MSc in Neuro]
+- `Alex Voce` [MSc in Neuro]
+- `Marcus Mfuni` [MSc in Neuro]
+- `Mara Ivan` [MSc in Neuro]
+- `Patrick McCarthy` [DPhil rotation, BioDTP]
+- `Austin Andrews` [Health DataScience CDT]
+- `Oliver Maher` [Undergrad project]
 
 <hr>
 <div class="pos_header">
@@ -88,7 +87,7 @@ permalink: /team/
 (non-exhaustive)
 
 - `Randy Bruno`, `Andy Peters`, `Chris Summerfield`, `Armin Lak`, `Helen Barron`, `Clare Mackay`, `Tim Behrens` and several others [Neuro @ University of Oxford, UK]
-- `Yarin Gal` [ML @ University of Oxford, UK]
+- `Jacob Foerster` [ML @ University of Oxford, UK]
 - `Jack Mellor`, `Paul Anastasiades`, `Liz Coulthard`, `Paul Chadderton`, `Paul Dodson`, `Matt Jones`, `Jeff Bowers`, `Richard Apps` [Neuro @ University of Bristol, UK]
 - `Rob Froemke` [New York University, US]
 - `Adam Kepecs` [Washington University, US]

@@ -1,10 +1,10 @@
 ---
 name: Will Greedy
 title: Will Greedy
-position: gradstudent
+position: postdoc
 avatar: Will_Greedy.jpg
 joined: 2020
-affiliation: <span>[w/ Jack Mellor]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ visitor]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 

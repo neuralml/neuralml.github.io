@@ -1,10 +1,10 @@
 ---
 name: Dabal Pedamonti
 title: Dabal Pedamonti
-position: gradstudent
+position: postdoc
 avatar: DabalPedamonti.png
 joined: 2020
-affiliation: <span>[w/ Nathan Lepora]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[visitor]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 
