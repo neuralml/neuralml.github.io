@@ -2,7 +2,7 @@
 name: Iris Tretin
 title: Iris Tretin
 position: gradstudent
-avatar: 
+avatar: logo.png
 joined: 2024_2
 affiliation: <span>[w/ Simon Butt]</span><br>[Flor Iacaruso (Crick)]
 
