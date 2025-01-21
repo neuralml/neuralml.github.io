@@ -76,6 +76,17 @@ permalink: /people/alumni
 <div class="pos_header">
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
+
+<p><b>2023/2024</b>:</p>
+- `Angeliki Papathanasiou` [DPhil rotation, Health DS CDT]
+- `Milan Sobota` [DPhil rotation, BioDTP]
+- `Ben Ibbott` [DPhil rotation, BioDTP]
+- `Marius Urbonas` [DPhil rotation, SABS CDT]
+- `Iris Marmouset-De La Taille Tretin` [DPhil rotation, SABS CDT]
+- `Junde Wu` [DPhil rotation, SABS CDT]
+- `Quentin Guilhot` [Master project, ETH]
+- `Alexia Duriez` [Master project, EPFL]
+
 <p><b>2022/2023</b>:</p>
 - `Ayodya Samarawickrama` [undergrad]
 - `Robert Popescy` [undergrad]

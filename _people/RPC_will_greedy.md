@@ -4,7 +4,7 @@ title: Will Greedy
 position: postdoc
 avatar: Will_Greedy.jpg
 joined: 2020
-affiliation: <span>[w/ visitor]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[visitor]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 
