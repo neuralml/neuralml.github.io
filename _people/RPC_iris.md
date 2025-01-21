@@ -4,7 +4,7 @@ title: Iris Tretin
 position: gradstudent
 avatar: 
 joined: 2024_2
-affiliation: <span>[w/ Steve Kennerley]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Simon Butt]</span><br>[Flor Iacaruso (Crick)]
 
 ---
 
