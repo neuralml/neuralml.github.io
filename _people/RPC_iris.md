@@ -1,8 +1,8 @@
 ---
-name: Iris Marmouset-De La Taille Tretin
-title: Iris Marmouset-De La Taille Tretin
+name: Iris Tretin
+title: Iris Tretin
 position: gradstudent
-avatar: iris.png
+avatar: 
 joined: 2024_2
 affiliation: <span>[w/ Steve Kennerley]</span><br><span style="color:#FFFFFF">.</span>
 
