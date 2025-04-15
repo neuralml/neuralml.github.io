@@ -187,6 +187,18 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 ### Peer-reviewed conference/workshop posters
 
+_Unifying reward and error-driven learning: a theory of cerebello-basal ganglia interactions_<br>
+Garibbo M, Aitchison L and Costa RP (cancelled)<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Montreal, Mar 2025
+
+_Distinct roles of cortical layer 5 subtypes in associative learning_<br>
+Moberg S, Garibbo M, Mazo C, Gilad A, Schmitz D, Costa RP, Larkum ME and Takahashi N (cancelled)<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Montreal, Mar 2025
+
+_Can BTSP mediate credit assignment in the hippocampus?_<br>
+Cone I, Clopath C and Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Montreal, Mar 2025
+
 _Back to the present: self-supervised learning in neocortical microcircuits_<br>
 Nejad KK, Anastasiades P, Hertäg L and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2024 [selected for [talk](https://youtu.be/rNPhkhJtCc8)!]
