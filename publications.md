@@ -24,10 +24,6 @@ BioRxiv:631500
 Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
 BioRxiv:618337
 
-[_Self-supervised predictive learning accounts for cortical layer-specificity_](https://doi.org/10.1101/2024.04.24.590916)<br>
-Nejad KK, Anastasiades P, Hertäg L\* and Costa RP\* [\* equal supervision]<br>
-BioRxiv:590916 [[Cosyne'24 talk](https://youtu.be/rNPhkhJtCc8)]
-
 [_Hippocampal networks support reinforcement learning in partially observable environments_](https://doi.org/10.1101/2023.11.09.565503)<br>
 Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
 BioRxiv:565503
@@ -40,6 +36,10 @@ PsyArXiv:10.31234/osf.io/9a7y8
 <hr>
 
 ### Journals and peer-reviewed proceedings
+
+[_Self-supervised predictive learning accounts for cortical layer-specificity_](https://doi.org/10.1101/2024.04.24.590916)<br>
+Nejad KK, Anastasiades P, Hertäg L\* and Costa RP\* [\* equal supervision]<br>
+Nature Communications (to appear) [[Cosyne'24 talk](https://youtu.be/rNPhkhJtCc8)]
 
 [_Cerebellar-driven cortical dynamics can enable task acquisition, switching and consolidation_](https://www.nature.com/articles/s41467-024-55315-6)<br>
 Pemberton J, Chadderton P and Costa RP<br>
