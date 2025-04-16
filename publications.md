@@ -24,7 +24,7 @@ BioRxiv:631500
 Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
 BioRxiv:618337
 
-[_Hippocampal networks support reinforcement learning in partially observable environments_](https://doi.org/10.1101/2023.11.09.565503)<br>
+[_Hippocampus facilitates reinforcement learning in partially observable environments_](https://doi.org/10.1101/2023.11.09.565503)<br>
 Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
 BioRxiv:565503
 
