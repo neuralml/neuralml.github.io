@@ -26,7 +26,7 @@ Merchant Venturers Building<br>
 Woodland Road<br>
 Bristol, BS8 1UB, England, United Kingdom<br>-->
 
-_Group Leader_ <br>
+_Associate Professor & Principal Investigator_ <br>
 _Centre for Neural Circuits and Behaviour_<br>
 _Department of Physiology, Anatomy and Genetics_<br>
 _Oxford Neurotheory & Oxford Neuroscience_<br>
