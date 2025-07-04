@@ -37,9 +37,9 @@ PsyArXiv:10.31234/osf.io/9a7y8
 
 ### Journals and peer-reviewed proceedings
 
-[_Self-supervised predictive learning accounts for cortical layer-specificity_](https://doi.org/10.1101/2024.04.24.590916)<br>
+[_Self-supervised predictive learning accounts for cortical layer-specificity_](https://www.nature.com/articles/s41467-025-61399-5)<br>
 Nejad KK, Anastasiades P, Hertäg L\* and Costa RP\* [\* equal supervision]<br>
-Nature Communications (to appear) [[Cosyne'24 talk](https://youtu.be/rNPhkhJtCc8)]
+Nature Communications, 16, 6178, July 2025 [[Cosyne'24 talk](https://youtu.be/rNPhkhJtCc8)]
 
 [_Cerebellar-driven cortical dynamics can enable task acquisition, switching and consolidation_](https://www.nature.com/articles/s41467-024-55315-6)<br>
 Pemberton J, Chadderton P and Costa RP<br>
