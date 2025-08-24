@@ -24,10 +24,6 @@ BioRxiv:631500
 Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
 BioRxiv:618337
 
-[_Hippocampus facilitates reinforcement learning under partial observability_](https://doi.org/10.1101/2023.11.09.565503)<br>
-Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
-BioRxiv:565503
-
 [_Depression impairs metacognitive biases, but not learning_](https://psyarxiv.com/9a7y8/)<br>
 Sax AL, Baddeley R and Costa RP<br>
 PsyArXiv:10.31234/osf.io/9a7y8
@@ -36,6 +32,10 @@ PsyArXiv:10.31234/osf.io/9a7y8
 <hr>
 
 ### Journals and peer-reviewed proceedings
+
+[_Hippocampus facilitates reinforcement learning under partial observability_](https://doi.org/10.1101/2023.11.09.565503)<br>
+Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
+Nature Communications (to appear; BioRxiv:565503)
 
 [_Self-supervised predictive learning accounts for cortical layer-specificity_](https://www.nature.com/articles/s41467-025-61399-5)<br>
 Nejad KK, Anastasiades P, Hertäg L\* and Costa RP\* [\* equal supervision]<br>
