@@ -187,6 +187,27 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 ### Peer-reviewed conference/workshop posters
 
+
+_Multiencoder VAE for cross-subject alignment of brain responses_<br>
+Papathanasiou A, Achterberg J, Cone I, Nichols TE and Costa RP<br>
+Conference on Cognitive Computational Neuroscience (CCN), Netherlands, Aug 2025
+
+_Uncovering brain-wide planning strategies with deep RL: Lessons from the Tower of Hanoi_<br>
+Garibbo M\*, Andrews ATD\*, Achterberg J and Costa RP<br>
+Conference on Cognitive Computational Neuroscience (CCN), Netherlands, Aug 2025
+
+_Brain-like pathways form in models with heterogeneous experts_<br>
+Cook J, Akarca D, Costa RP\* and Achterberg J\*<br>
+Conference on Cognitive Computational Neuroscience (CCN), Netherlands, Aug 2025
+
+_Controlling PFC dynamics for slow and fast learning_<br>
+Wójcik MJ, Achterberg J, Pemberton JO and Costa RP<br>
+Conference on Cognitive Computational Neuroscience (CCN), Netherlands, Aug 2025
+
+_Excitatory-inhibitory cortical feedback enables hierarchical credit assignment_<br>
+Greedy W, Zhu HW, Pemberton J, Nejad KK, Mellor and Costa RP<br>
+Conference on Cognitive Computational Neuroscience (CCN), Netherlands, Aug 2025
+
 _Unifying reward and error-driven learning: a theory of cerebello-basal ganglia interactions_<br>
 Garibbo M, Aitchison L and Costa RP (cancelled)<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Montreal, Mar 2025
