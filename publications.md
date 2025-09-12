@@ -16,9 +16,22 @@ permalink: /publications/
 
 ### Preprints
 
+
+[_Learning shapes neural geometry in the prefrontal cortex_](https://doi.org/10.1101/2023.04.24.538054)<br>
+Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Myers NE, Costa RP, Hunt LT, Duncan J, Stokes MG
+BioRxiv:538054
+
+[_Brain-like processing pathways form in models with heterogeneous experts_](https://doi.org/10.48550/arXiv.2506.02813)<br>
+Cook J, Akarca D, Costa RP\* and Achterberg J\* [\* equal contributions]<br>
+arXiv:2506.02813
+
+[_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
+Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
+arXiv:2410.24070
+
 [_Distinct roles of cortical layer 5 subtypes in associative learning_](https://doi.org/10.1101/2025.01.07.631500)<br>
 Moberg S, Garibbo M, Mazo C, Gilad A, Schmitz D, Costa RP, Larkum ME and Takahashi N<br>
-BioRxiv:631500
+
 
 [_A cortical microcircuit for region-specific credit assignment in reinforcement learning_](https://doi.org/10.1101/2024.10.15.618337)<br>
 Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
