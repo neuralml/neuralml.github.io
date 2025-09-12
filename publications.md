@@ -31,7 +31,7 @@ arXiv:2410.24070
 
 [_Distinct roles of cortical layer 5 subtypes in associative learning_](https://doi.org/10.1101/2025.01.07.631500)<br>
 Moberg S, Garibbo M, Mazo C, Gilad A, Schmitz D, Costa RP, Larkum ME and Takahashi N<br>
-
+BioRxiv:631500
 
 [_A cortical microcircuit for region-specific credit assignment in reinforcement learning_](https://doi.org/10.1101/2024.10.15.618337)<br>
 Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
