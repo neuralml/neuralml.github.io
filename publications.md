@@ -18,7 +18,7 @@ permalink: /publications/
 
 
 [_Learning shapes neural geometry in the prefrontal cortex_](https://doi.org/10.1101/2023.04.24.538054)<br>
-Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Myers NE, Costa RP, Hunt LT, Duncan J, Stokes MG
+Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Myers NE, Costa RP, Hunt LT, Duncan J, Stokes MG<br>
 BioRxiv:538054
 
 [_Brain-like processing pathways form in models with heterogeneous experts_](https://doi.org/10.48550/arXiv.2506.02813)<br>
