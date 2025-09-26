@@ -21,10 +21,6 @@ permalink: /publications/
 Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Myers NE, Costa RP, Hunt LT, Duncan J, Stokes MG<br>
 BioRxiv:538054
 
-[_Brain-like processing pathways form in models with heterogeneous experts_](https://doi.org/10.48550/arXiv.2506.02813)<br>
-Cook J, Akarca D, Costa RP\* and Achterberg J\* [\* equal contributions]<br>
-arXiv:2506.02813
-
 [_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
 Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
 arXiv:2410.24070
@@ -49,6 +45,10 @@ PsyArXiv:10.31234/osf.io/9a7y8
 [_Hippocampus facilitates reinforcement learning under partial observability_](https://doi.org/10.1101/2023.11.09.565503)<br>
 Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
 Nature Communications (to appear; BioRxiv:565503)
+
+[_Brain-like processing pathways form in models with heterogeneous experts_](https://doi.org/10.48550/arXiv.2506.02813)<br>
+Cook J, Akarca D, Costa RP\* and Achterberg J\* [\* equal contributions]<br>
+Advances in Neural Information Processing Systems, 2025<br>
 
 [_Self-supervised predictive learning accounts for cortical layer-specificity_](https://www.nature.com/articles/s41467-025-61399-5)<br>
 Nejad KK, Anastasiades P, Hertäg L\* and Costa RP\* [\* equal supervision]<br>
@@ -77,7 +77,7 @@ Nature Communications, 14, 51, January 2023<br>
 
 [_Single-phase deep learning in cortico-cortical networks_](https://openreview.net/pdf?id=szt95rn-ql)<br>
 Greedy W\*, Zhu HW\*, Pemberton J, Mellor J and Costa RP [\* equal contributions]<br>
-Proceedings of 36th Neural Information Processing Systems, New Orleans, USA, 2022<br>[Selected for oral (<1% rate); 5min video [here](https://slideslive.com/38991008/singlephase-deep-learning-in-corticocortical-networks?ref=search-presentations-NeurIPS2021__53932__will-greedy-heng-wei-zhu-jos)]
+Advances in Neural Information Processing Systems, New Orleans, USA, 2022<br>[Selected for oral (<1% rate); 5min video [here](https://slideslive.com/38991008/singlephase-deep-learning-in-corticocortical-networks?ref=search-presentations-NeurIPS2021__53932__will-greedy-heng-wei-zhu-jos)]
 
 [_Developmental depression-to-facilitation shift controls excitation-inhibition balance_](https://www.nature.com/articles/s42003-022-03801-2)<br>
 Jia DW, Vogels TP\* and Costa RP\* [\* co-senior author]<br>
@@ -85,7 +85,7 @@ Communications Biology, 5, 873, August 2022
 
 [_Lost in latent space: disentangled models and the challenge of combinatorial generalisation_](https://arxiv.org/abs/2204.02283)<br>
 Montero ML, Bowers J, Costa RP, Ludwig C and Malhotra G <br>
-Proceedings of 36th Neural Information Processing Systems, New Orleans, USA, 2022
+Advances in Neural Information Processing Systems, New Orleans, USA, 2022
 
 [_Pre- and postsynaptically expressed STDP contribute differentially to neuronal learning_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009409)<br>
 Mizusaki BEP, Li SSY, Costa RP, Sjöström PJ<br>
@@ -98,7 +98,7 @@ Neurons, Behavior, Data Analysis and Theory (NBDT), April 2022
 
 [_Cortico-cerebellar networks as decoupling neural interfaces_](https://arxiv.org/abs/2110.11501)<br>
 Pemberton J\*, Boven E\*, Apps R and Costa RP [\* equal contributions]<br>
-Proceedings of 35th Neural Information Processing Systems, Sidney, Australia (Online), 2021<br>[[Top 30 paper out of ~9000 submissions](https://guoqiangwei.xyz/htmls/neurips2021/neurips2021_submissions.html)]<br>
+Advances in Neural Information Processing Systems, Sidney, Australia (Online), 2021<br>[[Top 30 paper out of ~9000 submissions](https://guoqiangwei.xyz/htmls/neurips2021/neurips2021_submissions.html)]<br>
 
 
 [_Learning offline: memory replay in biological and artificial reinforcement learning_](https://authors.elsevier.com/c/1dgZ4botpuX3Y)<br>
@@ -124,12 +124,12 @@ Current Opinion in Neurobiology, Volume 54, 2019
 
 [_Dendritic cortical microcircuits approximate the backpropagation algorithm_](https://papers.nips.cc/paper/8089-dendritic-cortical-microcircuits-approximate-the-backpropagation-algorithm)<br>
 Sacramento J, Costa RP, Bengio Y and Senn W<br>
-Proceedings of 32nd Neural Information Processing Systems, Montreal, Canada, 2018 <br>[selected for 1/30 orals out of 4800 submissions]<br>
+Advances in Neural Information Processing Systems, Montreal, Canada, 2018 <br>[selected for 1/30 orals out of 4800 submissions]<br>
 See also a more neurosciency version: [_Dendritic error backpropagation in deep cortical microcircuits_](https://arxiv.org/abs/1801.00062)
 
 [_Cortical microcircuits as gated-recurrent neural networks_](https://papers.nips.cc/paper/6631-cortical-microcircuits-as-gated-recurrent-neural-networks)<br>
 Costa RP\*, Assael YM\*, Shillingford B\*, Freitas N and Vogels TP [\* equal contribution]<br>
-Proceedings of 31st Neural Information Processing Systems, Long Beach, US, 2017 <br>[Highlighted by [MIT Tech Review](https://www.technologyreview.com/s/609463/the-best-of-the-physics-arxiv-week-ending-november-11-2017/); 3rd party code available [here](https://github.com/ixaxaar/pytorch-sublstm)]
+Advances in Neural Information Processing Systems, Long Beach, US, 2017 <br>[Highlighted by [MIT Tech Review](https://www.technologyreview.com/s/609463/the-best-of-the-physics-arxiv-week-ending-november-11-2017/); 3rd party code available [here](https://github.com/ixaxaar/pytorch-sublstm)]
   
 [_Differential regulation of evoked and spontaneous release by presynaptic NMDA receptors_](http://www.cell.com/neuron/fulltext/S0896-6273(17)30874-7)<br>
 Abrahamsson T, Chou CYC, Li Sally, Mancino A, Costa RP, Nuro E, Brock JA, Buchanan KA, Elgar D, Blackman AV, Tudor-Jones AA, Oyrer J, Farmer WT, Murai KK and Sjöström PJ<br>
