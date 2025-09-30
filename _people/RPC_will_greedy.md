@@ -2,7 +2,7 @@
 name: Will Greedy
 title: Will Greedy
 position: postdoc
-avatar: Will_Greedy.jpg
+avatar: Will_Greedy.png
 joined: 2020
 affiliation: <span><span style="color:#FFFFFF">.</span></span><br><span style="color:#FFFFFF">.</span>
 
