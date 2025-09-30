@@ -1,7 +1,7 @@
 ---
 name: Rui Ponte Costa
 position: pi
-avatar: RuiPonteCosta_bw.png
+avatar: RuiPonteCosta_full.png
 twitter: somnirons
 joined: 2018
 affiliation:
