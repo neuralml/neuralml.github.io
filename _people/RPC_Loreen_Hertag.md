@@ -3,7 +3,7 @@ name: Loreen Hertag
 title: Loreen Hertag
 position: postdoc
 avatar: Loreen_Hertag.png
-joined: 3_2022
+joined: 2022_3
 affiliation: <span>visitor<br>Technische Universität Berlin</span>
 ---
 
