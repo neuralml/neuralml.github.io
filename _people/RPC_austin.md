@@ -1,10 +1,10 @@
 ---
-name: Samia Mohinta
-title: Samia Mohinta
+name: Austin Andrews
+title: Austin Andrews
 position: gradstudent
-avatar: SamiaMohinta.png
-joined: 2022_1
-affiliation: visitor<br>[w/ Albert Cardona (Cambridge)]
+avatar: logo.png
+joined: 2025_3
+affiliation: <span>[w/ Laurence Hunt]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 
@@ -23,4 +23,3 @@ affiliation: visitor<br>[w/ Albert Cardona (Cambridge)]
 
 <header class="masthead text-justify" style="font-size:120%">
 
-I am a visitor/collaborator with the group and currently a Data scientist/PhD student at the Experimental and Comparative Connectomics Laboratory, MRC LMB, University of Cambridge.

@@ -1,10 +1,10 @@
 ---
 name: Maija Filipovica
 title: Maija Filipovica
-position: gradstudent
+position: postdoc
 avatar: Maija_Filipovica_bw.png
 joined: 2021_1
-affiliation: <span>[w/ Liz Coulthard]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span><span style="color:#FFFFFF">.</span></span><br><span style="color:#FFFFFF">.</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

@@ -71,6 +71,7 @@ permalink: /team/
 <div class="pos_header">
 <h3>DPhil rotation/Master students</h3>
 </div>
+- `Alex Andrews` [Undergrad project]
 - `Jack Cook` [MSc in Neuro]
 - `Alex Voce` [MSc in Neuro]
 - `Marcus Mfuni` [MSc in Neuro]
@@ -86,7 +87,7 @@ permalink: /team/
 
 (non-exhaustive)
 
-- `Randy Bruno`, `Andy Peters`, `Chris Summerfield`, `Armin Lak`, `Helen Barron`, `Clare Mackay`, `Tim Behrens` and several others [Neuro @ University of Oxford, UK]
+- `Randy Bruno`, `Andy Peters`, `Chris Summerfield`, `Armin Lak`, `Helen Barron`, `Simon Butt`, `Laurence Hunt` and several others [Neuro @ University of Oxford, UK]
 - `Jacob Foerster` [ML @ University of Oxford, UK]
 - `Jack Mellor`, `Paul Anastasiades`, `Liz Coulthard`, `Paul Chadderton`, `Paul Dodson`, `Matt Jones`, `Jeff Bowers`, `Richard Apps` [Neuro @ University of Bristol, UK]
 - `Rob Froemke` [New York University, US]
