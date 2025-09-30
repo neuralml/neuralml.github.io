@@ -2,7 +2,7 @@
 name: Maija Filipovica
 title: Maija Filipovica
 position: postdoc
-avatar: Maija_Filipovica_bw.png
+avatar: Maija_Filipovica_full.png
 joined: 2021
 affiliation: <span><span style="color:#FFFFFF">.</span></span><br><span style="color:#FFFFFF">.</span>
 ---
