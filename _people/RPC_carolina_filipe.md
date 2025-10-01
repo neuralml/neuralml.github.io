@@ -23,4 +23,4 @@ affiliation: visitor<br>[NOVA, Lisbon]
 
 <header class="masthead text-justify" style="font-size:120%">
 
-I am a visitor/collaborator with the group and currently a Data scientist/PhD student at the Experimental and Comparative Connectomics Laboratory, MRC LMB, University of Cambridge.
+Carolina holds a La Caixa PhD Fellowship.
