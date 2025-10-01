@@ -1,7 +1,7 @@
 ---
 name: Carolina Filipe
 title: Carolina Filipe
-position: phd
+position: gradstudent
 avatar: CarolinaFilipe.png
 joined: 2025
 affiliation: visitor<br>[NOVA, Lisbon]
