@@ -71,7 +71,7 @@ permalink: /team/
 <div class="pos_header">
 <h3>DPhil rotation/Master students</h3>
 </div>
-- `Alex Andrews` [FHS project]
+- `Alex Andrews` [Biomedical FHS project]
 - `Gabriel Ruault` [MSc Visitor, ENS]
 - `Tiago Thungerland` [MSc Visitor, ETH Zurich]
 - `Max Geisenheyner` [MSc Visitor, TU Munich]
