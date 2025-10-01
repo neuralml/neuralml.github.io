@@ -77,6 +77,16 @@ permalink: /people/alumni
 <h3>Rotation/MEng/BSc/MSc students</h3>
 </div>
 
+
+<p><b>2024/2025</b>:</p>
+- `Jack Cook` [MSc in Neuro]
+- `Alex Voce` [MSc in Neuro]
+- `Marcus Mfuni` [MSc in Neuro]
+- `Mara Ivan` [MSc in Neuro]
+- `Patrick McCarthy` [DPhil rotation, BioDTP]
+- `Austin Andrews` [Health DataScience CDT]
+- `Oliver Maher` [Undergrad project]
+
 <p><b>2023/2024</b>:</p>
 - `Angeliki Papathanasiou` [DPhil rotation, Health DS CDT]
 - `Milan Sobota` [DPhil rotation, BioDTP]

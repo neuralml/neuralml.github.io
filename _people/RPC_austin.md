@@ -2,7 +2,7 @@
 name: Austin Andrews
 title: Austin Andrews
 position: gradstudent
-avatar: logo.png
+avatar: Austin.png
 joined: 2025_3
 affiliation: <span>[w/ Laurence Hunt]</span><br><span style="color:#FFFFFF">.</span>
 

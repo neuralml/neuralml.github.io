@@ -71,14 +71,11 @@ permalink: /team/
 <div class="pos_header">
 <h3>DPhil rotation/Master students</h3>
 </div>
-- `Alex Andrews` [Undergrad project]
-- `Jack Cook` [MSc in Neuro]
-- `Alex Voce` [MSc in Neuro]
-- `Marcus Mfuni` [MSc in Neuro]
-- `Mara Ivan` [MSc in Neuro]
-- `Patrick McCarthy` [DPhil rotation, BioDTP]
-- `Austin Andrews` [Health DataScience CDT]
-- `Oliver Maher` [Undergrad project]
+- `Alex Andrews` [FHS project]
+- `Gabriel Ruault` [MSc Visitor, ENS]
+- `Tiago Thungerland` [MSc Visitor, ETH Zurich]
+- `Max Geisenheyner` [MSc Visitor, TU Munich]
+
 
 <hr>
 <div class="pos_header">
