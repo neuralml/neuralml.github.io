@@ -4,7 +4,7 @@ title: Jascha Achterberg
 position: postdoc
 avatar: Jascha_full.png
 joined: 2024
-affiliation: <span style="color:#FFFFFF">.</span><br><span style="color:#FFFFFF">.</span>
+affiliation: CDR Fellowship, St Johns<br><span style="color:#FFFFFF">.</span>
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
