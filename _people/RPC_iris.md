@@ -1,8 +1,8 @@
 ---
-name: Iris Tretin
-title: Iris Tretin
+name: Iris Marmouset-de la Taille
+title: Iris Marmouset-de la Taille
 position: gradstudent
-avatar: logo.png
+avatar: Iris.png
 joined: 2024_2
 affiliation: <span>[w/ Simon Butt]</span><br>[Flor Iacaruso (Crick)]
 

@@ -2,7 +2,7 @@
 name: Elene Lominadze
 title: Elene Lominadze
 position: gradstudent
-avatar: logo.png
+avatar: Elene.png
 joined: 2025_2
 affiliation: <span>[w/ Rafal Bogacz]</span><br><span style="color:#FFFFFF">.</span>
 

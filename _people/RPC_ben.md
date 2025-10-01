@@ -2,7 +2,7 @@
 name: Ben Ibbott
 title: Ben Ibbott
 position: gradstudent
-avatar: logo.png
+avatar: BenI.png
 joined: 2024_3
 affiliation: <span>[w/ Christoph Treiber]</span><br><span style="color:#FFFFFF">.</span>
 
