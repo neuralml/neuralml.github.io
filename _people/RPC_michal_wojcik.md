@@ -2,7 +2,7 @@
 name: Michał Wójcik
 title: Michał Wójcik
 position: postdoc
-avatar: Michal_bw.jpg
+avatar: Michal_full.png
 joined: 2023
 affiliation: <span style="color:#FFFFFF">.</span><br><span style="color:#FFFFFF">.</span>
 ---

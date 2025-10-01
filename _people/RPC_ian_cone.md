@@ -2,7 +2,7 @@
 name: Ian Cone
 title: Ian Cone
 position: postdoc
-avatar: Ian_bw.png
+avatar: Ian_full.png
 joined: 2024
 affiliation: <span style="color:#FFFFFF">.</span><br><span style="color:#FFFFFF">.</span>
 ---
