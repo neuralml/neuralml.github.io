@@ -4,7 +4,7 @@ title: Austin Andrews
 position: gradstudent
 avatar: Austin.png
 joined: 2025_3
-affiliation: <span>[w/ Laurence Hunt]</span><br><span style="color:#FFFFFF">Jakob Foester</span>
+affiliation: <span>[w/ Laurence Hunt,<br>Jakob Foester]</span>
 
 ---
 
