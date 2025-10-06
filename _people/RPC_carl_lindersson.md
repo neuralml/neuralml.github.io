@@ -4,7 +4,7 @@ title: Carl Lindersson
 position: gradstudent
 avatar: Carl_full.png
 joined: 2023_1
-affiliation: <span>[w/ Steve Kennerley]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Steve Kennerley (1st)]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 

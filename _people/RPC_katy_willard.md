@@ -4,7 +4,7 @@ title: Katherine Willard
 position: gradstudent
 avatar: Katy_bw.png
 joined: 2023_2
-affiliation: <span>[w/ Randy Bruno]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Randy Bruno (1st)]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 

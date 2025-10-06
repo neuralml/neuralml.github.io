@@ -4,7 +4,7 @@ title: Iris Marmouset-de la Taille
 position: gradstudent
 avatar: Iris.png
 joined: 2024_2
-affiliation: <span>[w/ Simon Butt,</span><br>Flor Iacaruso (Crick)]
+affiliation: <span>[w/ Simon Butt (2nd),</span><br>Flor Iacaruso (Crick)]
 
 ---
 

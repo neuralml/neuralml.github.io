@@ -4,7 +4,7 @@ title: Ben Ibbott
 position: gradstudent
 avatar: BenI.png
 joined: 2024_3
-affiliation: <span>[w/ Christoph Treiber]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Christoph Treiber (1st)]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 

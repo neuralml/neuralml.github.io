@@ -4,7 +4,7 @@ title: Patrick McCarthy
 position: gradstudent
 avatar: Patrick.png
 joined: 2025_4
-affiliation: <span>[w/ Armin Lak]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Armin Lak (2nd)]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 

@@ -4,7 +4,7 @@ title: Miklos Kralik
 position: gradstudent
 avatar: Miklos.png
 joined: 2025_1
-affiliation: <span>[w/ Andy Sharrot]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Andy Sharrot (1st)]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 

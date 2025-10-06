@@ -4,7 +4,7 @@ title: Angeliki Papathanasiou
 position: gradstudent
 avatar: Angeliki.png
 joined: 2024_1
-affiliation: <span>[w/ Tom Nicols]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: <span>[w/ Tom Nicols (2nd)]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 
