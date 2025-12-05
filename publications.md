@@ -44,7 +44,7 @@ PsyArXiv:10.31234/osf.io/9a7y8
 
 [_Hippocampus supports multi-task reinforcement learning under partial observability_](https://www.nature.com/articles/s41467-025-64591-9)<br>
 Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
-Nature Communications, 16, 9619, October 2025
+Nature Communications, 16, 9619, October 2025 [Highlighted by [Nature Neuroscience](https://www.nature.com/articles/s41593-025-02178-9)]
 
 [_Brain-like processing pathways form in models with heterogeneous experts_](https://doi.org/10.48550/arXiv.2506.02813)<br>
 Cook J, Akarca D, Costa RP\* and Achterberg J\* [\* equal contributions]<br>
