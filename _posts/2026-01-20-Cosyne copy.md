@@ -1,0 +1,7 @@
+---
+title: 6 posters and 2 talks at Cosyne'26
+categories: news
+description: 6 posters and 2 talks at Cosyne'26
+---
+
+Our group will be presenting 6 selected posters and a selected talk at [Cosyne'26](http://www.cosyne.org/). Rui will be also be giving a talk at one of the workshops.
