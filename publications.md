@@ -12,27 +12,6 @@ permalink: /publications/
 
 <!--[Google scholar citations profile]().-->
 
-<hr>
-
-### Preprints
-
-
-[_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
-Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
-arXiv:2410.24070
-
-[_Distinct roles of cortical layer 5 subtypes in associative learning_](https://doi.org/10.1101/2025.01.07.631500)<br>
-Moberg S, Garibbo M, Mazo C, Gilad A, Schmitz D, Costa RP, Larkum ME and Takahashi N<br>
-BioRxiv:631500
-
-[_A cortical microcircuit for region-specific credit assignment in reinforcement learning_](https://doi.org/10.1101/2024.10.15.618337)<br>
-Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
-BioRxiv:618337
-
-[_Depression impairs metacognitive biases, but not learning_](https://psyarxiv.com/9a7y8/)<br>
-Sax AL, Baddeley R and Costa RP<br>
-PsyArXiv:10.31234/osf.io/9a7y8
-
 
 <hr>
 
@@ -41,6 +20,10 @@ PsyArXiv:10.31234/osf.io/9a7y8
 [_Learning shapes neural geometry in the prefrontal cortex_](https://doi.org/10.1101/2023.04.24.538054)<br>
 Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Costa RP, Myers NE, Hunt LT, Duncan J, Stokes MG<br>
 Nature Neuroscience (to appear; BioRxiv:538054) 
+
+[_Distinct roles of cortical layer 5 subtypes in associative learning_](https://doi.org/10.1101/2025.01.07.631500)<br>
+Moberg S, Garibbo M, Mazo C, Gilad A, Schmitz D, Costa RP, Larkum ME and Takahashi N<br>
+Nature Communications (to appear; BioRxiv:631500)
 
 [_Hippocampus supports multi-task reinforcement learning under partial observability_](https://www.nature.com/articles/s41467-025-64591-9)<br>
 Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
@@ -194,6 +177,23 @@ Hervás R, Costa RP, Costa H, Gervás P and Pereira FC<br>
 Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br>
 [[code](http://student.dei.uc.pt/~racosta/jmapper)] 
 
+
+<hr>
+
+### Preprints
+
+
+[_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
+Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
+arXiv:2410.24070
+
+[_A cortical microcircuit for region-specific credit assignment in reinforcement learning_](https://doi.org/10.1101/2024.10.15.618337)<br>
+Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
+BioRxiv:618337
+
+[_Depression impairs metacognitive biases, but not learning_](https://psyarxiv.com/9a7y8/)<br>
+Sax AL, Baddeley R and Costa RP<br>
+PsyArXiv:10.31234/osf.io/9a7y8
 
 <hr>
 
