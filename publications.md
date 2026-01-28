@@ -17,10 +17,6 @@ permalink: /publications/
 ### Preprints
 
 
-[_Learning shapes neural geometry in the prefrontal cortex_](https://doi.org/10.1101/2023.04.24.538054)<br>
-Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Myers NE, Costa RP, Hunt LT, Duncan J, Stokes MG<br>
-BioRxiv:538054
-
 [_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
 Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
 arXiv:2410.24070
@@ -41,6 +37,10 @@ PsyArXiv:10.31234/osf.io/9a7y8
 <hr>
 
 ### Journals and peer-reviewed proceedings
+
+[_Learning shapes neural geometry in the prefrontal cortex_](https://doi.org/10.1101/2023.04.24.538054)<br>
+Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Costa RP, Myers NE, Hunt LT, Duncan J, Stokes MG<br>
+Nature Neuroscience (to appear; BioRxiv:538054) 
 
 [_Hippocampus supports multi-task reinforcement learning under partial observability_](https://www.nature.com/articles/s41467-025-64591-9)<br>
 Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
