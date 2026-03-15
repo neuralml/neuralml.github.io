@@ -4,7 +4,7 @@ title: Marcus Montague-Mfuni
 position: gradstudent
 avatar: Marcus.png
 joined: 2026_1
-affiliation: <span>[w/ Chris Summerfield (1st)]<br></span>
+affiliation: <span>[w/ Chris Summerfield (1st)]</span><br><span style="color:#FFFFFF">.</span>
 
 ---
 
