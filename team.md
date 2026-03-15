@@ -72,10 +72,10 @@ permalink: /team/
 <h3>DPhil rotation/Master students</h3>
 </div>
 - `Lilly May` [1+3 DPhil in Neuroscience, rotation]
-- `Alex Andrews` [Biomedical FHS project]
 - `Gabriel Ruault` [MSc Visitor, ENS]
 - `Tiago Hungerland` [MSc Visitor, ETH Zurich]
 - `Max Geisenheyner` [MSc Visitor, TU Munich]
+- `Alex Andrews` [FHS undergrad project]
 
 
 <hr>
