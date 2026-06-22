@@ -17,6 +17,10 @@ permalink: /publications/
 
 ### Journals and peer-reviewed proceedings
 
+[_Task-guided cross-subject latent alignment: a multi-encoder-decoder VAE_](https://arxiv.org/abs/2606.15989)<br>
+Papathanasiou A, Achterberg J, Nichols TE and Costa RP<br>
+Proceedings of Conference on Cognitive Computational Neuroscience (CCN), US, Aug 2026
+
 [_Learning shapes neural geometry in the prefrontal cortex_](https://doi.org/10.1101/2023.04.24.538054)<br>
 Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Costa RP, Myers NE, Hunt LT, Duncan J, Stokes MG<br>
 Nature Neuroscience (to appear; BioRxiv:538054) 
@@ -182,6 +186,9 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 ### Preprints
 
+[_Cell-type-specific cortical feedback coordinates hierarchical credit assignment_](https://doi.org/10.64898/2026.06.16.732595)<br>
+Greedy W, Zhu HW, Duriez A, Pemberton J, McCarthy PT, Nejad KK, and Costa RP<br>
+BioRxiv:618337
 
 [_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
 Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
@@ -200,6 +207,34 @@ PsyArXiv:10.31234/osf.io/9a7y8
 
 ### Peer-reviewed conference/workshop posters
 
+
+_Deep credit assignment accounts for SST’s role in cognitive resilience_<br>
+Duisberg B, Taille IM, Greedy W, Underwood S, Carlyle B and Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2026
+
+_Learning shapes PFC geometry for generalisation_<br>
+Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Costa RP, Myers NE, Hunt LT, Duncan J, Stokes MG<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2026
+
+_Modular cerebellar networks enable multi-task control of cortical dynamics_<br>
+Montague-Mfuni M, Wójcik M and Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2026
+
+_Controlling PFC dynamics for rapid learning and generalisation_<br>
+Wójcik M, Pemberton J, Achterberg J and Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2026
+
+_Striatal visual responses increase prior to visuomotor learning_<br>
+Marica AM, Achterberg J, Costa RP and Peters A<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2026
+
+_Cortical feedback circuits enable online hierarchical credit assignment_<br>
+Greedy W, Zhu HW, Duriez A, Pemberton J, McCarthy PT, Nejad KK, and Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2026
+
+__An optimization perspective on Behavioral Timescale Synaptic Plasticity_<br>
+Cone I, Friedenberger Z, Naud R and Costa RP<br>
+Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2026 (selected for talk)
 
 _Multiencoder VAE for cross-subject alignment of brain responses_<br>
 Papathanasiou A, Achterberg J, Cone I, Nichols TE and Costa RP<br>
