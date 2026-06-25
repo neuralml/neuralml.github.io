@@ -21,13 +21,13 @@ permalink: /publications/
 Papathanasiou A, Achterberg J, Nichols TE and Costa RP<br>
 Proceedings of Conference on Cognitive Computational Neuroscience (CCN), US, Aug 2026
 
-[_Learning shapes neural geometry in the prefrontal cortex_](https://doi.org/10.1101/2023.04.24.538054)<br>
+[_Learning shapes neural geometry in the prefrontal cortex_](https://www.nature.com/articles/s41593-026-02333-w)<br>
 Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Costa RP, Myers NE, Hunt LT, Duncan J, Stokes MG<br>
-Nature Neuroscience (to appear; BioRxiv:538054) 
+Nature Neuroscience, June 2026
 
-[_Distinct roles of cortical layer 5 subtypes in associative learning_](https://doi.org/10.1101/2025.01.07.631500)<br>
+[_Distinct roles of cortical layer 5 subtypes in associative learning_](https://www.nature.com/articles/s41467-026-68307-5)<br>
 Moberg S, Garibbo M, Mazo C, Gilad A, Schmitz D, Costa RP, Larkum ME and Takahashi N<br>
-Nature Communications (to appear; BioRxiv:631500)
+Nature Communications, 17, 2648, March 2026
 
 [_Hippocampus supports multi-task reinforcement learning under partial observability_](https://www.nature.com/articles/s41467-025-64591-9)<br>
 Pedamonti D\*, Mohinta S\*, Dimitrov M, Malagon-Vina H, Ciocchi S and Costa RP [\* equal contributions]<br>
