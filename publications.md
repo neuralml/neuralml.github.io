@@ -198,6 +198,10 @@ arXiv:2605.08019
 Garcia-Garcia MG, Wójcik MJ, Thota S, Drake L, Otchere A, Akinwale O, Costa RP, and Wagner MJ<br>
 BioRxiv:709240
 
+[_Credit assignment via behavioral timescale synaptic plasticity: theoretical frameworks_](https://doi.org/10.1101/2025.06.12.659336)<br>
+Cone I, Clopath C\*, and Costa RP\* (\* equal contribution)<br>
+BioRxiv:659336
+
 [_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
 Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
 arXiv:2410.24070
