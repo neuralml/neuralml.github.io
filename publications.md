@@ -194,6 +194,10 @@ BioRxiv:732595
 Csaba B\*, Kumar S\*, Andrews ATD, Hunt L, Summerfield C, Costa RP\*, Mattar MG\*, and Tomov M\* (\* equal contribution)<br>
 arXiv:2605.08019
 
+[_Granule cells reorient cortical manifolds to separate contexts but preserve their geometry_](https://doi.org/10.64898/2026.03.03.709240)<br>
+Garcia-Garcia MG, Wójcik MJ, Thota S, Drake L, Otchere A, Akinwale O, Costa RP, and Wagner MJ<br>
+BioRxiv:709240
+
 [_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
 Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
 arXiv:2410.24070
