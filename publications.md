@@ -244,7 +244,7 @@ _Cortical feedback circuits enable online hierarchical credit assignment_<br>
 Greedy W, Zhu HW, Duriez A, Pemberton J, McCarthy PT, Nejad KK, and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2026
 
-__An optimization perspective on Behavioral Timescale Synaptic Plasticity_<br>
+_An optimization perspective on Behavioral Timescale Synaptic Plasticity_<br>
 Cone I, Friedenberger Z, Naud R and Costa RP<br>
 Computational and Systems Neuroscience Meeting (CoSyNe), Lisbon, Mar 2026 (selected for talk)
 
