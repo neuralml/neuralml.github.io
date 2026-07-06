@@ -186,6 +186,10 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 ### Preprints
 
+[_Cell-type-specific cortical feedback coordinates hierarchical credit assignment_](https://doi.org/10.64898/2026.06.16.732595)<br>
+Greedy W, Zhu HW, Duriez A, Pemberton J, McCarthy PT, Nejad KK, and Costa RP<br>
+BioRxiv:732595
+
 [_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
 Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
 arXiv:2410.24070
