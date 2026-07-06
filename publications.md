@@ -186,22 +186,6 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 ### Preprints
 
-[_Cell-type-specific cortical feedback coordinates hierarchical credit assignment_](https://doi.org/10.64898/2026.06.16.732595)<br>
-Greedy W, Zhu HW, Duriez A, Pemberton J, McCarthy PT, Nejad KK, and Costa RP<br>
-BioRxiv:732595
-
-[_Reason to play: behavioral and brain alignment between frontier LRMs and human game learners_](https://arxiv.org/abs/2605.08019)<br>
-Csaba B\*, Kumar S\*, Andrews ATD , Hunt L, Summerfield C, Costa RP\*, Mattar MG\*, and Tomov M\* (\* equal contribution)<br>
-arXiv:2605.08019
-
-[_Granule cells reorient cortical manifolds to separate contexts but preserve their geometry_](https://doi.org/10.64898/2026.03.03.709240)<br>
-Garcia-Garcia MG, Wójcik MJ, Thota S, Drake L, Otchere A, Akinwale O, Costa RP, and Wagner MJ<br>
-BioRxiv:709240
-
-[_Credit assignment via behavioral timescale synaptic plasticity: theoretical frameworks_](https://doi.org/10.1101/2025.06.12.659336)<br>
-Cone I, Clopath C\*, Costa RP\* (\* equal contribution)<br>
-BioRxiv:659336
-
 [_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
 Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
 arXiv:2410.24070
@@ -552,7 +536,7 @@ Seventeenth Annual Computational Neuroscience Meeting CNS, July 2008
 
 <hr>
 
-<b>We have reviewed for:</b> Science, eLife, Neuron, PNAS, JNeurosci., Cosyne, NeurIPS, ICLR, ICML, TMLR, PLoS Comp. Bio., CONB, JPhysio,  Front. Comput. Neurosci., JComputational Neurosci. and PLoS One.
+<b>We have reviewed for:</b> Science, Nature Neuroscience, Nature Comms, eLife, Neuron, PNAS, JNeurosci., Cosyne, NeurIPS, ICLR, ICML, TMLR, PLoS Comp. Bio., CONB, JPhysio,  Front. Comput. Neurosci., JComputational Neurosci. and PLoS One.
 
 <hr>
 {% include footer.html %}
