@@ -17,6 +17,10 @@ permalink: /publications/
 
 ### Journals and peer-reviewed proceedings
 
+[_Granule cells reorient cortical manifolds to separate contexts but preserve their geometry_](https://doi.org/10.64898/2026.03.03.709240)<br>
+Garcia-Garcia MG, Wójcik MJ, Thota S, Drake L, Otchere A, Akinwale O, Costa RP, and Wagner MJ<br>
+Nature (accepted)
+
 [_Task-guided cross-subject latent alignment: a multi-encoder-decoder VAE_](https://arxiv.org/abs/2606.15989)<br>
 Papathanasiou A, Achterberg J, Nichols TE and Costa RP<br>
 Proceedings of Conference on Cognitive Computational Neuroscience (CCN), US, Aug 2026
@@ -193,10 +197,6 @@ BioRxiv:732595
 [_Reason to play: behavioral and brain alignment between frontier LRMs and human game learners_](https://arxiv.org/abs/2605.08019)<br>
 Csaba B\*, Kumar S\*, Andrews ATD, Hunt L, Summerfield C, Costa RP\*, Mattar MG\*, and Tomov M\* (\* equal contribution)<br>
 arXiv:2605.08019
-
-[_Granule cells reorient cortical manifolds to separate contexts but preserve their geometry_](https://doi.org/10.64898/2026.03.03.709240)<br>
-Garcia-Garcia MG, Wójcik MJ, Thota S, Drake L, Otchere A, Akinwale O, Costa RP, and Wagner MJ<br>
-BioRxiv:709240
 
 [_Credit assignment via behavioral timescale synaptic plasticity: theoretical frameworks_](https://doi.org/10.1101/2025.06.12.659336)<br>
 Cone I, Clopath C\*, and Costa RP\* (\* equal contribution)<br>
