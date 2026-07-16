@@ -17,13 +17,13 @@ permalink: /publications/
 
 ### Journals and peer-reviewed proceedings
 
-[_Granule cells reorient cortical manifolds to separate contexts but preserve their geometry_](https://doi.org/10.64898/2026.03.03.709240)<br>
+[_Granule cells reorient cortical manifolds to separate contexts_](https://doi.org/10.64898/2026.03.03.709240)<br>
 Garcia-Garcia MG, Wójcik MJ, Thota S, Drake L, Otchere A, Akinwale O, Costa RP, and Wagner MJ<br>
 Nature (accepted)
 
 [_Task-guided cross-subject latent alignment: a multi-encoder-decoder VAE_](https://arxiv.org/abs/2606.15989)<br>
 Papathanasiou A, Achterberg J, Nichols TE and Costa RP<br>
-Proceedings of Conference on Cognitive Computational Neuroscience (CCN), US, Aug 2026
+Proceedings of Conference on Cognitive Computational Neuroscience (CCN), US, Aug 2026 [selected for talk]
 
 [_Learning shapes neural geometry in the prefrontal cortex_](https://www.nature.com/articles/s41593-026-02333-w)<br>
 Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Costa RP, Myers NE, Hunt LT, Duncan J, Stokes MG<br>
