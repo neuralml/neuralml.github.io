@@ -12,6 +12,32 @@ permalink: /publications/
 
 <!--[Google scholar citations profile]().-->
 
+### Preprints
+
+[_Cell-type-specific cortical feedback coordinates hierarchical credit assignment_](https://doi.org/10.64898/2026.06.16.732595)<br>
+Greedy W, Zhu HW, Duriez A, Pemberton J, McCarthy PT, Nejad KK, and Costa RP<br>
+BioRxiv:732595
+
+[_Reason to play: behavioral and brain alignment between frontier LRMs and human game learners_](https://arxiv.org/abs/2605.08019)<br>
+Csaba B\*, Kumar S\*, Andrews ATD, Hunt L, Summerfield C, Costa RP\*, Mattar MG\*, and Tomov M\* (\* equal contribution)<br>
+arXiv:2605.08019
+
+[_Credit assignment via behavioral timescale synaptic plasticity: theoretical frameworks_](https://doi.org/10.1101/2025.06.12.659336)<br>
+Cone I, Clopath C\*, and Costa RP\* (\* equal contribution)<br>
+BioRxiv:659336
+
+[_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
+Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
+arXiv:2410.24070
+
+[_A cortical microcircuit for region-specific credit assignment in reinforcement learning_](https://doi.org/10.1101/2024.10.15.618337)<br>
+Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
+BioRxiv:618337
+
+[_Depression impairs metacognitive biases, but not learning_](https://psyarxiv.com/9a7y8/)<br>
+Sax AL, Baddeley R and Costa RP<br>
+PsyArXiv:10.31234/osf.io/9a7y8
+
 
 <hr>
 
@@ -188,33 +214,6 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 <hr>
 
-### Preprints
-
-[_Cell-type-specific cortical feedback coordinates hierarchical credit assignment_](https://doi.org/10.64898/2026.06.16.732595)<br>
-Greedy W, Zhu HW, Duriez A, Pemberton J, McCarthy PT, Nejad KK, and Costa RP<br>
-BioRxiv:732595
-
-[_Reason to play: behavioral and brain alignment between frontier LRMs and human game learners_](https://arxiv.org/abs/2605.08019)<br>
-Csaba B\*, Kumar S\*, Andrews ATD, Hunt L, Summerfield C, Costa RP\*, Mattar MG\*, and Tomov M\* (\* equal contribution)<br>
-arXiv:2605.08019
-
-[_Credit assignment via behavioral timescale synaptic plasticity: theoretical frameworks_](https://doi.org/10.1101/2025.06.12.659336)<br>
-Cone I, Clopath C\*, and Costa RP\* (\* equal contribution)<br>
-BioRxiv:659336
-
-[_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
-Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
-arXiv:2410.24070
-
-[_A cortical microcircuit for region-specific credit assignment in reinforcement learning_](https://doi.org/10.1101/2024.10.15.618337)<br>
-Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
-BioRxiv:618337
-
-[_Depression impairs metacognitive biases, but not learning_](https://psyarxiv.com/9a7y8/)<br>
-Sax AL, Baddeley R and Costa RP<br>
-PsyArXiv:10.31234/osf.io/9a7y8
-
-<hr>
 
 
 ### Peer-reviewed conference/workshop posters
