@@ -12,6 +12,8 @@ permalink: /publications/
 
 <!--[Google scholar citations profile]().-->
 
+<hr>
+
 ### Preprints
 
 [_Cell-type-specific cortical feedback coordinates hierarchical credit assignment_](https://doi.org/10.64898/2026.06.16.732595)<br>
