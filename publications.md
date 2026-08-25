@@ -16,8 +16,12 @@ permalink: /publications/
 
 ### Preprints
 
+[_Unifying error and reward action learning: a cerebello-basal ganglia theory_](https://doi.org/10.64898/2026.08.22.745751)<br>
+Garibbo M\*, Filipe C\*, Aitchison L and Costa RP (\* equal contribution)<br>
+BioRxiv:745751
+
 [_Cell-type-specific cortical feedback coordinates hierarchical credit assignment_](https://doi.org/10.64898/2026.06.16.732595)<br>
-Greedy W, Zhu HW, Duriez A, Pemberton J, McCarthy PT, Nejad KK, and Costa RP<br>
+Greedy W\*, Zhu HW\*, Duriez A, Pemberton J, McCarthy PT, Nejad KK, and Costa RP (\* equal contribution)<br>
 BioRxiv:732595
 
 [_Reason to play: behavioral and brain alignment between frontier LRMs and human game learners_](https://arxiv.org/abs/2605.08019)<br>
