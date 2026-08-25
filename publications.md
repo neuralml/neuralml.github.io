@@ -55,7 +55,7 @@ Nature (to appear)
 
 [_Task-guided cross-subject latent alignment: a multi-encoder-decoder VAE_](https://arxiv.org/abs/2606.15989)<br>
 Papathanasiou A, Achterberg J, Nichols TE and Costa RP<br>
-Proceedings of Conference on Cognitive Computational Neuroscience (CCN), US, Aug 2026 [selected for talk]
+Proceedings of Conf. on Cognitive Computational Neuroscience (CCN), US, Aug 2026 [selected for talk]
 
 [_Learning shapes neural geometry in the prefrontal cortex_](https://www.nature.com/articles/s41593-026-02333-w)<br>
 Wójcik MJ, Stroud JP, Wasmuht D, Kusunoki M, Kadohisa M, Buckley MJ, Costa RP, Myers NE, Hunt LT, Duncan J, Stokes MG<br>
