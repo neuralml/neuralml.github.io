@@ -14,7 +14,7 @@ permalink: /publications/
 
 <hr>
 
-### Preprints
+### Preprints (latest)
 
 [_Unifying error and reward action learning: a cerebello-basal ganglia theory_](https://doi.org/10.64898/2026.08.22.745751)<br>
 Garibbo M\*, Filipe C\*, Aitchison L and Costa RP (\* equal contribution)<br>
@@ -31,18 +31,6 @@ arXiv:2605.08019
 [_Credit assignment via behavioral timescale synaptic plasticity: theoretical frameworks_](https://doi.org/10.1101/2025.06.12.659336)<br>
 Cone I, Clopath C\*, and Costa RP\* (\* equal contribution)<br>
 BioRxiv:659336
-
-[_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
-Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
-arXiv:2410.24070
-
-[_A cortical microcircuit for region-specific credit assignment in reinforcement learning_](https://doi.org/10.1101/2024.10.15.618337)<br>
-Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
-BioRxiv:618337
-
-[_Depression impairs metacognitive biases, but not learning_](https://psyarxiv.com/9a7y8/)<br>
-Sax AL, Baddeley R and Costa RP<br>
-PsyArXiv:10.31234/osf.io/9a7y8
 
 
 <hr>
@@ -219,6 +207,20 @@ Proceedings of 6th Mexican International on Artificial Intelligence, Nov 2007<br
 
 
 <hr>
+
+### Preprints (older)
+
+[_Dynamical similarity analysis can identify compositional dynamics developing in RNNs_](https://doi.org/10.48550/arXiv.2410.24070)<br>
+Guilhot Q, Wójcik MJ, Achterberg J\* and Costa RP\* [\* equal contributions]<br>
+arXiv:2410.24070
+
+[_A cortical microcircuit for region-specific credit assignment in reinforcement learning_](https://doi.org/10.1101/2024.10.15.618337)<br>
+Chevy Q, Szadai Z, Hertäg L, Moll M, Gibson ET, Costa RP, Rozsa B and Kepecs A<br>
+BioRxiv:618337
+
+[_Depression impairs metacognitive biases, but not learning_](https://psyarxiv.com/9a7y8/)<br>
+Sax AL, Baddeley R and Costa RP<br>
+PsyArXiv:10.31234/osf.io/9a7y8
 
 
 
