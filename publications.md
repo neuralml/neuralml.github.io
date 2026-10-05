@@ -16,30 +16,31 @@ permalink: /publications/
 
 ### Preprints (latest)
 
-[_Unifying error and reward action learning: a cerebello-basal ganglia theory_](https://doi.org/10.64898/2026.08.22.745751)<br>
-Garibbo M\*, Filipe C\*, Aitchison L and Costa RP (\* equal contribution)<br>
-BioRxiv:745751
 
 [_Cell-type-specific cortical feedback coordinates hierarchical credit assignment_](https://doi.org/10.64898/2026.06.16.732595)<br>
 Greedy W\*, Zhu HW\*, Duriez A, Pemberton J, McCarthy PT, Nejad KK, and Costa RP (\* equal contribution)<br>
 BioRxiv:732595
-
-[_Reason to play: behavioral and brain alignment between frontier LRMs and human game learners_](https://arxiv.org/abs/2605.08019)<br>
-Csaba B\*, Kumar S\*, Andrews ATD, Hunt L, Summerfield C, Costa RP\*, Mattar MG\*, and Tomov M\* (\* equal contribution)<br>
-arXiv:2605.08019
-
-[_Credit assignment via behavioral timescale synaptic plasticity: theoretical frameworks_](https://doi.org/10.1101/2025.06.12.659336)<br>
-Cone I, Clopath C\*, and Costa RP\* (\* equal contribution)<br>
-BioRxiv:659336
 
 
 <hr>
 
 ### Journals and peer-reviewed proceedings
 
+[_Credit assignment via behavioral timescale synaptic plasticity: theoretical frameworks_](https://doi.org/10.1101/2025.06.12.659336)<br>
+Cone I, Clopath C\*, and Costa RP\* (\* equal contribution)<br>
+Nature Comms (to appear)
+
+[_Unifying error and reward action learning: a cerebello-basal ganglia theory_](https://doi.org/10.64898/2026.08.22.745751)<br>
+Garibbo M\*, Filipe C\*, Aitchison L and Costa RP (\* equal contribution)<br>
+eLife (to appear)
+
+[_Reason to play: behavioral and brain alignment between frontier LRMs and human game learners_](https://arxiv.org/abs/2605.08019)<br>
+Csaba B\*, Kumar S\*, Andrews ATD, Hunt L, Summerfield C, Costa RP\*, Mattar MG\*, and Tomov M\* (\* equal contribution)<br>
+Advances in Neural Information Processing Systems, 2026<br>
+
 [_Granule cells reorient cortical manifolds to separate contexts_](https://www.nature.com/articles/s41586-026-10946-1)<br>
 Garcia-Garcia MG, Wójcik MJ, Thota S, Drake L, Otchere A, Akinwale O, Costa RP, and Wagner MJ<br>
-Nature (to appear)
+Nature, August 2026 (preprint [here](https://www.biorxiv.org/content/10.64898/2026.03.03.709240v4))
 
 [_Task-guided cross-subject latent alignment: a multi-encoder-decoder VAE_](https://arxiv.org/abs/2606.15989)<br>
 Papathanasiou A, Achterberg J, Nichols TE and Costa RP<br>
