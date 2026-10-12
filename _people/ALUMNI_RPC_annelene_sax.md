@@ -4,7 +4,7 @@ title: Anne-Lene Sax
 position: alumni_ra
 avatar: AnneLene_Sax.png
 joined: 3_2018
-affiliation: <span>visitor</span><br>[now data scientist]
+affiliation: AI & Data Scientist<br>T-Systems International
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
