@@ -1,10 +1,10 @@
 ---
 name: Botos Csaba
 title: Botos Csaba
-position: postdoc
+position: alumni_ra
 avatar: Csabi.png
 joined: 2025
-affiliation: ENCODE AI fellowship<br><span style="color:#FFFFFF">.</span>
+affiliation: Senior Scientist<br>Google Deepmind
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -17,5 +17,7 @@ affiliation: ENCODE AI fellowship<br><span style="color:#FFFFFF">.</span>
 
 <b>{{page.affiliation}}</b>
 
+<header class="masthead text-justify" style="font-size:120%">
+Csabi was a ENCODE AI fellow with us in 2025-2026.
 
 <br><br>

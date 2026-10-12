@@ -1,10 +1,10 @@
 ---
 name: Ian Cone
 title: Ian Cone
-position: postdoc
+position: alumni_ra
 avatar: Ian_full.png
 joined: 2024
-affiliation: <span style="color:#FFFFFF">.</span><br><span style="color:#FFFFFF">.</span>
+affiliation: Assistant Prof<br>UT Southwestern
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
