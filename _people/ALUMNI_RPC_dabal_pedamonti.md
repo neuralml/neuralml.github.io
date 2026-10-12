@@ -1,10 +1,10 @@
 ---
 name: Dabal Pedamonti
 title: Dabal Pedamonti
-position: postdoc
+position: alumni_ra
 avatar: DabalPedamonti.png
 joined: 2020
-affiliation: <span><span style="color:#FFFFFF">.</span></span><br><span style="color:#FFFFFF">.</span>
+affiliation: Edge AI Engineer<br>Novomorphic
 
 ---
 
