@@ -85,9 +85,9 @@ permalink: /team/
 
 (non-exhaustive)
 
-- `Randy Bruno`, `Andy Peters`, `Chris Summerfield`, `Nima Khalighinejad`, `Armin Lak`, `Helen Barron`, `Simon Butt`, `Laurence Hunt` and several others [Neuro @ University of Oxford, UK]
-- `Jacob Foerster`, `Phill Torr` [ML @ University of Oxford, UK]
-- `Jack Mellor`, `Paul Anastasiades`, `Paul Chadderton`, `Paul Dodson`, `Jeff Bowers`, `Richard Apps` [Neuro @ University of Bristol, UK]
+- `Randy Bruno`, `Andy Peters`, `Chris Summerfield`, `Nima Khalighinejad`, `Armin Lak`, `Becky Carlyle`, `Simon Butt`, `Laurence Hunt` and several others [Neuro @ Oxford, UK]
+- `Jacob Foerster`, `Phill Torr` [AI @ Oxford, UK]
+- `Jack Mellor`, `Paul Anastasiades`, `Paul Chadderton` [Neuro @ University of Bristol, UK]
 - `Adam Kepecs` [Washington University, US]
 - `Mark Wagner` [NIH, US]
 
