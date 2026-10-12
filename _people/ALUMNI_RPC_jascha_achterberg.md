@@ -1,7 +1,7 @@
 ---
 name: Jascha Achterberg
 title: Jascha Achterberg
-position: postdoc
+position: alumni_ra
 avatar: Jascha_full.png
 joined: 2024
 affiliation: Co-founder & Assoc Prof<br> Callosum & UCambridge
