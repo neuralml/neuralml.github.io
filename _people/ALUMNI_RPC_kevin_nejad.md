@@ -1,10 +1,10 @@
 ---
 name: Kevin Kermani Nejad
 title: Kevin Kermani Nejad
-position: gradstudent
+position: alumni_phd
 avatar: KevinNejad.png
 joined: 2021_2
-affiliation: <span>[w/ Paul Anastasiades (2nd)]</span><br><span style="color:#FFFFFF">.</span>
+affiliation: Co-founder<br>AI startup
 
 ---
 
@@ -24,3 +24,5 @@ affiliation: <span>[w/ Paul Anastasiades (2nd)]</span><br><span style="color:#FF
 I am interested in understanding the computations performed by neocortical microcircuits. Specifically, my research focuses on how superficial and deep neocortical layers jointly learn a model of the world in a self-supervised way. My current project aims to develop a self-supervised model of neocortical microcircuit that explains neural activity in superficial and deep layers in visuomotor tasks. I complement this line of research with work on biologically plausible models of self-supervised multimodal learning and curiosity-based reinforcement learning.
 
 I completed my undergraduate degree in Computer Science at King’s College London and a MSc in Computational Applied Mathematics at the University of Edinburgh.
+
+Kevin was co-supervised by Paul Anastasiades and Loreen Hertag.
