@@ -94,11 +94,11 @@ permalink: /team/
 
 
 <hr>
-<h2>
+<h4>
 <center>
 <a href="https://neuralml.github.io/people/alumni" target="_blank"><b>NMLG alumni</b></a> <br>
 </center>
-</h2>
+</h4>
 
 <hr>
 
