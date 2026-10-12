@@ -94,9 +94,11 @@ permalink: /team/
 
 
 <hr>
+<center>
 <a href="https://neuralml.github.io/joinus/" target="_blank"><b>Join us!</b></a> <br>
 
-List of [NMLG alumni](/people/alumni).
+List of <b>[NMLG alumni](/people/alumni)</b>.
+</center>
 
 <hr>
 
