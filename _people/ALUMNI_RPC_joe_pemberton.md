@@ -3,7 +3,7 @@ name: Joe Pemberton
 position: alumni_ra
 avatar: Joe_Pemberton.png
 joined: 3_2019
-affiliation: Postdoc<br>Golub Lab (Washington Uni.)</span>
+affiliation: Postdoc<br>Golub Lab (Washington Uni.)
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
